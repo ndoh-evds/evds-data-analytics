@@ -1,0 +1,19 @@
+"province","health_sector","total_number_vaccines_administered_last_24_hours"
+"Eastern Cape","Private Health",18
+"Eastern Cape","Public Health",409
+"Free State","Private Health",38
+"Free State","Public Health",122
+"Gauteng","Private Health",1374
+"Gauteng","Public Health",2313
+"KwaZulu-Natal","Private Health",552
+"KwaZulu-Natal","Public Health",1682
+"Limpopo","Private Health",24
+"Limpopo","Public Health",82
+"Mpumalanga","Private Health",26
+"Mpumalanga","Public Health",960
+"Northern Cape","Private Health",200
+"Northern Cape","Public Health",286
+"North West","Private Health",8
+"North West","Public Health",2077
+"Western Cape","Private Health",132
+"Western Cape","Public Health",300
