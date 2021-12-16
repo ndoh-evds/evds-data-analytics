@@ -3,14 +3,15 @@
 "Mpumalanga","Private Health","2021-07-30",26
 "Mpumalanga","Public Health","2021-12-09",3736
 "Gauteng","Public Health","2021-10-10",1203
-"Gauteng","Public Health","2021-10-27",3651
+"Gauteng","Public Health","2021-10-27",3653
 "KwaZulu-Natal","Public Health","2021-06-04",2
-"North West","Public Health","2021-12-12",1033
+"North West","Public Health","2021-12-12",1034
 "Northern Cape","Private Health","2021-09-17",57
 "Northern Cape","Private Health","2021-09-30",56
+"KwaZulu-Natal","Public Health","2021-12-16",452
 "Gauteng","Private Health","2021-05-03",1835
 "Limpopo","Public Health","2021-03-16",776
-"KwaZulu-Natal","Public Health","2021-11-29",4715
+"KwaZulu-Natal","Public Health","2021-11-29",4716
 "KwaZulu-Natal","Public Health","2021-08-29",1124
 "Northern Cape","Public Health","2021-10-02",1083
 "Free State","Private Health","2021-10-28",244
@@ -28,13 +29,13 @@
 "Northern Cape","Public Health","2021-07-08",351
 "Northern Cape","Public Health","2021-08-07",636
 "Western Cape","Public Health","2021-07-26",4530
-"Gauteng","Public Health","2021-10-26",3547
+"Gauteng","Public Health","2021-10-26",3548
 "KwaZulu-Natal","Private Health","2021-07-31",132
 "Western Cape","Private Health","2021-06-16",4
 "Western Cape","Private Health","2021-11-17",291
 "North West","Private Health","2021-10-30",33
-"Free State","Public Health","2021-03-31",670
 "Free State","Private Health","2021-08-26",326
+"Free State","Public Health","2021-03-31",670
 "Free State","Private Health","2021-07-22",145
 "Gauteng","Public Health","2021-07-21",6538
 "KwaZulu-Natal","Public Health","2021-10-24",1586
@@ -51,14 +52,14 @@
 "KwaZulu-Natal","Private Health","2021-09-27",348
 "Northern Cape","Public Health","2021-09-27",256
 "Western Cape","Public Health","2021-11-17",1984
-"KwaZulu-Natal","Public Health","2021-11-20",2079
+"KwaZulu-Natal","Public Health","2021-11-20",2088
 "Mpumalanga","Private Health","2021-10-21",692
 "Limpopo","Private Health","2021-06-26",12
 "Western Cape","Private Health","2021-07-24",11
 "Eastern Cape","Public Health","2021-12-12",205
 "Western Cape","Private Health","2021-03-31",495
 "Gauteng","Private Health","2021-11-05",1560
-"Northern Cape","Private Health","2021-12-15",78
+"Northern Cape","Private Health","2021-12-15",80
 "Mpumalanga","Private Health","2021-09-03",1133
 "North West","Private Health","2021-11-26",139
 "Gauteng","Public Health","2021-05-15",88
@@ -115,15 +116,16 @@
 "Limpopo","Public Health","2021-10-23",612
 "Northern Cape","Public Health","2021-07-16",237
 "Free State","Public Health","2021-09-25",728
-"Gauteng","Private Health","2021-07-23",1547
+"Gauteng","Private Health","2021-07-23",1548
 "Mpumalanga","Private Health","2021-11-12",296
 "Northern Cape","Public Health","2021-08-30",973
 "Eastern Cape","Private Health","2021-07-06",13
 "Gauteng","Private Health","2021-08-14",136
 "Northern Cape","Public Health","2021-11-22",603
+"Northern Cape","Private Health","2021-12-16",19
 "North West","Public Health","2021-07-18",824
 "Mpumalanga","Private Health","2021-12-04",68
-"Gauteng","Private Health","2021-07-30",1816
+"Gauteng","Private Health","2021-07-30",1835
 "North West","Private Health","2021-12-08",219
 "Mpumalanga","Public Health","2021-09-19",18
 "Free State","Public Health","2021-05-05",313
@@ -132,6 +134,7 @@
 "KwaZulu-Natal","Public Health","2021-03-17",1133
 "Gauteng","Private Health","2021-02-23",480
 "Limpopo","Private Health","2021-03-12",335
+"Mpumalanga","Private Health","2021-12-16",24
 "Limpopo","Private Health","2021-08-24",1770
 "KwaZulu-Natal","Public Health","2021-10-18",5129
 "North West","Public Health","2021-10-22",5757
@@ -146,11 +149,12 @@
 "Northern Cape","Private Health","2021-12-11",27
 "Gauteng","Private Health","2021-11-19",1166
 "North West","Public Health","2021-12-05",1414
+"Limpopo","Private Health","2021-12-16",38
 "KwaZulu-Natal","Public Health","2021-08-10",9825
-"Gauteng","Private Health","2021-07-12",1108
+"Gauteng","Private Health","2021-07-12",1113
 "North West","Public Health","2021-02-24",1153
 "Limpopo","Public Health","2021-11-27",924
-"KwaZulu-Natal","Public Health","2021-12-04",1670
+"KwaZulu-Natal","Public Health","2021-12-04",1672
 "Western Cape","Private Health","2021-07-16",722
 "Mpumalanga","Private Health","2021-07-22",37
 "Gauteng","Public Health","2021-06-21",186
@@ -182,6 +186,7 @@
 "Gauteng","Public Health","2021-06-25",9796
 "Western Cape","Public Health","2021-05-31",76
 "Western Cape","Private Health","2021-02-17",1
+"Western Cape","Private Health","2021-12-16",40
 "Eastern Cape","Private Health","2021-08-13",1113
 "KwaZulu-Natal","Public Health","2021-04-26",1
 "Mpumalanga","Public Health","2021-11-09",4298
@@ -190,7 +195,7 @@
 "Limpopo","Public Health","2021-08-02",2591
 "North West","Private Health","2021-07-27",249
 "Eastern Cape","Private Health","2021-05-04",71
-"North West","Public Health","2021-07-02",1087
+"North West","Public Health","2021-07-02",1088
 "Free State","Public Health","2021-03-15",619
 "Gauteng","Public Health","2021-12-05",2835
 "Limpopo","Private Health","2021-08-01",2
@@ -208,6 +213,7 @@
 "Gauteng","Public Health","2021-02-17",32
 "North West","Public Health","2021-12-09",2615
 "KwaZulu-Natal","Public Health","2021-10-17",1965
+"North West","Private Health","2021-12-16",7
 "Free State","Public Health","2021-08-22",4
 "North West","Public Health","2021-11-16",2951
 "Eastern Cape","Private Health","2021-05-05",66
@@ -241,12 +247,12 @@
 "KwaZulu-Natal","Public Health","2021-05-09",1
 "Eastern Cape","Public Health","2021-07-29",8212
 "Mpumalanga","Public Health","2021-07-22",2171
-"Gauteng","Private Health","2021-07-21",2914
+"Gauteng","Private Health","2021-07-21",2936
 "Eastern Cape","Public Health","2021-08-03",5528
 "North West","Public Health","2021-07-17",744
 "Gauteng","Private Health","2021-06-23",689
 "Western Cape","Private Health","2021-09-24",54
-"Mpumalanga","Public Health","2021-12-15",2332
+"Mpumalanga","Public Health","2021-12-15",2353
 "Mpumalanga","Public Health","2021-03-25",753
 "Mpumalanga","Public Health","2021-07-10",58
 "Limpopo","Public Health","2021-09-29",9397
@@ -280,7 +286,7 @@
 "Gauteng","Private Health","2021-10-02",1218
 "North West","Private Health","2021-07-24",142
 "Western Cape","Public Health","2021-09-24",3
-"Eastern Cape","Public Health","2021-12-14",1844
+"Eastern Cape","Public Health","2021-12-14",1846
 "KwaZulu-Natal","Public Health","2021-04-08",713
 "North West","Private Health","2021-09-22",380
 "Gauteng","Public Health","2021-09-18",5725
@@ -293,7 +299,7 @@
 "North West","Public Health","2021-07-24",2376
 "Western Cape","Public Health","2021-11-27",611
 "Eastern Cape","Private Health","2021-06-24",1
-"Gauteng","Private Health","2021-07-08",2298
+"Gauteng","Private Health","2021-07-08",2299
 "Western Cape","Private Health","2021-05-13",1148
 "Free State","Private Health","2021-10-18",393
 "Eastern Cape","Public Health","2021-07-08",1662
@@ -446,8 +452,8 @@
 "Free State","Private Health","2021-11-03",214
 "Limpopo","Public Health","2021-12-10",3231
 "Western Cape","Public Health","2021-09-21",1668
-"KwaZulu-Natal","Public Health","2021-12-03",3879
-"Gauteng","Private Health","2021-07-28",2897
+"KwaZulu-Natal","Public Health","2021-12-03",3882
+"Gauteng","Private Health","2021-07-28",2902
 "Gauteng","Public Health","2021-07-10",114
 "North West","Public Health","2021-06-26",77
 "Northern Cape","Private Health","2021-08-20",53
@@ -502,6 +508,7 @@
 "North West","Private Health","2021-07-19",1
 "Free State","Public Health","2021-10-17",3
 "North West","Public Health","2021-07-06",412
+"Mpumalanga","Public Health","2021-12-16",163
 "Limpopo","Public Health","2021-10-17",1
 "Western Cape","Private Health","2021-09-05",1
 "Eastern Cape","Public Health","2021-10-18",4544
@@ -535,8 +542,8 @@
 "Mpumalanga","Private Health","2021-03-09",243
 "North West","Public Health","2021-08-20",3205
 "North West","Public Health","2021-05-14",41
-"Limpopo","Public Health","2021-03-24",781
 "Eastern Cape","Public Health","2021-06-08",1
+"Limpopo","Public Health","2021-03-24",781
 "Gauteng","Private Health","2021-11-20",338
 "North West","Public Health","2021-05-06",536
 "Gauteng","Public Health","2021-06-17",37
@@ -546,6 +553,7 @@
 "Northern Cape","Private Health","2021-10-23",23
 "Limpopo","Public Health","2021-11-25",2407
 "North West","Private Health","2021-11-11",237
+"Eastern Cape","Public Health","2021-12-16",52
 "Eastern Cape","Private Health","2021-09-01",1308
 "Mpumalanga","Public Health","2021-03-06",1
 "Northern Cape","Public Health","2021-09-04",681
@@ -642,7 +650,7 @@
 "Free State","Private Health","2021-11-23",242
 "Eastern Cape","Private Health","2021-09-27",309
 "KwaZulu-Natal","Public Health","2021-07-11",24
-"Gauteng","Public Health","2021-10-05",4988
+"Gauteng","Public Health","2021-10-05",4989
 "Western Cape","Private Health","2021-10-10",6
 "Gauteng","Public Health","2021-03-16",1708
 "Free State","Public Health","2021-08-08",211
@@ -792,7 +800,7 @@
 "Limpopo","Public Health","2021-08-24",11138
 "Gauteng","Private Health","2021-10-27",1384
 "Mpumalanga","Public Health","2021-10-02",6021
-"Mpumalanga","Public Health","2021-11-24",3529
+"Mpumalanga","Public Health","2021-11-24",3530
 "Mpumalanga","Public Health","2021-11-15",4301
 "Limpopo","Public Health","2021-03-20",1
 "Limpopo","Public Health","2021-03-15",19
@@ -809,7 +817,7 @@
 "KwaZulu-Natal","Public Health","2021-09-04",1350
 "Gauteng","Private Health","2021-03-23",2234
 "North West","Private Health","2021-09-03",653
-"Gauteng","Public Health","2021-12-10",4939
+"Gauteng","Public Health","2021-12-10",4940
 "North West","Private Health","2021-11-12",222
 "Western Cape","Public Health","2021-06-03",17
 "Western Cape","Public Health","2021-08-06",6699
@@ -832,19 +840,20 @@
 "Western Cape","Private Health","2021-08-19",736
 "Mpumalanga","Public Health","2021-07-18",3
 "Eastern Cape","Private Health","2021-11-04",326
+"Northern Cape","Public Health","2021-12-16",19
 "Mpumalanga","Public Health","2021-09-20",7042
 "Mpumalanga","Public Health","2021-06-21",50
 "Free State","Public Health","2021-07-27",3801
 "North West","Public Health","2021-02-26",550
 "Eastern Cape","Private Health","2021-04-28",256
-"Gauteng","Private Health","2021-07-29",2249
+"Gauteng","Private Health","2021-07-29",2250
 "KwaZulu-Natal","Private Health","2021-03-04",650
 "Western Cape","Private Health","2021-08-20",1553
-"North West","Private Health","2021-12-15",139
+"North West","Private Health","2021-12-15",143
 "Mpumalanga","Public Health","2021-10-22",7053
 "Northern Cape","Private Health","2021-09-29",46
 "Northern Cape","Public Health","2021-11-27",56
-"KwaZulu-Natal","Public Health","2021-09-16",4892
+"KwaZulu-Natal","Public Health","2021-09-16",4893
 "Mpumalanga","Public Health","2021-09-25",2249
 "Eastern Cape","Private Health","2021-04-01",135
 "Northern Cape","Private Health","2021-07-09",28
@@ -870,7 +879,7 @@
 "Mpumalanga","Private Health","2021-10-23",120
 "Western Cape","Private Health","2021-07-22",623
 "Eastern Cape","Public Health","2021-05-16",18
-"Gauteng","Private Health","2021-09-27",1922
+"Gauteng","Private Health","2021-09-27",1923
 "Free State","Public Health","2021-09-06",1640
 "North West","Private Health","2021-10-03",12
 "KwaZulu-Natal","Private Health","2021-10-19",491
@@ -881,7 +890,7 @@
 "Western Cape","Public Health","2021-03-12",938
 "Eastern Cape","Public Health","2021-03-23",1225
 "Limpopo","Private Health","2021-11-01",148
-"Western Cape","Private Health","2021-12-15",278
+"Western Cape","Private Health","2021-12-15",280
 "Gauteng","Public Health","2021-08-16",8675
 "Eastern Cape","Private Health","2021-03-17",244
 "KwaZulu-Natal","Private Health","2021-11-03",327
@@ -898,12 +907,12 @@
 "Eastern Cape","Private Health","2021-08-26",1338
 "Gauteng","Public Health","2021-05-20",312
 "North West","Private Health","2021-12-13",132
-"Gauteng","Private Health","2021-07-15",1936
+"Gauteng","Private Health","2021-07-15",1937
 "KwaZulu-Natal","Private Health","2021-09-06",458
 "Free State","Public Health","2021-07-29",4669
 "Eastern Cape","Public Health","2021-11-08",2875
-"Mpumalanga","Public Health","2021-09-13",5746
 "Western Cape","Public Health","2021-07-06",4440
+"Mpumalanga","Public Health","2021-09-13",5746
 "Northern Cape","Public Health","2021-08-22",210
 "Eastern Cape","Public Health","2021-10-29",4611
 "Eastern Cape","Private Health","2021-07-08",114
@@ -919,6 +928,7 @@
 "Western Cape","Public Health","2021-06-14",21
 "Limpopo","Private Health","2021-09-22",1216
 "Gauteng","Public Health","2021-09-29",3510
+"Free State","Public Health","2021-12-16",5
 "Northern Cape","Public Health","2021-05-23",2
 "North West","Private Health","2021-11-21",1
 "Free State","Private Health","2021-09-08",330
@@ -937,7 +947,7 @@
 "Eastern Cape","Public Health","2021-11-14",2733
 "Limpopo","Public Health","2021-03-21",1
 "Eastern Cape","Private Health","2021-09-06",1002
-"Eastern Cape","Public Health","2021-12-15",1606
+"Eastern Cape","Public Health","2021-12-15",1625
 "Gauteng","Private Health","2021-06-30",1368
 "KwaZulu-Natal","Private Health","2021-09-16",846
 "Mpumalanga","Private Health","2021-07-09",41
@@ -945,11 +955,11 @@
 "Eastern Cape","Public Health","2021-09-24",662
 "KwaZulu-Natal","Public Health","2021-07-07",4995
 "Eastern Cape","Private Health","2021-09-30",169
-"Limpopo","Private Health","2021-12-15",342
+"Limpopo","Private Health","2021-12-15",353
 "KwaZulu-Natal","Public Health","2021-06-26",61
 "Eastern Cape","Public Health","2021-08-24",7424
 "Northern Cape","Public Health","2021-12-11",114
-"North West","Public Health","2021-08-10",1878
+"North West","Public Health","2021-08-10",1879
 "Free State","Public Health","2021-08-23",2379
 "Western Cape","Private Health","2021-10-24",4
 "Free State","Public Health","2021-11-18",2806
@@ -1007,15 +1017,15 @@
 "KwaZulu-Natal","Public Health","2021-09-17",6292
 "Mpumalanga","Public Health","2021-03-26",488
 "Limpopo","Public Health","2021-07-06",25
-"KwaZulu-Natal","Public Health","2021-12-15",1798
+"KwaZulu-Natal","Public Health","2021-12-15",1912
 "KwaZulu-Natal","Public Health","2021-07-26",13469
 "Mpumalanga","Public Health","2021-09-11",1939
 "Western Cape","Public Health","2021-05-20",6
 "Western Cape","Public Health","2021-06-02",6
 "Eastern Cape","Private Health","2021-10-28",295
-"Gauteng","Public Health","2021-11-10",3616
+"Gauteng","Public Health","2021-11-10",3617
 "Eastern Cape","Public Health","2021-08-30",5919
-"KwaZulu-Natal","Public Health","2021-12-12",763
+"KwaZulu-Natal","Public Health","2021-12-12",782
 "Mpumalanga","Private Health","2021-04-01",112
 "North West","Public Health","2021-06-15",1
 "Free State","Public Health","2021-07-08",661
@@ -1066,8 +1076,8 @@
 "Northern Cape","Public Health","2021-11-10",928
 "North West","Public Health","2021-10-16",4528
 "Western Cape","Public Health","2021-09-01",3604
-"Gauteng","Public Health","2021-10-30",2807
-"Limpopo","Private Health","2021-03-01",10
+"Gauteng","Public Health","2021-10-30",2811
+"Limpopo","Private Health","2021-03-01",11
 "Limpopo","Public Health","2021-07-18",1
 "Northern Cape","Public Health","2021-02-17",20
 "Free State","Private Health","2021-11-05",203
@@ -1080,12 +1090,12 @@
 "North West","Public Health","2021-02-21",726
 "Gauteng","Private Health","2021-10-10",292
 "North West","Private Health","2021-09-02",520
-"North West","Public Health","2021-06-25",4557
+"North West","Public Health","2021-06-25",4558
 "KwaZulu-Natal","Private Health","2021-03-24",899
 "Mpumalanga","Private Health","2021-11-15",193
 "Gauteng","Private Health","2021-05-04",680
-"Free State","Public Health","2021-07-20",2125
 "KwaZulu-Natal","Public Health","2021-10-09",2372
+"Free State","Public Health","2021-07-20",2125
 "KwaZulu-Natal","Public Health","2021-11-19",3143
 "Eastern Cape","Public Health","2021-06-25",7617
 "Gauteng","Public Health","2021-10-17",1519
@@ -1115,6 +1125,7 @@
 "North West","Public Health","2021-06-14",1
 "Eastern Cape","Private Health","2021-04-07",145
 "Mpumalanga","Private Health","2021-10-22",822
+"Gauteng","Private Health","2021-12-16",267
 "Gauteng","Public Health","2021-06-11",10
 "Mpumalanga","Private Health","2021-11-27",59
 "Free State","Private Health","2021-03-03",101
@@ -1123,7 +1134,7 @@
 "Limpopo","Private Health","2021-07-09",36
 "Limpopo","Private Health","2021-07-07",5
 "North West","Public Health","2021-04-30",264
-"Gauteng","Private Health","2021-07-09",2140
+"Gauteng","Private Health","2021-07-09",2141
 "North West","Public Health","2021-02-18",270
 "Western Cape","Public Health","2021-12-09",2647
 "Mpumalanga","Public Health","2021-07-21",1840
@@ -1137,11 +1148,11 @@
 "Northern Cape","Private Health","2021-09-09",61
 "Gauteng","Public Health","2021-08-26",7247
 "Gauteng","Private Health","2021-04-01",268
-"Gauteng","Public Health","2021-11-02",3829
+"Gauteng","Public Health","2021-11-02",3830
 "Western Cape","Public Health","2021-06-08",29
 "Northern Cape","Private Health","2021-11-08",203
 "Free State","Public Health","2021-05-13",1214
-"Gauteng","Public Health","2021-12-14",5140
+"Gauteng","Public Health","2021-12-14",5151
 "Eastern Cape","Private Health","2021-03-08",180
 "Free State","Private Health","2021-07-27",190
 "Free State","Private Health","2021-12-01",270
@@ -1149,7 +1160,7 @@
 "Mpumalanga","Private Health","2021-05-13",1
 "Limpopo","Private Health","2021-07-22",345
 "Western Cape","Public Health","2021-09-15",3598
-"KwaZulu-Natal","Public Health","2021-10-19",6939
+"KwaZulu-Natal","Public Health","2021-10-19",6940
 "North West","Public Health","2021-10-28",3694
 "Limpopo","Public Health","2021-11-16",3321
 "North West","Public Health","2021-08-31",5154
@@ -1163,7 +1174,7 @@
 "Gauteng","Private Health","2021-09-18",504
 "Eastern Cape","Public Health","2021-12-09",3011
 "KwaZulu-Natal","Public Health","2021-08-04",12472
-"KwaZulu-Natal","Public Health","2021-12-01",4389
+"KwaZulu-Natal","Public Health","2021-12-01",4391
 "Mpumalanga","Public Health","2021-08-13",1966
 "Western Cape","Private Health","2021-09-20",1251
 "Limpopo","Public Health","2021-12-08",4567
@@ -1193,6 +1204,7 @@
 "Eastern Cape","Public Health","2021-04-01",931
 "Limpopo","Private Health","2021-11-16",486
 "North West","Public Health","2021-07-22",3469
+"North West","Public Health","2021-12-16",696
 "Gauteng","Private Health","2021-10-07",2146
 "Western Cape","Private Health","2021-07-28",849
 "Western Cape","Public Health","2021-10-04",1851
@@ -1218,7 +1230,7 @@
 "Northern Cape","Public Health","2021-05-07",194
 "Gauteng","Private Health","2021-08-17",1828
 "Northern Cape","Private Health","2021-08-17",10
-"Mpumalanga","Private Health","2021-12-15",164
+"Mpumalanga","Private Health","2021-12-15",184
 "Northern Cape","Public Health","2021-11-01",912
 "Limpopo","Public Health","2021-08-04",5190
 "Eastern Cape","Private Health","2021-08-27",1380
@@ -1296,15 +1308,15 @@
 "Western Cape","Private Health","2021-10-19",1191
 "Mpumalanga","Public Health","2021-09-17",6094
 "Gauteng","Private Health","2021-09-03",3591
-"Gauteng","Public Health","2021-10-19",5118
+"Gauteng","Public Health","2021-10-19",5119
 "Mpumalanga","Private Health","2021-09-27",562
 "North West","Private Health","2021-12-01",283
 "Mpumalanga","Public Health","2021-09-24",1761
 "North West","Private Health","2021-09-17",671
 "Northern Cape","Private Health","2021-08-12",27
 "Gauteng","Private Health","2021-10-09",667
-"Gauteng","Public Health","2021-11-01",6462
-"Mpumalanga","Public Health","2021-05-04",169
+"Gauteng","Public Health","2021-11-01",6463
+"Mpumalanga","Public Health","2021-05-04",170
 "Western Cape","Private Health","2021-08-01",6
 "Gauteng","Public Health","2021-07-05",2724
 "KwaZulu-Natal","Private Health","2021-09-15",637
@@ -1323,7 +1335,7 @@
 "Western Cape","Public Health","2021-10-07",3348
 "Mpumalanga","Public Health","2021-10-16",1920
 "Eastern Cape","Private Health","2021-10-27",285
-"Gauteng","Private Health","2021-12-14",1434
+"Gauteng","Private Health","2021-12-14",1437
 "Gauteng","Public Health","2021-05-18",742
 "North West","Public Health","2021-03-05",448
 "North West","Public Health","2021-10-03",6510
@@ -1381,7 +1393,7 @@
 "KwaZulu-Natal","Private Health","2021-12-07",220
 "Limpopo","Public Health","2021-11-21",1
 "Eastern Cape","Public Health","2021-04-21",1
-"Eastern Cape","Private Health","2021-12-15",255
+"Eastern Cape","Private Health","2021-12-15",270
 "Limpopo","Public Health","2021-11-15",3521
 "Gauteng","Public Health","2021-05-14",2378
 "Mpumalanga","Public Health","2021-07-13",1131
@@ -1401,7 +1413,7 @@
 "Limpopo","Public Health","2021-04-28",2
 "Eastern Cape","Public Health","2021-11-18",3990
 "Northern Cape","Public Health","2021-06-26",105
-"Limpopo","Public Health","2021-12-12",3
+"Limpopo","Public Health","2021-12-12",19
 "Free State","Public Health","2021-08-11",2019
 "Western Cape","Private Health","2021-07-25",5
 "Eastern Cape","Public Health","2021-05-27",1
@@ -1415,7 +1427,7 @@
 "Mpumalanga","Private Health","2021-11-10",361
 "Mpumalanga","Public Health","2021-11-07",177
 "Free State","Public Health","2021-04-08",501
-"KwaZulu-Natal","Public Health","2021-12-02",4237
+"KwaZulu-Natal","Public Health","2021-12-02",4254
 "Gauteng","Public Health","2021-04-15",1
 "Gauteng","Private Health","2021-05-12",4435
 "Northern Cape","Public Health","2021-11-25",1191
@@ -1448,7 +1460,7 @@
 "Mpumalanga","Public Health","2021-08-09",1632
 "KwaZulu-Natal","Public Health","2021-03-23",1114
 "Mpumalanga","Public Health","2021-05-21",2
-"KwaZulu-Natal","Public Health","2021-12-09",3147
+"KwaZulu-Natal","Public Health","2021-12-09",3170
 "Free State","Private Health","2021-09-30",254
 "Gauteng","Private Health","2021-06-12",1
 "Free State","Public Health","2021-12-02",2761
@@ -1469,7 +1481,7 @@
 "Mpumalanga","Public Health","2021-09-04",2124
 "Limpopo","Public Health","2021-10-08",8136
 "Gauteng","Public Health","2021-06-16",8
-"KwaZulu-Natal","Public Health","2021-12-05",1274
+"KwaZulu-Natal","Public Health","2021-12-05",1275
 "Free State","Private Health","2021-07-08",1
 "Mpumalanga","Private Health","2021-04-13",44
 "Mpumalanga","Public Health","2021-09-29",6117
@@ -1479,6 +1491,7 @@
 "Limpopo","Public Health","2021-10-19",9472
 "Limpopo","Public Health","2021-09-04",124
 "Eastern Cape","Private Health","2021-08-17",776
+"Limpopo","Public Health","2021-12-16",944
 "Eastern Cape","Private Health","2021-08-25",1499
 "Eastern Cape","Private Health","2021-11-30",624
 "Mpumalanga","Public Health","2021-07-19",881
@@ -1498,7 +1511,7 @@
 "Western Cape","Public Health","2021-06-07",32
 "Western Cape","Public Health","2021-12-12",81
 "Northern Cape","Private Health","2021-05-07",66
-"Gauteng","Public Health","2021-07-14",2607
+"Gauteng","Public Health","2021-07-14",2609
 "KwaZulu-Natal","Private Health","2021-10-22",384
 "Free State","Public Health","2021-10-13",4807
 "Free State","Public Health","2021-09-04",1152
@@ -1507,7 +1520,7 @@
 "Western Cape","Public Health","2021-10-05",2142
 "North West","Private Health","2021-10-29",265
 "North West","Private Health","2021-07-29",231
-"Gauteng","Public Health","2021-12-09",5179
+"Gauteng","Public Health","2021-12-09",5180
 "Free State","Public Health","2021-02-27",304
 "Mpumalanga","Public Health","2021-07-08",638
 "Gauteng","Public Health","2021-08-05",14231
@@ -1548,7 +1561,7 @@
 "Northern Cape","Public Health","2021-05-14",420
 "Gauteng","Private Health","2021-09-06",2821
 "KwaZulu-Natal","Public Health","2021-08-31",6882
-"Gauteng","Private Health","2021-08-10",1287
+"Gauteng","Private Health","2021-08-10",1289
 "Limpopo","Private Health","2021-09-16",1186
 "Northern Cape","Private Health","2021-09-02",36
 "Gauteng","Private Health","2021-10-22",3910
@@ -1564,7 +1577,7 @@
 "Limpopo","Private Health","2021-09-09",1263
 "Free State","Private Health","2021-12-08",252
 "Eastern Cape","Private Health","2021-07-15",276
-"Limpopo","Private Health","2021-07-16",447
+"Limpopo","Private Health","2021-07-16",448
 "Free State","Public Health","2021-10-16",591
 "North West","Public Health","2021-05-05",372
 "Mpumalanga","Public Health","2021-08-15",2
@@ -1584,7 +1597,7 @@
 "Eastern Cape","Private Health","2021-08-29",9
 "Limpopo","Private Health","2021-11-24",428
 "KwaZulu-Natal","Private Health","2021-09-22",403
-"KwaZulu-Natal","Public Health","2021-10-08",5334
+"KwaZulu-Natal","Public Health","2021-10-08",5336
 "Free State","Public Health","2021-03-03",711
 "Eastern Cape","Private Health","2021-02-21",228
 "Eastern Cape","Private Health","2021-05-14",198
@@ -1618,7 +1631,7 @@
 "North West","Public Health","2021-09-21",6630
 "Eastern Cape","Private Health","2021-10-08",278
 "Limpopo","Public Health","2021-08-27",9815
-"Western Cape","Public Health","2021-11-22",1241
+"Western Cape","Public Health","2021-11-22",1242
 "Mpumalanga","Public Health","2021-03-03",498
 "Western Cape","Private Health","2021-08-17",469
 "North West","Public Health","2021-04-07",366
@@ -1627,6 +1640,7 @@
 "Northern Cape","Public Health","2021-10-13",968
 "Free State","Public Health","2021-10-27",4813
 "KwaZulu-Natal","Public Health","2021-02-17",48
+"Free State","Private Health","2021-12-16",4
 "Free State","Public Health","2021-07-16",229
 "Mpumalanga","Public Health","2021-09-28",5652
 "Mpumalanga","Private Health","2021-12-03",369
@@ -1686,7 +1700,7 @@
 "Western Cape","Public Health","2021-08-15",13
 "Eastern Cape","Private Health","2021-02-24",58
 "Mpumalanga","Private Health","2021-07-19",171
-"Mpumalanga","Public Health","2021-12-14",2781
+"Mpumalanga","Public Health","2021-12-14",2786
 "Northern Cape","Public Health","2021-11-26",658
 "Free State","Public Health","2021-11-26",1379
 "Gauteng","Private Health","2021-08-27",3913
@@ -1772,7 +1786,7 @@
 "Mpumalanga","Public Health","2021-12-05",1264
 "Gauteng","Public Health","2021-04-21",2
 "KwaZulu-Natal","Private Health","2021-11-06",28
-"North West","Public Health","2021-11-03",3374
+"North West","Public Health","2021-11-03",3375
 "Gauteng","Public Health","2021-11-14",5332
 "Limpopo","Private Health","2021-11-10",631
 "Mpumalanga","Private Health","2021-04-08",112
@@ -1817,7 +1831,7 @@
 "North West","Public Health","2021-05-04",899
 "Northern Cape","Private Health","2021-03-04",7
 "Gauteng","Public Health","2021-06-01",230
-"Western Cape","Public Health","2021-12-15",1660
+"Western Cape","Public Health","2021-12-15",1718
 "Gauteng","Private Health","2021-11-09",1325
 "Eastern Cape","Public Health","2021-03-17",780
 "Mpumalanga","Public Health","2021-08-23",3252
@@ -1862,7 +1876,7 @@
 "KwaZulu-Natal","Private Health","2021-03-26",598
 "Northern Cape","Public Health","2021-08-09",1090
 "Free State","Public Health","2021-04-13",122
-"Gauteng","Private Health","2021-12-04",422
+"Gauteng","Private Health","2021-12-04",423
 "Gauteng","Private Health","2021-07-07",1995
 "North West","Private Health","2021-03-02",50
 "Limpopo","Private Health","2021-08-08",17
@@ -1925,7 +1939,7 @@
 "KwaZulu-Natal","Private Health","2021-08-03",302
 "Limpopo","Public Health","2021-08-29",4
 "Free State","Public Health","2021-04-09",249
-"Gauteng","Private Health","2021-08-11",2284
+"Gauteng","Private Health","2021-08-11",2286
 "Eastern Cape","Private Health","2021-10-26",342
 "Eastern Cape","Public Health","2021-11-21",397
 "Northern Cape","Private Health","2021-03-02",18
@@ -2053,7 +2067,7 @@
 "Mpumalanga","Public Health","2021-09-16",7328
 "Free State","Public Health","2021-06-21",30
 "Western Cape","Public Health","2021-06-23",57
-"Eastern Cape","Private Health","2021-12-08",539
+"Eastern Cape","Private Health","2021-12-08",542
 "Mpumalanga","Private Health","2021-11-01",42
 "Gauteng","Public Health","2021-10-09",2350
 "Gauteng","Public Health","2021-11-06",2184
@@ -2061,11 +2075,11 @@
 "Mpumalanga","Public Health","2021-09-23",6171
 "Northern Cape","Public Health","2021-08-03",2959
 "Eastern Cape","Private Health","2021-11-03",295
-"Western Cape","Public Health","2021-12-11",621
+"Western Cape","Public Health","2021-12-11",622
 "Northern Cape","Public Health","2021-07-17",179
 "Limpopo","Public Health","2021-10-03",97
 "Western Cape","Private Health","2021-07-13",414
-"Gauteng","Private Health","2021-12-15",998
+"Gauteng","Private Health","2021-12-15",1037
 "Mpumalanga","Private Health","2021-03-16",271
 "Northern Cape","Private Health","2021-06-23",35
 "Gauteng","Private Health","2021-05-07",2406
@@ -2169,7 +2183,7 @@
 "Mpumalanga","Private Health","2021-06-24",2
 "Western Cape","Private Health","2021-03-19",135
 "North West","Public Health","2021-09-01",4672
-"Gauteng","Public Health","2021-10-21",4709
+"Gauteng","Public Health","2021-10-21",4710
 "Eastern Cape","Public Health","2021-07-12",682
 "Limpopo","Public Health","2021-06-22",1
 "North West","Public Health","2021-08-21",3447
@@ -2192,7 +2206,7 @@
 "North West","Public Health","2021-02-28",368
 "Free State","Private Health","2021-08-09",2
 "Free State","Public Health","2021-03-10",854
-"Mpumalanga","Public Health","2021-03-04",552
+"Mpumalanga","Public Health","2021-03-04",553
 "Western Cape","Private Health","2021-08-04",143
 "Western Cape","Public Health","2021-12-01",3163
 "Mpumalanga","Private Health","2021-03-30",152
@@ -2213,7 +2227,7 @@
 "Eastern Cape","Public Health","2021-07-27",10836
 "Gauteng","Private Health","2021-03-12",22
 "Eastern Cape","Public Health","2021-12-13",2179
-"KwaZulu-Natal","Public Health","2021-11-10",4583
+"KwaZulu-Natal","Public Health","2021-11-10",4584
 "Mpumalanga","Public Health","2021-07-27",1270
 "Free State","Private Health","2021-03-04",127
 "Northern Cape","Private Health","2021-08-28",14
@@ -2238,7 +2252,7 @@
 "Free State","Public Health","2021-11-05",2625
 "Limpopo","Private Health","2021-06-25",28
 "Mpumalanga","Public Health","2021-11-01",4202
-"KwaZulu-Natal","Public Health","2021-10-28",4989
+"KwaZulu-Natal","Public Health","2021-10-28",4992
 "North West","Public Health","2021-03-25",731
 "Eastern Cape","Public Health","2021-03-20",1
 "Western Cape","Private Health","2021-12-08",558
@@ -2369,7 +2383,7 @@
 "Free State","Public Health","2021-09-29",4262
 "Limpopo","Public Health","2021-05-14",1299
 "Eastern Cape","Private Health","2021-04-30",121
-"Gauteng","Public Health","2021-12-15",3748
+"Gauteng","Public Health","2021-12-15",3800
 "North West","Private Health","2021-09-29",308
 "KwaZulu-Natal","Private Health","2021-11-23",58
 "Limpopo","Public Health","2021-07-17",810
@@ -2381,7 +2395,7 @@
 "Western Cape","Private Health","2021-08-07",1
 "North West","Private Health","2021-08-06",126
 "Eastern Cape","Public Health","2021-08-07",805
-"Free State","Public Health","2021-12-14",1755
+"Free State","Public Health","2021-12-14",1757
 "Gauteng","Private Health","2021-08-07",474
 "Limpopo","Public Health","2021-10-11",9178
 "Limpopo","Public Health","2021-11-23",2800
@@ -2400,7 +2414,7 @@
 "Eastern Cape","Private Health","2021-02-26",92
 "Gauteng","Public Health","2021-10-22",3739
 "Free State","Private Health","2021-10-15",479
-"Gauteng","Private Health","2021-07-20",3015
+"Gauteng","Private Health","2021-07-20",3016
 "North West","Private Health","2021-09-14",659
 "Free State","Private Health","2021-10-02",417
 "Gauteng","Private Health","2021-07-02",2027
@@ -2432,7 +2446,7 @@
 "Mpumalanga","Public Health","2021-11-03",4579
 "Northern Cape","Public Health","2021-07-14",860
 "Free State","Public Health","2021-06-06",2
-"Gauteng","Public Health","2021-07-20",4090
+"Gauteng","Public Health","2021-07-20",4091
 "Eastern Cape","Private Health","2021-05-11",159
 "Mpumalanga","Public Health","2021-11-10",3963
 "Limpopo","Public Health","2021-10-21",12965
@@ -2477,13 +2491,13 @@
 "Northern Cape","Public Health","2021-09-30",263
 "North West","Public Health","2021-03-10",233
 "Western Cape","Private Health","2021-10-28",566
-"Gauteng","Public Health","2021-11-09",3684
+"Gauteng","Public Health","2021-11-09",3686
 "KwaZulu-Natal","Public Health","2021-07-09",6317
 "Eastern Cape","Private Health","2021-10-13",468
 "Western Cape","Public Health","2021-06-26",3
 "Free State","Public Health","2021-12-07",2489
-"Gauteng","Public Health","2021-11-03",4119
-"Gauteng","Private Health","2021-12-11",699
+"Gauteng","Public Health","2021-11-03",4120
+"Gauteng","Private Health","2021-12-11",729
 "North West","Public Health","2021-07-20",2988
 "Western Cape","Private Health","2021-07-11",1
 "Northern Cape","Public Health","2021-05-03",40
@@ -2507,7 +2521,7 @@
 "Free State","Public Health","2021-09-09",3274
 "Eastern Cape","Public Health","2021-03-05",356
 "Gauteng","Public Health","2021-03-10",2130
-"KwaZulu-Natal","Public Health","2021-12-07",3599
+"KwaZulu-Natal","Public Health","2021-12-07",3603
 "Free State","Private Health","2021-09-23",331
 "Gauteng","Private Health","2021-04-22",1
 "Limpopo","Public Health","2021-07-26",4358
@@ -2551,7 +2565,7 @@
 "North West","Private Health","2021-10-16",49
 "North West","Public Health","2021-08-02",1708
 "Eastern Cape","Private Health","2021-11-12",436
-"Gauteng","Private Health","2021-08-03",809
+"Gauteng","Private Health","2021-08-03",810
 "KwaZulu-Natal","Private Health","2021-09-24",59
 "Western Cape","Public Health","2021-07-03",20
 "KwaZulu-Natal","Public Health","2021-08-19",8984
@@ -2561,7 +2575,7 @@
 "Free State","Public Health","2021-04-28",120
 "Mpumalanga","Private Health","2021-09-30",504
 "Mpumalanga","Private Health","2021-11-20",86
-"Free State","Private Health","2021-12-15",174
+"Free State","Private Health","2021-12-15",179
 "Gauteng","Private Health","2021-07-03",20
 "Gauteng","Private Health","2021-07-18",7
 "Northern Cape","Private Health","2021-05-09",38
@@ -2572,6 +2586,7 @@
 "Northern Cape","Private Health","2021-09-13",57
 "Mpumalanga","Private Health","2021-09-04",173
 "Gauteng","Private Health","2021-04-29",1773
+"KwaZulu-Natal","Private Health","2021-12-16",28
 "Eastern Cape","Public Health","2021-05-31",2
 "Limpopo","Private Health","2021-11-27",194
 "North West","Public Health","2021-03-31",430
@@ -2699,7 +2714,7 @@
 "Eastern Cape","Public Health","2021-08-01",466
 "Gauteng","Public Health","2021-10-29",3620
 "North West","Private Health","2021-11-05",292
-"Eastern Cape","Public Health","2021-11-22",4189
+"Eastern Cape","Public Health","2021-11-22",4190
 "Gauteng","Private Health","2021-10-05",2059
 "KwaZulu-Natal","Public Health","2021-08-13",7882
 "KwaZulu-Natal","Public Health","2021-08-18",8701
@@ -2713,7 +2728,7 @@
 "KwaZulu-Natal","Private Health","2021-09-11",238
 "Northern Cape","Private Health","2021-07-15",4
 "Northern Cape","Public Health","2021-02-26",376
-"Limpopo","Private Health","2021-07-23",223
+"Limpopo","Private Health","2021-07-23",227
 "Mpumalanga","Private Health","2021-03-10",262
 "Northern Cape","Private Health","2021-11-30",232
 "Free State","Public Health","2021-07-02",3736
@@ -2787,14 +2802,14 @@
 "Eastern Cape","Private Health","2021-11-06",84
 "Eastern Cape","Public Health","2021-10-23",2410
 "KwaZulu-Natal","Private Health","2021-08-05",663
-"Gauteng","Private Health","2021-12-01",1795
+"Gauteng","Private Health","2021-12-01",1800
 "KwaZulu-Natal","Private Health","2021-12-05",37
 "Northern Cape","Public Health","2021-10-09",223
 "KwaZulu-Natal","Public Health","2021-06-11",3
 "North West","Private Health","2021-08-14",15
 "Mpumalanga","Public Health","2021-07-07",937
 "KwaZulu-Natal","Public Health","2021-02-24",1253
-"Gauteng","Private Health","2021-07-13",1274
+"Gauteng","Private Health","2021-07-13",1279
 "Limpopo","Public Health","2021-10-13",11476
 "Limpopo","Public Health","2021-09-13",3799
 "Limpopo","Public Health","2021-05-04",1302
@@ -2813,7 +2828,7 @@
 "Eastern Cape","Public Health","2021-08-28",1787
 "Western Cape","Private Health","2021-03-03",108
 "North West","Private Health","2021-07-08",4
-"KwaZulu-Natal","Public Health","2021-11-26",2959
+"KwaZulu-Natal","Public Health","2021-11-26",2974
 "Northern Cape","Private Health","2021-08-23",53
 "Limpopo","Private Health","2021-10-09",170
 "North West","Public Health","2021-10-10",4437
@@ -2843,15 +2858,15 @@
 "North West","Public Health","2021-12-14",2190
 "North West","Public Health","2021-08-29",1224
 "Free State","Private Health","2021-10-10",2
-"KwaZulu-Natal","Public Health","2021-12-10",2811
+"KwaZulu-Natal","Public Health","2021-12-10",2832
 "Western Cape","Private Health","2021-10-07",720
 "Northern Cape","Private Health","2021-10-28",288
-"Mpumalanga","Public Health","2021-11-26",2394
+"Mpumalanga","Public Health","2021-11-26",2395
 "Eastern Cape","Public Health","2021-11-10",5669
 "Free State","Private Health","2021-08-28",25
 "KwaZulu-Natal","Private Health","2021-09-08",684
 "Gauteng","Public Health","2021-04-28",510
-"Gauteng","Public Health","2021-02-26",2140
+"Gauteng","Public Health","2021-02-26",2141
 "Western Cape","Public Health","2021-09-02",3385
 "Northern Cape","Public Health","2021-07-12",173
 "Northern Cape","Public Health","2021-07-19",1046
@@ -2932,9 +2947,9 @@
 "Eastern Cape","Private Health","2021-12-14",224
 "Western Cape","Public Health","2021-08-26",5722
 "Limpopo","Private Health","2021-03-19",480
-"Gauteng","Public Health","2021-12-04",4755
+"Gauteng","Public Health","2021-12-04",4759
 "Limpopo","Private Health","2021-09-21",1144
-"Gauteng","Private Health","2021-07-19",2368
+"Gauteng","Private Health","2021-07-19",2375
 "Northern Cape","Public Health","2021-08-11",1668
 "Eastern Cape","Public Health","2021-07-19",5117
 "North West","Private Health","2021-11-22",189
@@ -2999,7 +3014,7 @@
 "Northern Cape","Private Health","2021-05-05",52
 "Mpumalanga","Public Health","2021-03-24",608
 "Mpumalanga","Private Health","2021-11-18",169
-"North West","Public Health","2021-12-15",2016
+"North West","Public Health","2021-12-15",2075
 "Western Cape","Public Health","2021-04-08",496
 "Limpopo","Public Health","2021-09-19",194
 "Eastern Cape","Private Health","2021-08-07",109
@@ -3047,12 +3062,12 @@
 "Western Cape","Public Health","2021-05-13",3361
 "Western Cape","Public Health","2021-05-27",56
 "Northern Cape","Private Health","2021-07-21",251
-"KwaZulu-Natal","Public Health","2021-12-11",1205
+"KwaZulu-Natal","Public Health","2021-12-11",1211
 "Eastern Cape","Private Health","2021-09-13",1011
-"Gauteng","Private Health","2021-12-09",1392
+"Gauteng","Private Health","2021-12-09",1393
 "Free State","Public Health","2021-10-01",4207
 "Gauteng","Private Health","2021-07-16",2082
-"Mpumalanga","Public Health","2021-11-25",3055
+"Mpumalanga","Public Health","2021-11-25",3056
 "Free State","Private Health","2021-11-21",6
 "Eastern Cape","Public Health","2021-10-20",6367
 "Free State","Private Health","2021-10-27",331
@@ -3062,7 +3077,7 @@
 "Free State","Private Health","2021-12-13",189
 "Free State","Private Health","2021-08-27",352
 "Eastern Cape","Public Health","2021-04-11",1
-"Gauteng","Private Health","2021-12-02",1473
+"Gauteng","Private Health","2021-12-02",1476
 "Limpopo","Private Health","2021-12-09",386
 "Eastern Cape","Public Health","2021-07-03",1
 "Northern Cape","Public Health","2021-07-06",470
@@ -3131,7 +3146,7 @@
 "North West","Public Health","2021-03-24",617
 "Western Cape","Public Health","2021-09-09",2762
 "Free State","Public Health","2021-08-10",1970
-"KwaZulu-Natal","Public Health","2021-12-06",3488
+"KwaZulu-Natal","Public Health","2021-12-06",3499
 "Limpopo","Private Health","2021-12-06",678
 "Western Cape","Public Health","2021-06-17",2
 "Northern Cape","Public Health","2021-11-02",827
@@ -3151,7 +3166,7 @@
 "Gauteng","Private Health","2021-08-19",1856
 "North West","Public Health","2021-05-01",40
 "Eastern Cape","Public Health","2021-10-15",5418
-"KwaZulu-Natal","Public Health","2021-11-27",1818
+"KwaZulu-Natal","Public Health","2021-11-27",1830
 "Western Cape","Public Health","2021-12-10",2392
 "Eastern Cape","Public Health","2021-03-15",624
 "Free State","Public Health","2021-03-26",407
@@ -3164,9 +3179,10 @@
 "Western Cape","Private Health","2021-10-25",759
 "North West","Private Health","2021-07-12",1
 "Northern Cape","Public Health","2021-10-05",481
-"Gauteng","Private Health","2021-07-26",1977
+"Gauteng","Private Health","2021-07-26",1978
 "KwaZulu-Natal","Private Health","2021-05-05",1709
 "Mpumalanga","Private Health","2021-11-23",254
+"Gauteng","Public Health","2021-12-16",585
 "Free State","Public Health","2021-07-13",73
 "Limpopo","Private Health","2021-09-28",1233
 "Free State","Private Health","2021-10-16",25
@@ -3188,7 +3204,7 @@
 "Gauteng","Public Health","2021-03-07",1
 "Gauteng","Private Health","2021-10-16",1092
 "Free State","Public Health","2021-12-05",106
-"Gauteng","Private Health","2021-08-09",280
+"Gauteng","Private Health","2021-08-09",296
 "Gauteng","Private Health","2021-08-02",724
 "KwaZulu-Natal","Private Health","2021-10-03",37
 "Northern Cape","Private Health","2021-10-12",144
@@ -3203,7 +3219,7 @@
 "Gauteng","Private Health","2021-11-22",1123
 "Limpopo","Private Health","2021-07-02",2
 "Limpopo","Public Health","2021-12-07",4227
-"North West","Public Health","2021-12-03",3181
+"North West","Public Health","2021-12-03",3183
 "Gauteng","Public Health","2021-07-09",2966
 "Mpumalanga","Public Health","2021-10-20",7334
 "North West","Public Health","2021-10-08",9137
@@ -3217,7 +3233,7 @@
 "Eastern Cape","Private Health","2021-03-29",352
 "KwaZulu-Natal","Public Health","2021-08-22",2063
 "KwaZulu-Natal","Public Health","2021-08-24",13913
-"KwaZulu-Natal","Public Health","2021-11-09",4141
+"KwaZulu-Natal","Public Health","2021-11-09",4144
 "Free State","Public Health","2021-10-19",3820
 "Free State","Private Health","2021-03-09",68
 "Northern Cape","Public Health","2021-05-06",179
@@ -3248,7 +3264,7 @@
 "Eastern Cape","Public Health","2021-02-22",319
 "Western Cape","Public Health","2021-05-04",1718
 "KwaZulu-Natal","Public Health","2021-03-04",1141
-"Limpopo","Public Health","2021-12-11",1030
+"Limpopo","Public Health","2021-12-11",1048
 "Western Cape","Private Health","2021-11-22",363
 "Northern Cape","Public Health","2021-07-22",1428
 "Northern Cape","Public Health","2021-03-02",215
@@ -3317,7 +3333,7 @@
 "Eastern Cape","Private Health","2021-10-11",242
 "Eastern Cape","Private Health","2021-10-22",437
 "Mpumalanga","Public Health","2021-06-11",1
-"KwaZulu-Natal","Public Health","2021-11-11",4483
+"KwaZulu-Natal","Public Health","2021-11-11",4485
 "KwaZulu-Natal","Public Health","2021-08-01",965
 "North West","Private Health","2021-08-22",1
 "Gauteng","Public Health","2021-06-12",1
@@ -3344,8 +3360,9 @@
 "Eastern Cape","Private Health","2021-07-28",1012
 "Mpumalanga","Private Health","2021-12-08",311
 "KwaZulu-Natal","Private Health","2021-10-23",137
-"KwaZulu-Natal","Public Health","2021-10-30",2380
+"KwaZulu-Natal","Public Health","2021-10-30",2381
 "Free State","Public Health","2021-07-04",14
+"Eastern Cape","Private Health","2021-12-16",29
 "Gauteng","Public Health","2021-05-10",1972
 "Eastern Cape","Private Health","2021-04-08",68
 "Eastern Cape","Public Health","2021-12-04",747
@@ -3438,7 +3455,7 @@
 "Gauteng","Public Health","2021-07-25",723
 "Western Cape","Public Health","2021-08-16",4598
 "Northern Cape","Public Health","2021-03-24",92
-"North West","Public Health","2021-07-21",3432
+"North West","Public Health","2021-07-21",3433
 "Northern Cape","Private Health","2021-11-01",5
 "Northern Cape","Private Health","2021-03-12",29
 "Northern Cape","Public Health","2021-10-28",1526
@@ -3465,8 +3482,8 @@
 "Mpumalanga","Private Health","2021-07-15",559
 "Mpumalanga","Public Health","2021-12-02",4428
 "Limpopo","Private Health","2021-08-20",1620
-"Limpopo","Public Health","2021-03-31",827
 "Free State","Private Health","2021-09-01",299
+"Limpopo","Public Health","2021-03-31",827
 "Mpumalanga","Public Health","2021-11-14",1404
 "Limpopo","Private Health","2021-07-08",172
 "Limpopo","Private Health","2021-09-07",1411
@@ -3486,7 +3503,7 @@
 "Mpumalanga","Public Health","2021-07-30",3531
 "KwaZulu-Natal","Public Health","2021-07-20",3160
 "Western Cape","Private Health","2021-09-10",1738
-"Free State","Public Health","2021-12-15",892
+"Free State","Public Health","2021-12-15",950
 "Free State","Private Health","2021-11-16",125
 "North West","Public Health","2021-08-24",3628
 "Limpopo","Public Health","2021-09-08",405
@@ -3505,7 +3522,7 @@
 "Western Cape","Private Health","2021-11-27",145
 "Northern Cape","Private Health","2021-08-19",20
 "North West","Public Health","2021-08-28",2778
-"KwaZulu-Natal","Public Health","2021-11-30",4880
+"KwaZulu-Natal","Public Health","2021-11-30",4882
 "Western Cape","Public Health","2021-08-20",9999
 "North West","Private Health","2021-08-12",254
 "KwaZulu-Natal","Public Health","2021-09-15",4907
@@ -3555,7 +3572,7 @@
 "Western Cape","Private Health","2021-09-23",1228
 "KwaZulu-Natal","Private Health","2021-08-07",113
 "Gauteng","Public Health","2021-07-11",46
-"KwaZulu-Natal","Public Health","2021-11-28",1553
+"KwaZulu-Natal","Public Health","2021-11-28",1555
 "KwaZulu-Natal","Private Health","2021-07-14",4
 "Eastern Cape","Public Health","2021-10-12",6410
 "Gauteng","Public Health","2021-03-17",1944
@@ -3581,7 +3598,7 @@
 "Western Cape","Public Health","2021-09-16",2610
 "Eastern Cape","Private Health","2021-07-19",152
 "Gauteng","Public Health","2021-04-12",304
-"Gauteng","Public Health","2021-12-13",4042
+"Gauteng","Public Health","2021-12-13",4043
 "Free State","Public Health","2021-02-18",260
 "Western Cape","Private Health","2021-08-02",241
 "Free State","Private Health","2021-09-18",25
@@ -3602,7 +3619,7 @@
 "KwaZulu-Natal","Public Health","2021-08-23",11626
 "Limpopo","Private Health","2021-06-09",1
 "Northern Cape","Public Health","2021-10-19",2586
-"Mpumalanga","Public Health","2021-10-08",6522
+"Mpumalanga","Public Health","2021-10-08",6523
 "Eastern Cape","Public Health","2021-09-01",6211
 "Eastern Cape","Private Health","2021-07-13",392
 "Mpumalanga","Public Health","2021-06-04",4
@@ -3645,7 +3662,7 @@
 "Northern Cape","Private Health","2021-09-08",53
 "Western Cape","Public Health","2021-05-06",1857
 "KwaZulu-Natal","Public Health","2021-02-22",1059
-"Western Cape","Public Health","2021-02-21",403
+"Western Cape","Public Health","2021-02-21",404
 "Gauteng","Public Health","2021-04-03",6
 "North West","Public Health","2021-10-23",6109
 "Western Cape","Public Health","2021-06-30",3518
@@ -3677,7 +3694,7 @@
 "Mpumalanga","Public Health","2021-12-13",2530
 "Limpopo","Public Health","2021-07-30",6983
 "Mpumalanga","Private Health","2021-09-13",1224
-"Gauteng","Private Health","2021-07-14",1408
+"Gauteng","Private Health","2021-07-14",1422
 "KwaZulu-Natal","Public Health","2021-10-01",7643
 "Gauteng","Public Health","2021-06-10",15
 "Mpumalanga","Private Health","2021-07-01",3
@@ -3739,7 +3756,7 @@
 "Mpumalanga","Private Health","2021-11-24",245
 "Western Cape","Public Health","2021-08-30",2916
 "Northern Cape","Public Health","2021-08-27",910
-"Gauteng","Private Health","2021-07-22",2250
+"Gauteng","Private Health","2021-07-22",2253
 "Gauteng","Private Health","2021-09-29",2373
 "Limpopo","Private Health","2021-08-25",1776
 "Northern Cape","Private Health","2021-07-14",2
@@ -3760,7 +3777,7 @@
 "Mpumalanga","Private Health","2021-10-04",587
 "Gauteng","Public Health","2021-03-12",1147
 "Eastern Cape","Private Health","2021-11-25",406
-"Gauteng","Private Health","2021-11-25",1162
+"Gauteng","Private Health","2021-11-25",1166
 "Mpumalanga","Private Health","2021-10-26",523
 "KwaZulu-Natal","Private Health","2021-07-13",3
 "Eastern Cape","Public Health","2021-04-29",510
@@ -3780,7 +3797,7 @@
 "Gauteng","Private Health","2021-06-10",1
 "Eastern Cape","Private Health","2021-03-09",476
 "Northern Cape","Private Health","2021-11-17",235
-"Eastern Cape","Public Health","2021-11-23",3491
+"Eastern Cape","Public Health","2021-11-23",3510
 "Eastern Cape","Private Health","2021-10-21",377
 "North West","Private Health","2021-08-27",709
 "Eastern Cape","Public Health","2021-05-06",1705
@@ -3800,7 +3817,7 @@
 "Limpopo","Public Health","2021-07-25",655
 "Free State","Private Health","2021-03-05",48
 "KwaZulu-Natal","Public Health","2021-05-19",2
-"Limpopo","Public Health","2021-12-14",2792
+"Limpopo","Public Health","2021-12-14",2818
 "Western Cape","Private Health","2021-09-16",1513
 "Mpumalanga","Public Health","2021-08-29",28
 "KwaZulu-Natal","Private Health","2021-07-08",48
@@ -3810,7 +3827,7 @@
 "Eastern Cape","Private Health","2021-10-10",3
 "Gauteng","Public Health","2021-11-21",865
 "Northern Cape","Private Health","2021-08-29",1
-"Mpumalanga","Public Health","2021-11-23",3267
+"Mpumalanga","Public Health","2021-11-23",3268
 "Eastern Cape","Private Health","2021-11-22",420
 "Eastern Cape","Public Health","2021-11-26",2767
 "Free State","Private Health","2021-08-02",244
@@ -3821,10 +3838,10 @@
 "Free State","Public Health","2021-07-31",118
 "North West","Public Health","2021-09-09",4709
 "Northern Cape","Public Health","2021-05-15",51
-"Gauteng","Public Health","2021-12-08",5042
 "North West","Public Health","2021-02-20",541
+"Gauteng","Public Health","2021-12-08",5100
 "Limpopo","Public Health","2021-08-14",3472
-"KwaZulu-Natal","Public Health","2021-12-13",1967
+"KwaZulu-Natal","Public Health","2021-12-13",2009
 "Western Cape","Private Health","2021-05-15",542
 "Eastern Cape","Private Health","2021-09-03",1155
 "Western Cape","Private Health","2021-11-07",4
@@ -3837,7 +3854,7 @@
 "North West","Private Health","2021-10-11",363
 "Gauteng","Public Health","2021-11-24",4765
 "Northern Cape","Public Health","2021-10-15",1739
-"KwaZulu-Natal","Public Health","2021-12-14",2280
+"KwaZulu-Natal","Public Health","2021-12-14",2298
 "Gauteng","Public Health","2021-02-28",612
 "Northern Cape","Private Health","2021-08-31",55
 "Mpumalanga","Public Health","2021-08-06",4087
@@ -3845,7 +3862,7 @@
 "Limpopo","Public Health","2021-06-21",6
 "Limpopo","Private Health","2021-02-24",1
 "Free State","Public Health","2021-04-30",672
-"KwaZulu-Natal","Private Health","2021-12-15",284
+"KwaZulu-Natal","Private Health","2021-12-15",287
 "Free State","Public Health","2021-07-25",240
 "Mpumalanga","Private Health","2021-08-17",317
 "North West","Private Health","2021-10-27",353
@@ -3859,7 +3876,7 @@
 "Mpumalanga","Public Health","2021-09-27",5162
 "Western Cape","Public Health","2021-08-27",5173
 "Mpumalanga","Public Health","2021-10-26",6426
-"Limpopo","Public Health","2021-12-15",2744
+"Limpopo","Public Health","2021-12-15",2758
 "Northern Cape","Public Health","2021-11-14",699
 "Limpopo","Private Health","2021-08-22",27
 "Western Cape","Public Health","2021-11-20",765
@@ -3935,11 +3952,12 @@
 "North West","Public Health","2021-11-22",2152
 "Free State","Public Health","2021-09-11",478
 "Free State","Private Health","2021-09-11",36
-"Mpumalanga","Public Health","2021-11-29",4677
+"Mpumalanga","Public Health","2021-11-29",4678
 "Gauteng","Private Health","2021-07-31",14
 "Mpumalanga","Public Health","2021-05-10",61
 "Gauteng","Private Health","2021-12-07",1463
 "Gauteng","Public Health","2021-08-13",9385
+"Western Cape","Public Health","2021-12-16",19
 "Free State","Public Health","2021-12-10",1774
 "Eastern Cape","Public Health","2021-10-11",5337
 "Western Cape","Public Health","2021-11-04",4065
@@ -3993,7 +4011,7 @@
 "Eastern Cape","Public Health","2021-11-17",4562
 "Gauteng","Private Health","2021-10-20",3653
 "North West","Private Health","2021-09-06",486
-"KwaZulu-Natal","Public Health","2021-12-08",3550
+"KwaZulu-Natal","Public Health","2021-12-08",3558
 "KwaZulu-Natal","Public Health","2021-02-25",1483
 "Northern Cape","Public Health","2021-06-24",1203
 "Western Cape","Private Health","2021-12-01",486
@@ -4077,6 +4095,7 @@
 "northern cape","Private Health","2021-12-01",59
 "mpumalanga","Public Health","2021-12-13",87
 "mpumalanga","Public Health","2021-11-19",126
+"mpumalanga","Public Health","2021-12-16",8
 "free state","Private Health","2021-12-02",43
 "western cape","Private Health","2021-11-20",297
 "north west","Public Health","2021-11-15",192
@@ -4121,7 +4140,7 @@
 "gauteng","Private Health","2021-12-14",549
 "limpopo","Public Health","2021-12-10",593
 "kwazulu-natal","Public Health","2021-11-25",753
-"kwazulu-natal","Public Health","2021-11-24",931
+"kwazulu-natal","Public Health","2021-11-24",932
 "gauteng","Private Health","2021-11-11",1190
 "eastern cape","Public Health","2021-12-06",606
 "north west","Public Health","2021-11-19",261
@@ -4231,6 +4250,7 @@
 "gauteng","Private Health","2021-12-13",423
 "mpumalanga","Private Health","2021-11-26",105
 "gauteng","Private Health","2021-11-29",1889
+"gauteng","Public Health","2021-12-16",23
 "north west","Public Health","2021-11-12",243
 "gauteng","Private Health","2021-12-04",134
 "free state","Private Health","2021-12-06",17
@@ -4251,7 +4271,7 @@
 "gauteng","Public Health","2021-12-09",527
 "kwazulu-natal","Private Health","2021-12-05",5
 "north west","Private Health","2021-12-07",39
-"eastern cape","Public Health","2021-12-15",539
+"eastern cape","Public Health","2021-12-15",541
 "kwazulu-natal","Private Health","2021-11-18",1106
 "gauteng","Private Health","2021-12-02",1208
 "western cape","Private Health","2021-11-29",1162
@@ -4270,6 +4290,7 @@
 "eastern cape","Private Health","2021-12-03",166
 "northern cape","Private Health","2021-12-12",1
 "free state","Public Health","2021-12-07",377
+"western cape","Public Health","2021-12-16",1
 "gauteng","Public Health","2021-11-11",462
 "gauteng","Private Health","2021-12-03",1476
 "north west","Public Health","2021-11-18",261
@@ -4279,7 +4300,7 @@
 "eastern cape","Private Health","2021-11-15",399
 "western cape","Private Health","2021-11-25",809
 "mpumalanga","Public Health","2021-12-05",12
-"kwazulu-natal","Public Health","2021-12-15",611
+"kwazulu-natal","Public Health","2021-12-15",612
 "northern cape","Public Health","2021-12-04",37
 "free state","Public Health","2021-12-06",310
 "western cape","Public Health","2021-11-18",2272
@@ -4345,6 +4366,7 @@
 "gauteng","Public Health","2021-12-10",534
 "north west","Public Health","2021-11-29",399
 "north west","Private Health","2021-11-30",57
+"eastern cape","Public Health","2021-12-16",10
 "northern cape","Private Health","2021-11-12",4
 "free state","Private Health","2021-11-13",1
 "north west","Private Health","2021-11-10",3
@@ -4364,6 +4386,7 @@
 "gauteng","Private Health","2021-11-30",1790
 "northern cape","Private Health","2021-12-08",9
 "western cape","Private Health","2021-12-15",148
+"kwazulu-natal","Private Health","2021-12-16",18
 "mpumalanga","Public Health","2021-11-10",89
 "eastern cape","Public Health","2021-11-22",436
 "free state","Private Health","2021-11-23",166
@@ -4387,6 +4410,7 @@
 "mpumalanga","Private Health","2021-11-19",125
 "western cape","Public Health","2021-12-12",2
 "eastern cape","Private Health","2021-12-02",265
+"limpopo","Public Health","2021-12-16",26
 "western cape","Public Health","2021-12-15",661
 "northern cape","Private Health","2021-11-30",8
 "eastern cape","Public Health","2021-11-11",443
@@ -4412,7 +4436,7 @@
 "eastern cape","Public Health","2021-12-14",530
 "mpumalanga","Private Health","2021-12-02",76
 "north west","Public Health","2021-12-04",67
-"gauteng","Private Health","2021-12-15",491
+"gauteng","Private Health","2021-12-15",496
 "gauteng","Public Health","2021-12-02",830
 "eastern cape","Private Health","2021-12-04",11
 "eastern cape","Public Health","2021-12-11",6
@@ -4441,6 +4465,7 @@
 "eastern cape","Public Health","2021-12-03",811
 "eastern cape","Public Health","2021-11-12",454
 "mpumalanga","Public Health","2021-11-26",158
+"north west","Public Health","2021-12-16",34
 "gauteng","Private Health","2021-12-05",54
 "northern cape","Public Health","2021-11-13",73
 "gauteng","Public Health","2021-11-20",27
@@ -4486,9 +4511,10 @@
 "free state","Private Health","2021-11-16",20
 "northern cape","Public Health","2021-11-20",20
 "western cape","Private Health","2021-12-01",856
-"gauteng","Public Health","2021-12-15",616
+"gauteng","Public Health","2021-12-15",617
 "limpopo","Private Health","2021-11-26",158
-"north west","Public Health","2021-12-15",154
+"north west","Public Health","2021-12-15",155
+"gauteng","Private Health","2021-12-16",1
 "mpumalanga","Public Health","2021-11-27",15
 "western cape","Public Health","2021-11-25",1307
 "kwazulu-natal","Private Health","2021-12-15",116
@@ -4557,6 +4583,7 @@
 "north west","Public Health","2021-12-06",243
 "limpopo","Private Health","2021-11-24",71
 "northern cape","Private Health","2021-12-06",14
+"kwazulu-natal","Public Health","2021-12-16",16
 "northern cape","Public Health","2021-12-07",97
 "western cape","Private Health","2021-11-17",1050
 "western cape","Public Health","2021-11-20",97
@@ -4603,15 +4630,16 @@
 "Mpumalanga","Public Health","2021-12-09",2864
 "Gauteng","Public Health","2021-10-10",1794
 "Free State","Public Health","2021-09-05",810
-"Gauteng","Public Health","2021-10-27",29695
+"Gauteng","Public Health","2021-10-27",29696
 "Mpumalanga","Private Health","2021-07-03",41
 "KwaZulu-Natal","Public Health","2021-06-04",12357
 "Northern Cape","Private Health","2021-08-02",650
 "North West","Public Health","2021-12-12",1085
 "Northern Cape","Private Health","2021-09-17",1451
-"Northern Cape","Private Health","2021-09-30",825
 "mpumalanga","Private Health","2021-12-14",5
-"KwaZulu-Natal","Public Health","2021-11-29",10480
+"Northern Cape","Private Health","2021-09-30",825
+"KwaZulu-Natal","Public Health","2021-12-16",903
+"KwaZulu-Natal","Public Health","2021-11-29",10487
 "KwaZulu-Natal","Public Health","2021-08-29",2877
 "Northern Cape","Public Health","2021-10-02",1809
 "Free State","Private Health","2021-10-28",2255
@@ -4657,13 +4685,13 @@
 "KwaZulu-Natal","Private Health","2021-09-27",6175
 "Northern Cape","Public Health","2021-09-27",1516
 "Western Cape","Public Health","2021-11-17",9407
-"KwaZulu-Natal","Public Health","2021-11-20",2934
+"KwaZulu-Natal","Public Health","2021-11-20",2949
 "Mpumalanga","Private Health","2021-10-21",1691
 "Limpopo","Private Health","2021-06-26",12
 "Western Cape","Private Health","2021-07-24",2394
 "Eastern Cape","Public Health","2021-12-12",218
-"Gauteng","Private Health","2021-11-05",17111
-"Northern Cape","Private Health","2021-12-15",427
+"Gauteng","Private Health","2021-11-05",17123
+"Northern Cape","Private Health","2021-12-15",437
 "Mpumalanga","Private Health","2021-09-03",2396
 "North West","Private Health","2021-11-26",1630
 "Limpopo","Private Health","2021-06-28",359
@@ -4678,8 +4706,8 @@
 "Northern Cape","Public Health","2021-10-17",63
 "Mpumalanga","Private Health","2021-12-06",1271
 "eastern cape","Public Health","2021-12-10",8
-"North West","Private Health","2021-12-09",1689
-"Gauteng","Public Health","2021-12-11",3217
+"North West","Private Health","2021-12-09",1698
+"Gauteng","Public Health","2021-12-11",3218
 "Northern Cape","Private Health","2021-06-02",30
 "Free State","Public Health","2021-07-24",1140
 "Mpumalanga","Private Health","2021-12-05",54
@@ -4733,16 +4761,17 @@
 "Limpopo","Public Health","2021-10-23",788
 "Northern Cape","Public Health","2021-07-16",2740
 "Free State","Public Health","2021-09-25",283
-"Gauteng","Private Health","2021-07-23",22364
+"Gauteng","Private Health","2021-07-23",22365
 "Mpumalanga","Private Health","2021-11-12",1631
 "Northern Cape","Public Health","2021-08-30",3217
 "Eastern Cape","Private Health","2021-07-06",2675
 "Gauteng","Private Health","2021-08-14",6395
 "Northern Cape","Public Health","2021-11-22",953
 "North West","Public Health","2021-07-18",1283
+"Northern Cape","Private Health","2021-12-16",46
 "Mpumalanga","Private Health","2021-12-04",361
 "Gauteng","Private Health","2021-07-30",23111
-"North West","Private Health","2021-12-08",1771
+"North West","Private Health","2021-12-08",1777
 "Gauteng","Private Health","2021-05-18",1583
 "Mpumalanga","Public Health","2021-09-19",47
 "Gauteng","Public Health","2021-11-16",18266
@@ -4751,6 +4780,7 @@
 "Northern Cape","Private Health","2021-05-22",1
 "North West","Public Health","2021-07-14",6834
 "Limpopo","Private Health","2021-06-07",240
+"Mpumalanga","Private Health","2021-12-16",28
 "Limpopo","Private Health","2021-08-24",3166
 "Northern Cape","Private Health","2021-06-29",208
 "KwaZulu-Natal","Public Health","2021-10-18",11397
@@ -4762,11 +4792,12 @@
 "Northern Cape","Private Health","2021-08-10",547
 "Western Cape","Private Health","2021-12-12",125
 "Gauteng","Public Health","2021-08-06",14941
-"Gauteng","Public Health","2021-11-17",18618
+"Gauteng","Public Health","2021-11-17",18620
 "Western Cape","Public Health","2021-10-19",16477
 "Northern Cape","Private Health","2021-12-11",125
-"Gauteng","Private Health","2021-11-19",16815
+"Gauteng","Private Health","2021-11-19",16816
 "North West","Public Health","2021-12-05",1389
+"Limpopo","Private Health","2021-12-16",240
 "KwaZulu-Natal","Public Health","2021-08-10",11429
 "Gauteng","Private Health","2021-07-12",15971
 "Limpopo","Public Health","2021-11-27",1384
@@ -4800,13 +4831,14 @@
 "mpumalanga","Private Health","2021-12-07",7
 "KwaZulu-Natal","Private Health","2021-08-15",568
 "Western Cape","Public Health","2021-05-31",10186
+"Western Cape","Private Health","2021-12-16",237
 "Eastern Cape","Private Health","2021-08-13",2873
 "Mpumalanga","Public Health","2021-11-09",2636
 "KwaZulu-Natal","Public Health","2021-07-05",22310
 "KwaZulu-Natal","Public Health","2021-10-04",10141
 "Limpopo","Public Health","2021-08-02",15475
 "North West","Private Health","2021-07-27",2534
-"North West","Public Health","2021-07-02",5612
+"North West","Public Health","2021-07-02",5613
 "Limpopo","Private Health","2021-11-07",10
 "Gauteng","Public Health","2021-12-05",3372
 "Limpopo","Private Health","2021-08-01",3
@@ -4821,6 +4853,7 @@
 "kwazulu-natal","Public Health","2021-12-11",4
 "North West","Public Health","2021-12-09",3177
 "KwaZulu-Natal","Public Health","2021-10-17",2281
+"North West","Private Health","2021-12-16",99
 "Free State","Public Health","2021-08-22",1190
 "North West","Public Health","2021-11-16",2964
 "Northern Cape","Public Health","2021-11-30",1603
@@ -4836,7 +4869,7 @@
 "Free State","Private Health","2021-08-15",11
 "Northern Cape","Public Health","2021-06-10",806
 "Gauteng","Public Health","2021-08-17",20220
-"Gauteng","Private Health","2021-10-15",27269
+"Gauteng","Private Health","2021-10-15",27270
 "Eastern Cape","Private Health","2021-08-01",2
 "Mpumalanga","Public Health","2021-10-29",3313
 "Northern Cape","Public Health","2021-06-22",1354
@@ -4856,7 +4889,7 @@
 "North West","Public Health","2021-07-17",1770
 "Gauteng","Private Health","2021-06-23",3993
 "Western Cape","Private Health","2021-09-24",806
-"Mpumalanga","Public Health","2021-12-15",1951
+"Mpumalanga","Public Health","2021-12-15",1967
 "North West","Public Health","2021-06-12",445
 "Mpumalanga","Public Health","2021-07-10",927
 "Limpopo","Public Health","2021-09-29",4377
@@ -4893,7 +4926,7 @@
 "Limpopo","Public Health","2021-06-20",170
 "North West","Private Health","2021-06-14",269
 "Western Cape","Public Health","2021-09-24",589
-"Eastern Cape","Public Health","2021-12-14",4035
+"Eastern Cape","Public Health","2021-12-14",4051
 "Limpopo","Private Health","2021-06-03",476
 "Gauteng","Public Health","2021-09-18",4630
 "North West","Private Health","2021-09-22",4124
@@ -4958,19 +4991,19 @@
 "Mpumalanga","Public Health","2021-08-20",6438
 "Eastern Cape","Public Health","2021-06-13",60
 "Northern Cape","Public Health","2021-05-18",308
-"Gauteng","Public Health","2021-09-22",21321
+"Gauteng","Public Health","2021-09-22",21323
 "North West","Private Health","2021-07-21",2319
 "KwaZulu-Natal","Public Health","2021-09-10",22188
 "Free State","Public Health","2021-08-04",6709
 "Northern Cape","Public Health","2021-11-04",2007
 "Free State","Public Health","2021-06-14",4873
-"Eastern Cape","Public Health","2021-11-25",9072
+"Eastern Cape","Public Health","2021-11-25",9083
 "Mpumalanga","Private Health","2021-05-31",292
 "mpumalanga","Private Health","2021-12-03",2
 "Western Cape","Private Health","2021-07-12",7546
 "Eastern Cape","Public Health","2021-06-30",13696
 "North West","Private Health","2021-11-08",1756
-"Eastern Cape","Public Health","2021-12-02",8466
+"Eastern Cape","Public Health","2021-12-02",8467
 "Mpumalanga","Private Health","2021-11-08",1164
 "Limpopo","Private Health","2021-10-02",702
 "Eastern Cape","Private Health","2021-07-20",4900
@@ -4978,7 +5011,7 @@
 "Northern Cape","Private Health","2021-11-07",33
 "Free State","Private Health","2021-10-03",170
 "Northern Cape","Private Health","2021-10-04",969
-"Gauteng","Public Health","2021-11-26",16109
+"Gauteng","Public Health","2021-11-26",16111
 "Eastern Cape","Public Health","2021-09-18",894
 "North West","Public Health","2021-06-06",119
 "North West","Public Health","2021-06-09",3568
@@ -5003,8 +5036,8 @@
 "Limpopo","Private Health","2021-08-14",119
 "North West","Public Health","2021-06-17",4020
 "Western Cape","Public Health","2021-10-13",18765
-"Gauteng","Private Health","2021-09-19",3105
-"North West","Private Health","2021-12-07",1918
+"Gauteng","Private Health","2021-09-19",3106
+"North West","Private Health","2021-12-07",1919
 "Mpumalanga","Private Health","2021-09-15",3031
 "Eastern Cape","Public Health","2021-09-09",19353
 "Gauteng","Public Health","2021-06-09",13369
@@ -5026,11 +5059,11 @@
 "Northern Cape","Public Health","2021-11-09",1536
 "Western Cape","Public Health","2021-10-14",19276
 "Western Cape","Public Health","2021-10-26",18697
-"Limpopo","Public Health","2021-12-13",5853
+"Limpopo","Public Health","2021-12-13",5886
 "Mpumalanga","Private Health","2021-09-11",177
 "North West","Private Health","2021-09-13",4217
 "North West","Private Health","2021-11-14",27
-"Gauteng","Private Health","2021-12-12",1107
+"Gauteng","Private Health","2021-12-12",1108
 "Eastern Cape","Public Health","2021-11-09",8712
 "free state","Public Health","2021-12-09",4
 "KwaZulu-Natal","Private Health","2021-07-10",700
@@ -5071,7 +5104,7 @@
 "Free State","Private Health","2021-11-03",1959
 "Limpopo","Public Health","2021-12-10",5456
 "Western Cape","Public Health","2021-09-21",17288
-"KwaZulu-Natal","Public Health","2021-12-03",10384
+"KwaZulu-Natal","Public Health","2021-12-03",10393
 "Gauteng","Private Health","2021-07-28",20493
 "Gauteng","Public Health","2021-07-10",404
 "North West","Public Health","2021-06-26",373
@@ -5111,7 +5144,7 @@
 "KwaZulu-Natal","Private Health","2021-10-05",8640
 "Free State","Public Health","2021-11-01",1102
 "northern cape","Private Health","2021-12-13",1
-"KwaZulu-Natal","Private Health","2021-12-09",3799
+"KwaZulu-Natal","Private Health","2021-12-09",3821
 "Eastern Cape","Public Health","2021-10-10",763
 "Free State","Private Health","2021-11-10",1362
 "Gauteng","Public Health","2021-08-29",2209
@@ -5134,6 +5167,7 @@
 "North West","Private Health","2021-07-19",2638
 "Free State","Public Health","2021-10-17",434
 "North West","Public Health","2021-07-06",5537
+"Mpumalanga","Public Health","2021-12-16",188
 "Western Cape","Private Health","2021-09-05",684
 "Eastern Cape","Public Health","2021-10-18",10724
 "Northern Cape","Private Health","2021-07-13",332
@@ -5167,6 +5201,7 @@
 "Gauteng","Public Health","2021-05-19",7010
 "Limpopo","Public Health","2021-10-15",7561
 "North West","Public Health","2021-08-20",5077
+"mpumalanga","Private Health","2021-12-16",1
 "Gauteng","Private Health","2021-11-20",5751
 "Eastern Cape","Public Health","2021-06-08",8116
 "Gauteng","Public Health","2021-06-17",13446
@@ -5176,6 +5211,7 @@
 "Limpopo","Public Health","2021-11-25",5286
 "North West","Private Health","2021-11-11",1919
 "KwaZulu-Natal","Private Health","2021-09-12",806
+"Eastern Cape","Public Health","2021-12-16",106
 "Eastern Cape","Private Health","2021-09-01",4614
 "western cape","Public Health","2021-12-10",61
 "Northern Cape","Public Health","2021-09-04",304
@@ -5185,7 +5221,7 @@
 "Northern Cape","Private Health","2021-08-16",503
 "Eastern Cape","Private Health","2021-10-19",2666
 "Limpopo","Public Health","2021-07-16",4675
-"KwaZulu-Natal","Public Health","2021-10-12",14726
+"KwaZulu-Natal","Public Health","2021-10-12",14727
 "Free State","Private Health","2021-11-19",1310
 "Gauteng","Public Health","2021-05-22",214
 "Mpumalanga","Public Health","2021-06-26",73
@@ -5269,16 +5305,16 @@
 "Mpumalanga","Private Health","2021-07-25",36
 "western cape","Public Health","2021-12-06",28
 "Gauteng","Private Health","2021-10-30",8713
-"Northern Cape","Public Health","2021-12-15",721
 "Mpumalanga","Private Health","2021-08-21",294
+"Northern Cape","Public Health","2021-12-15",721
 "Free State","Private Health","2021-11-23",1203
 "Eastern Cape","Private Health","2021-09-27",3376
 "KwaZulu-Natal","Public Health","2021-07-11",2612
-"Gauteng","Public Health","2021-10-05",27100
+"Gauteng","Public Health","2021-10-05",27101
 "Western Cape","Private Health","2021-06-28",3097
 "Western Cape","Private Health","2021-10-10",1041
 "Free State","Public Health","2021-08-08",365
-"Gauteng","Private Health","2021-10-28",21700
+"Gauteng","Private Health","2021-10-28",21701
 "Western Cape","Private Health","2021-06-21",4184
 "western cape","Public Health","2021-12-14",53
 "Eastern Cape","Public Health","2021-07-06",19355
@@ -5434,7 +5470,7 @@
 "KwaZulu-Natal","Public Health","2021-09-04",5327
 "gauteng","Public Health","2021-12-09",35
 "North West","Private Health","2021-09-03",4040
-"Gauteng","Public Health","2021-12-10",17132
+"Gauteng","Public Health","2021-12-10",17135
 "North West","Private Health","2021-11-12",2183
 "Western Cape","Public Health","2021-06-03",12988
 "Western Cape","Public Health","2021-08-06",15012
@@ -5459,12 +5495,13 @@
 "Mpumalanga","Public Health","2021-07-18",14
 "Northern Cape","Private Health","2021-06-21",138
 "Eastern Cape","Private Health","2021-11-04",2745
+"Northern Cape","Public Health","2021-12-16",5
 "Mpumalanga","Public Health","2021-09-20",2832
 "Mpumalanga","Public Health","2021-06-21",4150
 "Free State","Public Health","2021-07-27",8572
 "Gauteng","Private Health","2021-07-29",21518
-"Western Cape","Private Health","2021-08-20",17163
-"North West","Private Health","2021-12-15",1355
+"Western Cape","Private Health","2021-08-20",17164
+"North West","Private Health","2021-12-15",1393
 "Mpumalanga","Public Health","2021-10-22",3571
 "Eastern Cape","Public Health","2021-05-30",12
 "Northern Cape","Private Health","2021-09-29",831
@@ -5505,7 +5542,7 @@
 "North West","Public Health","2021-07-13",6878
 "Free State","Public Health","2021-05-26",4444
 "Limpopo","Private Health","2021-11-01",248
-"Western Cape","Private Health","2021-12-15",4673
+"Western Cape","Private Health","2021-12-15",4740
 "Gauteng","Public Health","2021-08-16",17694
 "KwaZulu-Natal","Private Health","2021-11-03",4456
 "Eastern Cape","Public Health","2021-09-02",19868
@@ -5520,7 +5557,7 @@
 "eastern cape","Public Health","2021-12-09",6
 "Eastern Cape","Private Health","2021-08-26",4970
 "Gauteng","Public Health","2021-05-20",8248
-"North West","Private Health","2021-12-13",1195
+"North West","Private Health","2021-12-13",1208
 "Gauteng","Private Health","2021-07-15",19921
 "KwaZulu-Natal","Private Health","2021-09-06",7049
 "Free State","Public Health","2021-07-29",7179
@@ -5542,13 +5579,14 @@
 "Western Cape","Public Health","2021-06-14",10416
 "Limpopo","Private Health","2021-09-22",3247
 "Gauteng","Public Health","2021-09-29",19591
+"Free State","Public Health","2021-12-16",1
 "Northern Cape","Public Health","2021-05-23",96
 "North West","Private Health","2021-11-21",3
 "Free State","Private Health","2021-09-08",2620
 "Mpumalanga","Private Health","2021-07-20",1673
 "Free State","Public Health","2021-11-20",396
 "Western Cape","Public Health","2021-07-04",7
-"Western Cape","Private Health","2021-12-11",1523
+"Western Cape","Private Health","2021-12-11",1524
 "Western Cape","Private Health","2021-05-29",23
 "Northern Cape","Public Health","2021-08-19",2412
 "Free State","Private Health","2021-07-30",1892
@@ -5557,8 +5595,8 @@
 "Mpumalanga","Public Health","2021-07-23",9408
 "Western Cape","Private Health","2021-08-09",250
 "Eastern Cape","Public Health","2021-11-14",2472
-"Eastern Cape","Public Health","2021-12-15",3894
 "Eastern Cape","Private Health","2021-09-06",3829
+"Eastern Cape","Public Health","2021-12-15",3920
 "Gauteng","Private Health","2021-06-30",5550
 "KwaZulu-Natal","Private Health","2021-09-16",7785
 "northern cape","Public Health","2021-12-10",1
@@ -5568,7 +5606,7 @@
 "North West","Public Health","2021-06-20",9
 "KwaZulu-Natal","Public Health","2021-07-07",31592
 "Eastern Cape","Private Health","2021-09-30",3094
-"Limpopo","Private Health","2021-12-15",1743
+"Limpopo","Private Health","2021-12-15",1762
 "KwaZulu-Natal","Public Health","2021-06-26",1450
 "Eastern Cape","Public Health","2021-08-24",25211
 "KwaZulu-Natal","Private Health","2021-06-08",1154
@@ -5585,12 +5623,12 @@
 "Mpumalanga","Private Health","2021-08-06",1529
 "Western Cape","Private Health","2021-08-25",15370
 "Western Cape","Private Health","2021-10-26",9387
-"Gauteng","Public Health","2021-11-25",17188
+"Gauteng","Public Health","2021-11-25",17190
 "Mpumalanga","Private Health","2021-06-04",222
 "Gauteng","Public Health","2021-11-22",17670
 "Gauteng","Private Health","2021-06-24",4321
 "North West","Public Health","2021-06-01",2920
-"North West","Public Health","2021-05-18",1957
+"North West","Public Health","2021-05-18",1958
 "Northern Cape","Public Health","2021-08-24",4106
 "North West","Private Health","2021-08-17",3592
 "Free State","Private Health","2021-10-01",3054
@@ -5630,7 +5668,7 @@
 "Free State","Public Health","2021-08-26",8592
 "KwaZulu-Natal","Public Health","2021-09-17",14407
 "Limpopo","Public Health","2021-07-06",15695
-"KwaZulu-Natal","Public Health","2021-12-15",5418
+"KwaZulu-Natal","Public Health","2021-12-15",5580
 "KwaZulu-Natal","Public Health","2021-07-26",24218
 "Mpumalanga","Public Health","2021-09-11",1020
 "North West","Private Health","2021-06-25",318
@@ -5640,7 +5678,7 @@
 "Eastern Cape","Private Health","2021-10-28",2728
 "Gauteng","Public Health","2021-11-10",17738
 "Eastern Cape","Public Health","2021-08-30",26895
-"KwaZulu-Natal","Public Health","2021-12-12",1391
+"KwaZulu-Natal","Public Health","2021-12-12",1404
 "gauteng","Public Health","2021-12-01",4
 "Free State","Public Health","2021-07-08",7997
 "Gauteng","Public Health","2021-11-30",27386
@@ -5693,14 +5731,14 @@
 "North West","Public Health","2021-10-16",607
 "Western Cape","Public Health","2021-09-01",26408
 "Eastern Cape","Private Health","2021-09-26",126
-"Gauteng","Public Health","2021-10-30",5120
+"Gauteng","Public Health","2021-10-30",5121
 "Free State","Private Health","2021-11-05",1746
 "North West","Private Health","2021-06-26",84
 "Western Cape","Public Health","2021-06-05",152
 "Eastern Cape","Public Health","2021-07-09",18243
 "Eastern Cape","Private Health","2021-05-17",61
 "Free State","Public Health","2021-09-07",7101
-"Eastern Cape","Private Health","2021-12-09",1931
+"Eastern Cape","Private Health","2021-12-09",1934
 "KwaZulu-Natal","Public Health","2021-10-05",11196
 "Gauteng","Private Health","2021-11-08",12521
 "Gauteng","Private Health","2021-10-10",3745
@@ -5736,6 +5774,7 @@
 "Limpopo","Private Health","2021-08-11",2070
 "North West","Public Health","2021-06-14",3558
 "Mpumalanga","Private Health","2021-10-22",1666
+"Gauteng","Private Health","2021-12-16",1351
 "Gauteng","Public Health","2021-06-11",11796
 "Mpumalanga","Private Health","2021-11-27",266
 "Northern Cape","Private Health","2021-10-17",180
@@ -5759,7 +5798,7 @@
 "Western Cape","Public Health","2021-06-08",12221
 "Northern Cape","Private Health","2021-11-08",690
 "North West","Private Health","2021-06-22",198
-"Gauteng","Public Health","2021-12-14",15956
+"Gauteng","Public Health","2021-12-14",15993
 "Free State","Private Health","2021-07-27",1866
 "Free State","Private Health","2021-12-01",2199
 "KwaZulu-Natal","Private Health","2021-08-27",9958
@@ -5776,14 +5815,14 @@
 "Limpopo","Private Health","2021-08-05",3540
 "Eastern Cape","Public Health","2021-12-09",6197
 "KwaZulu-Natal","Public Health","2021-08-04",11307
-"KwaZulu-Natal","Public Health","2021-12-01",9642
+"KwaZulu-Natal","Public Health","2021-12-01",9660
 "Mpumalanga","Public Health","2021-08-13",3325
 "Western Cape","Private Health","2021-09-20",8292
 "Western Cape","Public Health","2021-05-18",1563
 "Free State","Public Health","2021-06-07",4622
 "Northern Cape","Private Health","2021-09-26",6
 "Limpopo","Public Health","2021-12-08",7369
-"North West","Private Health","2021-12-10",1894
+"North West","Private Health","2021-12-10",1897
 "Western Cape","Public Health","2021-11-23",8594
 "KwaZulu-Natal","Public Health","2021-09-22",11242
 "KwaZulu-Natal","Public Health","2021-07-14",2857
@@ -5800,15 +5839,16 @@
 "western cape","Public Health","2021-12-04",9
 "KwaZulu-Natal","Public Health","2021-07-29",17296
 "Gauteng","Public Health","2021-07-15",26043
-"Gauteng","Private Health","2021-11-04",15937
+"Gauteng","Private Health","2021-11-04",15944
 "Northern Cape","Private Health","2021-07-28",525
 "Eastern Cape","Public Health","2021-10-04",11079
 "Limpopo","Public Health","2021-05-26",6747
-"Eastern Cape","Private Health","2021-12-07",2049
+"Eastern Cape","Private Health","2021-12-07",2050
 "KwaZulu-Natal","Public Health","2021-08-08",1299
 "Limpopo","Private Health","2021-11-16",1808
 "North West","Public Health","2021-07-22",5865
 "North West","Private Health","2021-07-05",769
+"North West","Public Health","2021-12-16",953
 "Gauteng","Private Health","2021-10-07",28095
 "Western Cape","Private Health","2021-07-28",10351
 "Western Cape","Public Health","2021-10-04",19040
@@ -5818,7 +5858,7 @@
 "Eastern Cape","Public Health","2021-10-30",1431
 "Gauteng","Public Health","2021-08-28",6969
 "Western Cape","Public Health","2021-11-28",158
-"KwaZulu-Natal","Public Health","2021-11-05",8002
+"KwaZulu-Natal","Public Health","2021-11-05",8003
 "North West","Public Health","2021-09-02",4167
 "Gauteng","Public Health","2021-06-26",92
 "Western Cape","Private Health","2021-10-12",10077
@@ -5830,7 +5870,7 @@
 "Northern Cape","Private Health","2021-07-29",533
 "Free State","Public Health","2021-08-07",752
 "Gauteng","Private Health","2021-08-17",20301
-"Mpumalanga","Private Health","2021-12-15",1205
+"Mpumalanga","Private Health","2021-12-15",1260
 "Northern Cape","Private Health","2021-08-17",506
 "Northern Cape","Public Health","2021-11-01",309
 "Limpopo","Public Health","2021-08-04",13066
@@ -5901,7 +5941,7 @@
 "Mpumalanga","Public Health","2021-08-12",3767
 "Northern Cape","Private Health","2021-11-04",795
 "KwaZulu-Natal","Private Health","2021-09-09",7408
-"Eastern Cape","Private Health","2021-12-10",1966
+"Eastern Cape","Private Health","2021-12-10",1967
 "Mpumalanga","Public Health","2021-11-13",2009
 "Limpopo","Private Health","2021-11-25",1774
 "Eastern Cape","Public Health","2021-10-08",9454
@@ -5937,12 +5977,12 @@
 "KwaZulu-Natal","Public Health","2021-08-17",11798
 "Mpumalanga","Public Health","2021-07-31",275
 "western cape","Public Health","2021-12-15",47
-"Western Cape","Private Health","2021-12-06",6109
+"Western Cape","Private Health","2021-12-06",6124
 "North West","Public Health","2021-07-08",6764
 "Western Cape","Public Health","2021-10-07",20777
 "Mpumalanga","Public Health","2021-10-16",628
 "Eastern Cape","Private Health","2021-10-27",2739
-"Gauteng","Private Health","2021-12-14",12380
+"Gauteng","Private Health","2021-12-14",12465
 "Gauteng","Public Health","2021-05-18",5389
 "North West","Public Health","2021-10-03",886
 "KwaZulu-Natal","Private Health","2021-09-20",5452
@@ -5991,9 +6031,9 @@
 "Mpumalanga","Public Health","2021-10-24",138
 "KwaZulu-Natal","Private Health","2021-12-07",3939
 "Limpopo","Public Health","2021-11-21",1
-"Eastern Cape","Private Health","2021-12-15",1406
+"Eastern Cape","Private Health","2021-12-15",1434
 "Limpopo","Public Health","2021-11-15",5958
-"Mpumalanga","Public Health","2021-07-13",6722
+"Mpumalanga","Public Health","2021-07-13",6723
 "Gauteng","Private Health","2021-06-29",5160
 "Western Cape","Private Health","2021-10-09",3616
 "KwaZulu-Natal","Public Health","2021-09-07",10269
@@ -6023,7 +6063,7 @@
 "Mpumalanga","Public Health","2021-06-15",5052
 "Northern Cape","Public Health","2021-05-28",525
 "Mpumalanga","Public Health","2021-11-07",146
-"KwaZulu-Natal","Public Health","2021-12-02",9470
+"KwaZulu-Natal","Public Health","2021-12-02",9477
 "gauteng","Public Health","2021-12-06",20
 "Northern Cape","Public Health","2021-11-25",1290
 "western cape","Public Health","2021-12-13",67
@@ -6032,7 +6072,7 @@
 "Northern Cape","Private Health","2021-06-17",133
 "Free State","Private Health","2021-06-23",233
 "North West","Public Health","2021-06-23",2077
-"Western Cape","Public Health","2021-07-08",19970
+"Western Cape","Public Health","2021-07-08",19974
 "Limpopo","Private Health","2021-07-12",1871
 "Free State","Private Health","2021-08-11",1758
 "kwazulu-natal","Private Health","2021-12-06",53
@@ -6045,7 +6085,7 @@
 "KwaZulu-Natal","Private Health","2021-09-04",3225
 "Mpumalanga","Public Health","2021-12-03",2600
 "Western Cape","Private Health","2021-08-03",10949
-"KwaZulu-Natal","Private Health","2021-10-06",8191
+"KwaZulu-Natal","Private Health","2021-10-06",8192
 "Eastern Cape","Public Health","2021-10-02",2057
 "KwaZulu-Natal","Public Health","2021-08-21",3474
 "Eastern Cape","Public Health","2021-10-17",627
@@ -6056,7 +6096,7 @@
 "Northern Cape","Private Health","2021-08-30",999
 "Mpumalanga","Public Health","2021-08-09",973
 "Mpumalanga","Public Health","2021-05-21",1533
-"KwaZulu-Natal","Public Health","2021-12-09",7776
+"KwaZulu-Natal","Public Health","2021-12-09",7818
 "Free State","Private Health","2021-09-30",2051
 "Gauteng","Private Health","2021-06-12",276
 "Free State","Public Health","2021-12-02",6669
@@ -6074,16 +6114,17 @@
 "Limpopo","Public Health","2021-10-08",5122
 "limpopo","Private Health","2021-12-03",3
 "Gauteng","Public Health","2021-06-16",44
-"KwaZulu-Natal","Public Health","2021-12-05",1916
+"KwaZulu-Natal","Public Health","2021-12-05",1928
 "Free State","Private Health","2021-07-08",1195
 "Mpumalanga","Public Health","2021-09-29",2898
 "KwaZulu-Natal","Private Health","2021-05-28",882
 "Northern Cape","Private Health","2021-11-22",529
-"Gauteng","Public Health","2021-10-06",28338
+"Gauteng","Public Health","2021-10-06",28347
 "Limpopo","Public Health","2021-10-19",11363
 "Limpopo","Public Health","2021-09-04",7280
 "Western Cape","Private Health","2021-06-18",3996
 "Eastern Cape","Private Health","2021-08-17",3082
+"Limpopo","Public Health","2021-12-16",1790
 "gauteng","Private Health","2021-12-05",19
 "Eastern Cape","Private Health","2021-08-25",4481
 "Eastern Cape","Private Health","2021-11-30",2666
@@ -6112,7 +6153,7 @@
 "Western Cape","Public Health","2021-10-05",21163
 "North West","Private Health","2021-10-29",3159
 "North West","Private Health","2021-07-29",2473
-"Gauteng","Public Health","2021-12-09",19859
+"Gauteng","Public Health","2021-12-09",19863
 "Eastern Cape","Public Health","2021-06-20",7
 "Mpumalanga","Public Health","2021-07-08",6290
 "Gauteng","Public Health","2021-08-05",13475
@@ -6123,7 +6164,7 @@
 "Gauteng","Public Health","2021-12-02",22110
 "Western Cape","Public Health","2021-09-04",4963
 "North West","Public Health","2021-09-22",4580
-"North West","Public Health","2021-12-07",4351
+"North West","Public Health","2021-12-07",4359
 "Western Cape","Private Health","2021-07-03",1633
 "Western Cape","Private Health","2021-05-24",81
 "Gauteng","Private Health","2021-09-21",22931
@@ -6169,7 +6210,7 @@
 "Limpopo","Private Health","2021-09-09",4291
 "North West","Private Health","2021-11-18",1924
 "free state","Private Health","2021-12-01",1
-"Free State","Private Health","2021-12-08",1477
+"Free State","Private Health","2021-12-08",1479
 "Eastern Cape","Private Health","2021-07-15",4488
 "gauteng","Private Health","2021-12-12",42
 "Limpopo","Private Health","2021-07-16",1817
@@ -6192,7 +6233,7 @@
 "Eastern Cape","Private Health","2021-08-29",12
 "Limpopo","Private Health","2021-11-24",1729
 "KwaZulu-Natal","Private Health","2021-09-22",6924
-"KwaZulu-Natal","Public Health","2021-10-08",15205
+"KwaZulu-Natal","Public Health","2021-10-08",15206
 "KwaZulu-Natal","Public Health","2021-07-12",4341
 "Eastern Cape","Private Health","2021-08-05",3497
 "Mpumalanga","Public Health","2021-10-11",4157
@@ -6208,8 +6249,8 @@
 "KwaZulu-Natal","Public Health","2021-06-29",16137
 "Western Cape","Public Health","2021-11-09",11359
 "Gauteng","Private Health","2021-10-04",26905
-"Limpopo","Public Health","2021-12-06",8057
-"Gauteng","Public Health","2021-11-04",21200
+"Limpopo","Public Health","2021-12-06",8058
+"Gauteng","Public Health","2021-11-04",21203
 "kwazulu-natal","Private Health","2021-12-13",88
 "Free State","Private Health","2021-08-12",1669
 "Limpopo","Private Health","2021-06-22",309
@@ -6235,6 +6276,7 @@
 "Northern Cape","Public Health","2021-10-13",2220
 "Free State","Public Health","2021-10-27",8290
 "kwazulu-natal","Public Health","2021-12-05",3
+"Free State","Private Health","2021-12-16",45
 "Free State","Private Health","2021-09-05",6
 "Free State","Public Health","2021-07-16",10023
 "Mpumalanga","Public Health","2021-09-28",2630
@@ -6283,7 +6325,7 @@
 "Mpumalanga","Public Health","2021-08-10",4010
 "western cape","Private Health","2021-12-08",154
 "Free State","Public Health","2021-09-17",7697
-"KwaZulu-Natal","Public Health","2021-11-04",10214
+"KwaZulu-Natal","Public Health","2021-11-04",10215
 "Western Cape","Public Health","2021-08-15",15
 "Mpumalanga","Private Health","2021-07-19",1758
 "Mpumalanga","Public Health","2021-12-14",1777
@@ -6358,7 +6400,7 @@
 "North West","Private Health","2021-05-25",169
 "Mpumalanga","Public Health","2021-05-26",2640
 "limpopo","Public Health","2021-12-09",1
-"KwaZulu-Natal","Public Health","2021-11-14",3392
+"KwaZulu-Natal","Public Health","2021-11-14",3393
 "KwaZulu-Natal","Private Health","2021-08-13",5947
 "Eastern Cape","Public Health","2021-09-29",10954
 "Limpopo","Public Health","2021-09-25",33
@@ -6400,7 +6442,7 @@
 "Northern Cape","Private Health","2021-10-27",846
 "North West","Public Health","2021-10-06",4113
 "KwaZulu-Natal","Private Health","2021-11-08",3430
-"Gauteng","Private Health","2021-12-06",15707
+"Gauteng","Private Health","2021-12-06",15717
 "Eastern Cape","Public Health","2021-12-08",6737
 "Mpumalanga","Public Health","2021-05-18",2977
 "Western Cape","Private Health","2021-11-18",5343
@@ -6415,7 +6457,7 @@
 "KwaZulu-Natal","Private Health","2021-05-29",12
 "Free State","Private Health","2021-09-28",2225
 "Gauteng","Public Health","2021-06-01",12770
-"Western Cape","Public Health","2021-12-15",6191
+"Western Cape","Public Health","2021-12-15",6211
 "Gauteng","Private Health","2021-11-09",14409
 "Mpumalanga","Public Health","2021-08-23",7797
 "Western Cape","Public Health","2021-09-07",22737
@@ -6435,7 +6477,7 @@
 "Mpumalanga","Private Health","2021-08-28",249
 "Limpopo","Private Health","2021-11-18",2495
 "Western Cape","Public Health","2021-10-27",18059
-"Free State","Private Health","2021-10-25",2145
+"Free State","Private Health","2021-10-25",2146
 "Western Cape","Private Health","2021-05-25",202
 "Mpumalanga","Private Health","2021-10-01",2241
 "Limpopo","Private Health","2021-07-27",3206
@@ -6446,6 +6488,7 @@
 "Mpumalanga","Public Health","2021-10-17",127
 "Gauteng","Public Health","2021-07-02",12224
 "Gauteng","Private Health","2021-07-25",3085
+"kwazulu-natal","Public Health","2021-12-16",3
 "North West","Private Health","2021-08-03",2604
 "Eastern Cape","Private Health","2021-09-28",3135
 "North West","Public Health","2021-08-11",4270
@@ -6456,7 +6499,7 @@
 "Northern Cape","Public Health","2021-08-09",168
 "North West","Private Health","2021-06-28",335
 "Eastern Cape","Private Health","2021-10-03",322
-"Gauteng","Private Health","2021-12-04",7598
+"Gauteng","Private Health","2021-12-04",7608
 "Gauteng","Private Health","2021-07-07",17925
 "Limpopo","Private Health","2021-08-08",1
 "Gauteng","Public Health","2021-06-23",9837
@@ -6508,7 +6551,7 @@
 "Gauteng","Public Health","2021-10-25",27783
 "Eastern Cape","Private Health","2021-05-28",503
 "KwaZulu-Natal","Private Health","2021-06-24",1411
-"Western Cape","Private Health","2021-12-10",5984
+"Western Cape","Private Health","2021-12-10",5998
 "Western Cape","Public Health","2021-10-02",8660
 "Free State","Public Health","2021-06-19",302
 "North West","Private Health","2021-07-15",1305
@@ -6569,7 +6612,7 @@
 "Mpumalanga","Public Health","2021-10-10",54
 "North West","Private Health","2021-06-23",173
 "Northern Cape","Public Health","2021-10-27",2332
-"KwaZulu-Natal","Public Health","2021-10-10",2164
+"KwaZulu-Natal","Public Health","2021-10-10",2165
 "Northern Cape","Private Health","2021-08-01",1
 "Gauteng","Private Health","2021-11-10",14104
 "Western Cape","Private Health","2021-10-05",12385
@@ -6622,7 +6665,7 @@
 "Free State","Private Health","2021-10-21",2045
 "Eastern Cape","Private Health","2021-05-27",819
 "Mpumalanga","Public Health","2021-11-02",3191
-"Gauteng","Public Health","2021-08-24",34301
+"Gauteng","Public Health","2021-08-24",34302
 "KwaZulu-Natal","Private Health","2021-09-10",9239
 "KwaZulu-Natal","Private Health","2021-11-24",3364
 "Free State","Public Health","2021-05-25",3287
@@ -6638,7 +6681,7 @@
 "Free State","Public Health","2021-06-21",3958
 "Western Cape","Public Health","2021-06-23",7244
 "Northern Cape","Private Health","2021-05-24",24
-"Eastern Cape","Private Health","2021-12-08",1873
+"Eastern Cape","Private Health","2021-12-08",1884
 "Mpumalanga","Private Health","2021-11-01",166
 "Gauteng","Public Health","2021-10-09",5182
 "Mpumalanga","Private Health","2021-11-21",10
@@ -6651,7 +6694,7 @@
 "Western Cape","Public Health","2021-12-11",1314
 "Northern Cape","Public Health","2021-07-17",683
 "Western Cape","Private Health","2021-07-13",7178
-"Gauteng","Private Health","2021-12-15",11236
+"Gauteng","Private Health","2021-12-15",11673
 "Northern Cape","Private Health","2021-06-23",159
 "KwaZulu-Natal","Public Health","2021-06-30",19046
 "Mpumalanga","Public Health","2021-06-18",3723
@@ -6762,7 +6805,7 @@
 "Free State","Private Health","2021-08-09",46
 "North West","Public Health","2021-05-24",3191
 "Western Cape","Private Health","2021-08-04",10527
-"Western Cape","Public Health","2021-12-01",11519
+"Western Cape","Public Health","2021-12-01",11522
 "Western Cape","Private Health","2021-12-09",5424
 "Western Cape","Public Health","2021-06-11",11209
 "Free State","Private Health","2021-10-12",2581
@@ -6790,7 +6833,7 @@
 "Northern Cape","Private Health","2021-10-21",642
 "Mpumalanga","Private Health","2021-06-07",225
 "Limpopo","Private Health","2021-11-23",1623
-"Gauteng","Private Health","2021-10-08",33220
+"Gauteng","Private Health","2021-10-08",33415
 "Free State","Private Health","2021-10-06",3129
 "Eastern Cape","Public Health","2021-05-23",210
 "Western Cape","Private Health","2021-06-30",3470
@@ -6804,7 +6847,7 @@
 "Limpopo","Private Health","2021-06-25",195
 "Mpumalanga","Public Health","2021-11-01",1741
 "KwaZulu-Natal","Public Health","2021-10-28",12314
-"Western Cape","Private Health","2021-12-08",5393
+"Western Cape","Private Health","2021-12-08",5394
 "Gauteng","Private Health","2021-08-25",29926
 "Northern Cape","Private Health","2021-11-19",753
 "Northern Cape","Public Health","2021-11-11",1462
@@ -6826,12 +6869,12 @@
 "kwazulu-natal","Public Health","2021-12-01",2
 "Northern Cape","Public Health","2021-09-24",757
 "Western Cape","Public Health","2021-07-02",11700
-"Limpopo","Public Health","2021-11-04",7041
+"Limpopo","Public Health","2021-11-04",7045
 "Limpopo","Public Health","2021-09-05",339
 "KwaZulu-Natal","Private Health","2021-10-08",11040
-"Gauteng","Private Health","2021-08-16",20168
+"Gauteng","Private Health","2021-08-16",20169
 "KwaZulu-Natal","Public Health","2021-10-31",2555
-"Gauteng","Public Health","2021-11-23",18725
+"Gauteng","Public Health","2021-11-23",18726
 "Gauteng","Private Health","2021-11-18",13253
 "Western Cape","Public Health","2021-05-25",6448
 "Mpumalanga","Public Health","2021-07-12",7928
@@ -6845,6 +6888,7 @@
 "Eastern Cape","Public Health","2021-06-03",1830
 "Gauteng","Public Health","2021-06-05",112
 "Eastern Cape","Public Health","2021-09-25",565
+"western cape","Private Health","2021-12-16",6
 "North West","Public Health","2021-10-13",3193
 "Northern Cape","Public Health","2021-12-06",1156
 "Northern Cape","Public Health","2021-06-23",852
@@ -6921,7 +6965,7 @@
 "North West","Public Health","2021-06-13",12
 "Mpumalanga","Public Health","2021-07-24",1035
 "Free State","Public Health","2021-09-29",4989
-"Gauteng","Public Health","2021-12-15",15107
+"Gauteng","Public Health","2021-12-15",15179
 "North West","Private Health","2021-09-29",4063
 "North West","Public Health","2021-06-02",3426
 "KwaZulu-Natal","Private Health","2021-11-23",3328
@@ -6934,7 +6978,7 @@
 "Western Cape","Private Health","2021-08-07",2100
 "Eastern Cape","Public Health","2021-08-07",470
 "North West","Private Health","2021-08-06",3359
-"Free State","Public Health","2021-12-14",3327
+"Free State","Public Health","2021-12-14",3328
 "KwaZulu-Natal","Private Health","2021-05-26",954
 "Northern Cape","Private Health","2021-06-01",9
 "North West","Public Health","2021-05-25",3058
@@ -6971,12 +7015,12 @@
 "Free State","Private Health","2021-10-20",2183
 "Limpopo","Private Health","2021-05-18",41
 "Eastern Cape","Public Health","2021-10-06",13585
-"KwaZulu-Natal","Public Health","2021-11-18",8280
+"KwaZulu-Natal","Public Health","2021-11-18",8281
 "KwaZulu-Natal","Public Health","2021-07-16",10005
 "Eastern Cape","Public Health","2021-12-07",6957
 "Northern Cape","Public Health","2021-11-12",2060
 "Free State","Private Health","2021-12-07",1601
-"gauteng","Private Health","2021-12-14",225
+"gauteng","Private Health","2021-12-14",227
 "Free State","Private Health","2021-10-04",3039
 "Free State","Public Health","2021-07-06",6482
 "Mpumalanga","Public Health","2021-08-14",289
@@ -7006,7 +7050,7 @@
 "North West","Private Health","2021-09-10",4268
 "Northern Cape","Private Health","2021-07-08",360
 "North West","Private Health","2021-08-31",4162
-"Gauteng","Public Health","2021-11-18",17218
+"Gauteng","Public Health","2021-11-18",17226
 "free state","Private Health","2021-12-15",2
 "Free State","Private Health","2021-09-15",2738
 "Gauteng","Public Health","2021-08-12",14721
@@ -7042,8 +7086,8 @@
 "Eastern Cape","Private Health","2021-10-13",3156
 "Western Cape","Public Health","2021-06-26",6
 "Free State","Public Health","2021-12-07",5664
-"Gauteng","Public Health","2021-11-03",23752
-"Gauteng","Private Health","2021-12-11",6216
+"Gauteng","Public Health","2021-11-03",23753
+"Gauteng","Private Health","2021-12-11",6228
 "North West","Public Health","2021-07-20",7274
 "Western Cape","Private Health","2021-07-11",593
 "KwaZulu-Natal","Public Health","2021-07-18",4840
@@ -7065,7 +7109,7 @@
 "Mpumalanga","Public Health","2021-08-01",6
 "Gauteng","Public Health","2021-11-20",3672
 "Free State","Public Health","2021-09-09",7146
-"KwaZulu-Natal","Public Health","2021-12-07",9077
+"KwaZulu-Natal","Public Health","2021-12-07",9105
 "Free State","Private Health","2021-09-23",2156
 "Limpopo","Public Health","2021-07-26",17111
 "Free State","Public Health","2021-07-17",1255
@@ -7098,7 +7142,7 @@
 "Eastern Cape","Private Health","2021-08-19",3291
 "Gauteng","Public Health","2021-08-01",901
 "Free State","Public Health","2021-11-29",6202
-"KwaZulu-Natal","Public Health","2021-10-15",15407
+"KwaZulu-Natal","Public Health","2021-10-15",15408
 "Western Cape","Private Health","2021-09-27",9948
 "North West","Private Health","2021-10-16",362
 "North West","Public Health","2021-08-02",5616
@@ -7113,7 +7157,7 @@
 "Free State","Public Health","2021-10-30",1078
 "Mpumalanga","Private Health","2021-09-30",1857
 "Mpumalanga","Private Health","2021-11-20",202
-"Free State","Private Health","2021-12-15",910
+"Free State","Private Health","2021-12-15",941
 "Gauteng","Private Health","2021-07-03",4112
 "north west","Public Health","2021-12-07",1
 "Gauteng","Private Health","2021-07-18",3563
@@ -7126,6 +7170,7 @@
 "free state","Private Health","2021-12-07",2
 "Mpumalanga","Public Health","2021-05-31",3137
 "Eastern Cape","Public Health","2021-05-31",5005
+"KwaZulu-Natal","Private Health","2021-12-16",790
 "Limpopo","Private Health","2021-11-27",631
 "North West","Public Health","2021-11-11",3405
 "Gauteng","Private Health","2021-06-20",79
@@ -7182,7 +7227,7 @@
 "Gauteng","Private Health","2021-11-13",9261
 "Western Cape","Private Health","2021-11-08",5316
 "North West","Public Health","2021-06-18",2676
-"Eastern Cape","Public Health","2021-12-01",8966
+"Eastern Cape","Public Health","2021-12-01",8971
 "Eastern Cape","Private Health","2021-10-30",1041
 "Gauteng","Private Health","2021-11-14",1761
 "Northern Cape","Private Health","2021-06-09",119
@@ -7203,7 +7248,7 @@
 "Limpopo","Public Health","2021-05-21",4987
 "Eastern Cape","Public Health","2021-07-05",18049
 "Mpumalanga","Public Health","2021-05-19",2033
-"Gauteng","Public Health","2021-10-20",27649
+"Gauteng","Public Health","2021-10-20",27650
 "kwazulu-natal","Public Health","2021-12-03",7
 "Western Cape","Public Health","2021-11-02",14922
 "mpumalanga","Public Health","2021-12-09",2
@@ -7237,12 +7282,12 @@
 "Gauteng","Private Health","2021-09-28",19974
 "Gauteng","Private Health","2021-10-24",2062
 "Eastern Cape","Public Health","2021-10-13",13458
-"Western Cape","Private Health","2021-11-06",2119
+"Western Cape","Private Health","2021-11-06",2120
 "Gauteng","Private Health","2021-10-26",22447
 "Gauteng","Private Health","2021-10-03",5442
 "Free State","Public Health","2021-06-08",4981
 "Mpumalanga","Public Health","2021-12-10",2229
-"Free State","Private Health","2021-09-07",2597
+"Free State","Private Health","2021-09-07",2598
 "Western Cape","Public Health","2021-07-30",19795
 "Northern Cape","Private Health","2021-07-19",586
 "Gauteng","Public Health","2021-09-03",31773
@@ -7250,7 +7295,7 @@
 "Western Cape","Public Health","2021-07-29",18608
 "Gauteng","Public Health","2021-11-12",16975
 "Eastern Cape","Public Health","2021-08-01",575
-"Gauteng","Public Health","2021-10-29",27808
+"Gauteng","Public Health","2021-10-29",27811
 "Eastern Cape","Public Health","2021-06-07",7102
 "North West","Private Health","2021-11-05",1772
 "Eastern Cape","Public Health","2021-11-22",8489
@@ -7296,6 +7341,7 @@
 "Northern Cape","Public Health","2021-12-05",287
 "Northern Cape","Public Health","2021-12-07",1599
 "Mpumalanga","Public Health","2021-11-17",1911
+"gauteng","Public Health","2021-12-16",5
 "Western Cape","Private Health","2021-11-13",3935
 "Free State","Private Health","2021-08-29",82
 "Limpopo","Private Health","2021-10-08",3445
@@ -7312,7 +7358,7 @@
 "Eastern Cape","Private Health","2021-09-15",3500
 "Northern Cape","Public Health","2021-08-08",31
 "Western Cape","Private Health","2021-03-09",1
-"Gauteng","Private Health","2021-12-13",11812
+"Gauteng","Private Health","2021-12-13",11813
 "North West","Public Health","2021-07-03",1403
 "KwaZulu-Natal","Private Health","2021-07-17",349
 "Eastern Cape","Private Health","2021-08-20",4904
@@ -7355,7 +7401,7 @@
 "Limpopo","Public Health","2021-09-13",12121
 "Limpopo","Private Health","2021-06-27",1
 "Eastern Cape","Public Health","2021-06-23",9220
-"Gauteng","Public Health","2021-12-12",1401
+"Gauteng","Public Health","2021-12-12",1417
 "Western Cape","Public Health","2021-11-21",159
 "KwaZulu-Natal","Public Health","2021-11-21",1707
 "Eastern Cape","Private Health","2021-10-01",4169
@@ -7366,7 +7412,7 @@
 "Northern Cape","Private Health","2021-09-24",143
 "Eastern Cape","Public Health","2021-08-28",583
 "North West","Private Health","2021-07-08",1193
-"KwaZulu-Natal","Public Health","2021-11-26",8639
+"KwaZulu-Natal","Public Health","2021-11-26",8642
 "Northern Cape","Private Health","2021-08-23",1091
 "north west","Private Health","2021-12-07",9
 "Limpopo","Private Health","2021-10-09",522
@@ -7379,7 +7425,7 @@
 "KwaZulu-Natal","Public Health","2021-07-01",21530
 "Western Cape","Private Health","2021-08-24",15266
 "Limpopo","Private Health","2021-10-24",35
-"North West","Public Health","2021-10-29",4733
+"North West","Public Health","2021-10-29",4734
 "Mpumalanga","Private Health","2021-11-16",1364
 "Free State","Public Health","2021-06-02",5187
 "Gauteng","Private Health","2021-09-07",28736
@@ -7388,11 +7434,11 @@
 "Limpopo","Private Health","2021-12-11",614
 "Gauteng","Private Health","2021-10-14",22275
 "Gauteng","Public Health","2021-06-18",11693
-"North West","Public Health","2021-12-14",3057
+"North West","Public Health","2021-12-14",3059
 "KwaZulu-Natal","Private Health","2021-06-02",1048
 "North West","Public Health","2021-08-29",1032
 "Free State","Private Health","2021-10-10",38
-"KwaZulu-Natal","Public Health","2021-12-10",7218
+"KwaZulu-Natal","Public Health","2021-12-10",7241
 "Western Cape","Private Health","2021-10-07",12829
 "Northern Cape","Private Health","2021-10-28",807
 "Limpopo","Public Health","2021-11-07",5
@@ -7403,7 +7449,7 @@
 "Free State","Private Health","2021-08-28",381
 "KwaZulu-Natal","Private Health","2021-09-08",7379
 "Western Cape","Public Health","2021-09-02",27679
-"kwazulu-natal","Private Health","2021-12-11",31
+"kwazulu-natal","Private Health","2021-12-11",32
 "Northern Cape","Private Health","2021-08-15",1
 "Northern Cape","Public Health","2021-07-12",3125
 "Northern Cape","Public Health","2021-07-19",3205
@@ -7422,7 +7468,7 @@
 "Western Cape","Public Health","2021-06-25",5495
 "Gauteng","Private Health","2021-07-27",22495
 "Western Cape","Private Health","2021-11-12",7487
-"KwaZulu-Natal","Public Health","2021-10-06",11941
+"KwaZulu-Natal","Public Health","2021-10-06",11942
 "KwaZulu-Natal","Public Health","2021-08-03",20343
 "Limpopo","Public Health","2021-08-13",1867
 "Western Cape","Public Health","2021-07-11",26
@@ -7467,7 +7513,7 @@
 "Limpopo","Public Health","2021-11-11",5695
 "KwaZulu-Natal","Private Health","2021-06-15",1510
 "Eastern Cape","Private Health","2021-07-31",262
-"North West","Private Health","2021-12-14",1546
+"North West","Private Health","2021-12-14",1573
 "Eastern Cape","Private Health","2021-11-26",2287
 "Mpumalanga","Private Health","2021-09-08",2514
 "Northern Cape","Public Health","2021-06-17",1234
@@ -7491,7 +7537,7 @@
 "kwazulu-natal","Public Health","2021-12-15",31
 "Western Cape","Public Health","2021-08-26",29241
 "Eastern Cape","Private Health","2021-12-14",1407
-"Gauteng","Public Health","2021-12-04",6603
+"Gauteng","Public Health","2021-12-04",6604
 "Limpopo","Private Health","2021-09-21",3786
 "Gauteng","Private Health","2021-07-19",26263
 "free state","Public Health","2021-12-06",4
@@ -7522,7 +7568,7 @@
 "Limpopo","Private Health","2021-06-14",545
 "Northern Cape","Public Health","2021-11-16",1862
 "Limpopo","Private Health","2021-11-20",447
-"North West","Private Health","2021-12-11",367
+"North West","Private Health","2021-12-11",374
 "Gauteng","Private Health","2021-05-20",3431
 "Limpopo","Private Health","2021-10-17",26
 "Gauteng","Public Health","2021-09-25",2633
@@ -7552,7 +7598,7 @@
 "Limpopo","Public Health","2021-11-19",3213
 "North West","Public Health","2021-10-15",2502
 "Gauteng","Private Health","2021-11-12",19128
-"North West","Public Health","2021-12-15",2550
+"North West","Public Health","2021-12-15",2626
 "Mpumalanga","Private Health","2021-11-18",1046
 "Mpumalanga","Private Health","2021-06-18",267
 "Limpopo","Public Health","2021-09-19",35
@@ -7597,7 +7643,7 @@
 "Free State","Private Health","2021-11-09",1681
 "Mpumalanga","Public Health","2021-06-13",11
 "Western Cape","Public Health","2021-05-27",7606
-"KwaZulu-Natal","Public Health","2021-12-11",2453
+"KwaZulu-Natal","Public Health","2021-12-11",2457
 "Northern Cape","Private Health","2021-07-21",627
 "Eastern Cape","Private Health","2021-09-13",3831
 "Gauteng","Private Health","2021-12-09",14301
@@ -7611,9 +7657,9 @@
 "Northern Cape","Private Health","2021-10-10",121
 "Eastern Cape","Public Health","2021-09-04",1133
 "Limpopo","Private Health","2021-08-12",1862
-"Free State","Private Health","2021-12-13",1047
+"Free State","Private Health","2021-12-13",1049
 "Free State","Private Health","2021-08-27",3086
-"Gauteng","Private Health","2021-12-02",15564
+"Gauteng","Private Health","2021-12-02",15570
 "Limpopo","Private Health","2021-12-09",1938
 "Eastern Cape","Public Health","2021-07-03",24
 "Northern Cape","Public Health","2021-07-06",2113
@@ -7623,7 +7669,7 @@
 "Free State","Private Health","2021-08-13",1789
 "KwaZulu-Natal","Private Health","2021-06-12",381
 "KwaZulu-Natal","Private Health","2021-11-26",4249
-"Gauteng","Private Health","2021-12-10",16932
+"Gauteng","Private Health","2021-12-10",16933
 "Western Cape","Private Health","2021-06-09",3189
 "Western Cape","Public Health","2021-10-06",23180
 "Limpopo","Private Health","2021-08-06",2965
@@ -7679,7 +7725,7 @@
 "Free State","Public Health","2021-07-18",925
 "Western Cape","Public Health","2021-09-09",25553
 "Free State","Public Health","2021-08-10",5676
-"KwaZulu-Natal","Public Health","2021-12-06",8741
+"KwaZulu-Natal","Public Health","2021-12-06",8757
 "Limpopo","Private Health","2021-12-06",1513
 "Western Cape","Public Health","2021-06-17",12153
 "Mpumalanga","Public Health","2021-05-23",2
@@ -7697,13 +7743,13 @@
 "gauteng","Public Health","2021-12-10",36
 "Limpopo","Public Health","2021-06-03",7842
 "Gauteng","Public Health","2021-10-31",1701
-"Gauteng","Public Health","2021-10-13",27016
+"Gauteng","Public Health","2021-10-13",27021
 "North West","Private Health","2021-10-25",2544
 "Western Cape","Private Health","2021-05-26",468
 "Gauteng","Private Health","2021-08-19",20937
 "Gauteng","Public Health","2021-09-04",5216
 "Eastern Cape","Public Health","2021-10-15",9822
-"KwaZulu-Natal","Public Health","2021-11-27",3385
+"KwaZulu-Natal","Public Health","2021-11-27",3388
 "Western Cape","Public Health","2021-12-10",9277
 "Mpumalanga","Public Health","2021-09-08",7311
 "Eastern Cape","Private Health","2021-09-14",3620
@@ -7711,12 +7757,13 @@
 "Gauteng","Private Health","2021-11-16",13758
 "Free State","Private Health","2021-06-17",269
 "Gauteng","Public Health","2021-06-24",9078
-"Gauteng","Public Health","2021-10-07",26219
+"Gauteng","Public Health","2021-10-07",26220
 "Western Cape","Private Health","2021-10-25",8014
 "North West","Private Health","2021-07-12",1324
 "Northern Cape","Public Health","2021-10-05",2836
 "Gauteng","Private Health","2021-07-26",21436
 "North West","Private Health","2021-07-25",450
+"Gauteng","Public Health","2021-12-16",952
 "Mpumalanga","Private Health","2021-11-23",1154
 "Mpumalanga","Private Health","2021-08-02",1628
 "Free State","Public Health","2021-07-13",8743
@@ -7730,7 +7777,7 @@
 "Limpopo","Private Health","2021-07-15",1754
 "Western Cape","Public Health","2021-08-02",15403
 "Northern Cape","Private Health","2021-07-24",14
-"Western Cape","Public Health","2021-10-20",19487
+"Western Cape","Public Health","2021-10-20",19490
 "Mpumalanga","Private Health","2021-10-03",95
 "KwaZulu-Natal","Public Health","2021-07-08",32600
 "Gauteng","Private Health","2021-10-16",6596
@@ -7743,7 +7790,7 @@
 "North West","Public Health","2021-09-24",838
 "KwaZulu-Natal","Public Health","2021-06-05",2415
 "Eastern Cape","Public Health","2021-08-20",17447
-"Gauteng","Private Health","2021-10-29",27660
+"Gauteng","Private Health","2021-10-29",27661
 "Limpopo","Private Health","2021-09-24",67
 "North West","Private Health","2021-10-12",3542
 "North West","Private Health","2021-11-03",2471
@@ -7751,7 +7798,7 @@
 "Gauteng","Private Health","2021-11-22",12859
 "Limpopo","Private Health","2021-07-02",387
 "North West","Public Health","2021-12-03",4370
-"Limpopo","Public Health","2021-12-07",7826
+"Limpopo","Public Health","2021-12-07",7827
 "Gauteng","Public Health","2021-07-09",25654
 "northern cape","Private Health","2021-12-08",1
 "Free State","Private Health","2021-07-04",5
@@ -7767,6 +7814,7 @@
 "Western Cape","Public Health","2021-11-15",9455
 "Free State","Private Health","2021-10-29",2923
 "KwaZulu-Natal","Public Health","2021-08-22",2797
+"kwazulu-natal","Private Health","2021-12-16",11
 "KwaZulu-Natal","Public Health","2021-08-24",9937
 "KwaZulu-Natal","Public Health","2021-11-09",9045
 "North West","Private Health","2021-07-16",1696
@@ -7780,15 +7828,15 @@
 "Limpopo","Private Health","2021-06-17",295
 "Eastern Cape","Public Health","2021-09-10",13652
 "KwaZulu-Natal","Public Health","2021-11-23",8414
-"Gauteng","Public Health","2021-10-14",27964
+"Gauteng","Public Health","2021-10-14",27965
 "Gauteng","Public Health","2021-09-09",26755
 "Mpumalanga","Private Health","2021-09-22",2092
 "Limpopo","Public Health","2021-10-28",11143
 "Northern Cape","Private Health","2021-11-06",163
 "Western Cape","Private Health","2021-08-13",10892
 "Free State","Public Health","2021-07-23",8782
-"North West","Private Health","2021-12-12",6
-"Western Cape","Private Health","2021-09-22",10079
+"North West","Private Health","2021-12-12",9
+"Western Cape","Private Health","2021-09-22",10080
 "Gauteng","Public Health","2021-10-18",25864
 "KwaZulu-Natal","Private Health","2021-08-18",7497
 "Free State","Public Health","2021-12-09",4274
@@ -7877,8 +7925,9 @@
 "KwaZulu-Natal","Private Health","2021-10-23",4203
 "KwaZulu-Natal","Public Health","2021-10-30",4067
 "Western Cape","Private Health","2021-06-12",398
+"Eastern Cape","Private Health","2021-12-16",181
 "Eastern Cape","Public Health","2021-12-04",830
-"Eastern Cape","Public Health","2021-11-12",9058
+"Eastern Cape","Public Health","2021-11-12",9059
 "Northern Cape","Private Health","2021-05-19",12
 "KwaZulu-Natal","Public Health","2021-07-28",11317
 "Western Cape","Public Health","2021-12-08",9534
@@ -7905,8 +7954,8 @@
 "Northern Cape","Public Health","2021-09-14",3399
 "Gauteng","Private Health","2021-08-22",6364
 "KwaZulu-Natal","Private Health","2021-11-22",3322
-"Limpopo","Public Health","2021-07-01",13719
 "Limpopo","Private Health","2021-11-06",579
+"Limpopo","Public Health","2021-07-01",13719
 "Gauteng","Public Health","2021-09-11",5225
 "Northern Cape","Private Health","2021-09-07",898
 "Western Cape","Private Health","2021-11-09",5659
@@ -7926,7 +7975,7 @@
 "Northern Cape","Private Health","2021-12-12",80
 "Free State","Private Health","2021-11-22",1205
 "North West","Public Health","2021-07-29",6444
-"Gauteng","Public Health","2021-09-12",1360
+"Gauteng","Public Health","2021-09-12",1361
 "Northern Cape","Public Health","2021-12-04",734
 "North West","Private Health","2021-11-10",2043
 "Gauteng","Public Health","2021-07-27",25370
@@ -7940,7 +7989,7 @@
 "Limpopo","Private Health","2021-10-11",2975
 "Western Cape","Public Health","2021-11-10",10731
 "KwaZulu-Natal","Public Health","2021-08-30",19589
-"gauteng","Private Health","2021-12-15",222
+"gauteng","Private Health","2021-12-15",232
 "KwaZulu-Natal","Private Health","2021-10-12",6845
 "Free State","Public Health","2021-05-27",4198
 "Free State","Public Health","2021-05-24",1139
@@ -7976,7 +8025,7 @@
 "KwaZulu-Natal","Public Health","2021-11-22",7937
 "Free State","Private Health","2021-10-05",2811
 "kwazulu-natal","Public Health","2021-12-06",8
-"Gauteng","Public Health","2021-12-01",26173
+"Gauteng","Public Health","2021-12-01",26174
 "Limpopo","Private Health","2021-09-30",3046
 "Northern Cape","Public Health","2021-07-05",1786
 "Limpopo","Private Health","2021-07-30",3446
@@ -8004,7 +8053,7 @@
 "KwaZulu-Natal","Public Health","2021-08-27",14389
 "Mpumalanga","Private Health","2021-08-08",37
 "Northern Cape","Public Health","2021-08-12",1740
-"Gauteng","Public Health","2021-10-12",28809
+"Gauteng","Public Health","2021-10-12",28810
 "Free State","Private Health","2021-09-25",575
 "Eastern Cape","Private Health","2021-12-01",2424
 "Eastern Cape","Private Health","2021-08-24",4727
@@ -8020,8 +8069,8 @@
 "Mpumalanga","Public Health","2021-07-30",4758
 "KwaZulu-Natal","Public Health","2021-07-20",38647
 "Western Cape","Private Health","2021-09-10",14303
+"Free State","Public Health","2021-12-15",3195
 "Free State","Private Health","2021-11-16",1629
-"Free State","Public Health","2021-12-15",3159
 "North West","Public Health","2021-08-24",6298
 "Limpopo","Public Health","2021-09-08",16574
 "Eastern Cape","Private Health","2021-09-12",10
@@ -8039,7 +8088,7 @@
 "Western Cape","Private Health","2021-11-27",1786
 "Northern Cape","Private Health","2021-08-19",611
 "North West","Public Health","2021-08-28",1351
-"KwaZulu-Natal","Public Health","2021-11-30",10901
+"KwaZulu-Natal","Public Health","2021-11-30",10909
 "Western Cape","Public Health","2021-08-20",28932
 "North West","Private Health","2021-08-12",3128
 "KwaZulu-Natal","Public Health","2021-09-15",19495
@@ -8064,7 +8113,7 @@
 "North West","Private Health","2021-06-07",284
 "KwaZulu-Natal","Private Health","2021-12-11",1865
 "Mpumalanga","Public Health","2021-08-16",4040
-"KwaZulu-Natal","Public Health","2021-11-16",8798
+"KwaZulu-Natal","Public Health","2021-11-16",8799
 "Limpopo","Public Health","2021-06-16",135
 "Eastern Cape","Private Health","2021-07-30",3840
 "KwaZulu-Natal","Private Health","2021-08-21",5346
@@ -8082,14 +8131,14 @@
 "Western Cape","Private Health","2021-09-23",11224
 "KwaZulu-Natal","Private Health","2021-08-07",2431
 "Gauteng","Public Health","2021-07-11",977
-"KwaZulu-Natal","Public Health","2021-11-28",1987
+"KwaZulu-Natal","Public Health","2021-11-28",1994
 "KwaZulu-Natal","Private Health","2021-07-14",34
 "Eastern Cape","Public Health","2021-10-12",14034
 "Gauteng","Private Health","2021-09-25",5992
 "Western Cape","Private Health","2021-11-23",4464
 "Mpumalanga","Public Health","2021-08-03",5697
 "North West","Private Health","2021-06-04",261
-"Gauteng","Private Health","2021-12-03",18773
+"Gauteng","Private Health","2021-12-03",18789
 "Northern Cape","Public Health","2021-05-25",805
 "Western Cape","Private Health","2021-09-14",12121
 "Eastern Cape","Public Health","2021-05-20",3068
@@ -8097,7 +8146,7 @@
 "western cape","Private Health","2021-12-07",166
 "Western Cape","Public Health","2021-10-31",58
 "Eastern Cape","Public Health","2021-12-10",3894
-"north west","Private Health","2021-12-14",2
+"north west","Private Health","2021-12-14",6
 "Eastern Cape","Public Health","2021-11-11",9275
 "North West","Private Health","2021-05-31",674
 "Gauteng","Public Health","2021-09-05",1662
@@ -8105,7 +8154,7 @@
 "Western Cape","Public Health","2021-09-16",25598
 "KwaZulu-Natal","Private Health","2021-08-31",8303
 "Eastern Cape","Private Health","2021-07-19",5215
-"Gauteng","Public Health","2021-12-13",11793
+"Gauteng","Public Health","2021-12-13",11796
 "Western Cape","Private Health","2021-08-02",10645
 "Free State","Private Health","2021-09-18",261
 "Limpopo","Public Health","2021-09-21",4887
@@ -8152,6 +8201,7 @@
 "Western Cape","Public Health","2021-08-14",633
 "Free State","Public Health","2021-06-15",5093
 "Western Cape","Private Health","2021-07-26",10772
+"gauteng","Private Health","2021-12-16",8
 "Mpumalanga","Private Health","2021-11-13",450
 "Limpopo","Public Health","2021-06-18",623
 "North West","Public Health","2021-11-05",2571
@@ -8225,7 +8275,7 @@
 "Gauteng","Private Health","2021-05-17",771
 "North West","Public Health","2021-10-25",4000
 "Mpumalanga","Public Health","2021-10-01",2045
-"Gauteng","Private Health","2021-11-17",13961
+"Gauteng","Private Health","2021-11-17",13965
 "Gauteng","Public Health","2021-11-05",15497
 "Mpumalanga","Private Health","2021-10-25",1342
 "Limpopo","Private Health","2021-11-22",1668
@@ -8281,7 +8331,7 @@
 "North West","Private Health","2021-09-09",4584
 "Mpumalanga","Private Health","2021-10-04",2349
 "Eastern Cape","Private Health","2021-11-25",1828
-"Gauteng","Private Health","2021-11-25",13213
+"Gauteng","Private Health","2021-11-25",13214
 "Mpumalanga","Private Health","2021-10-26",1595
 "KwaZulu-Natal","Private Health","2021-07-13",15
 "Western Cape","Private Health","2021-11-02",8548
@@ -8293,7 +8343,7 @@
 "Gauteng","Private Health","2021-05-24",4561
 "Gauteng","Private Health","2021-06-17",6898
 "Northern Cape","Private Health","2021-06-12",18
-"KwaZulu-Natal","Public Health","2021-10-07",12944
+"KwaZulu-Natal","Public Health","2021-10-07",12945
 "Eastern Cape","Public Health","2021-08-19",19319
 "KwaZulu-Natal","Public Health","2021-06-24",6902
 "Free State","Public Health","2021-06-20",95
@@ -8301,10 +8351,10 @@
 "Mpumalanga","Private Health","2021-07-05",779
 "Gauteng","Private Health","2021-06-10",7083
 "Northern Cape","Private Health","2021-11-17",629
-"Eastern Cape","Public Health","2021-11-23",7802
+"Eastern Cape","Public Health","2021-11-23",7811
 "Eastern Cape","Private Health","2021-10-21",2924
 "North West","Private Health","2021-08-27",4379
-"Gauteng","Private Health","2021-11-02",18980
+"Gauteng","Private Health","2021-11-02",18981
 "Gauteng","Private Health","2021-05-22",1348
 "North West","Public Health","2021-12-06",4259
 "Eastern Cape","Private Health","2021-10-20",3201
@@ -8320,9 +8370,9 @@
 "Limpopo","Public Health","2021-07-25",86
 "gauteng","Private Health","2021-12-01",47
 "KwaZulu-Natal","Public Health","2021-06-12",1824
-"Limpopo","Public Health","2021-12-14",5112
+"Limpopo","Public Health","2021-12-14",5152
 "KwaZulu-Natal","Public Health","2021-05-19",18492
-"Western Cape","Private Health","2021-09-16",12005
+"Western Cape","Private Health","2021-09-16",12006
 "Mpumalanga","Public Health","2021-08-29",169
 "KwaZulu-Natal","Private Health","2021-07-08",7097
 "Western Cape","Public Health","2021-10-23",3871
@@ -8340,9 +8390,9 @@
 "Gauteng","Public Health","2021-07-08",27652
 "Free State","Public Health","2021-07-31",963
 "North West","Public Health","2021-09-09",4987
-"Gauteng","Public Health","2021-12-08",21116
+"Gauteng","Public Health","2021-12-08",21130
 "Limpopo","Public Health","2021-08-14",134
-"KwaZulu-Natal","Public Health","2021-12-13",5655
+"KwaZulu-Natal","Public Health","2021-12-13",5715
 "Mpumalanga","Private Health","2021-05-25",57
 "Limpopo","Private Health","2021-06-05",12
 "Limpopo","Private Health","2021-06-16",4
@@ -8355,15 +8405,15 @@
 "Eastern Cape","Private Health","2021-09-02",4383
 "Mpumalanga","Private Health","2021-12-12",25
 "North West","Private Health","2021-10-11",3643
-"Gauteng","Public Health","2021-11-24",19650
+"Gauteng","Public Health","2021-11-24",19653
+"KwaZulu-Natal","Public Health","2021-12-14",6128
 "Northern Cape","Public Health","2021-10-15",1717
-"KwaZulu-Natal","Public Health","2021-12-14",6032
 "Eastern Cape","Private Health","2021-06-21",1252
 "Northern Cape","Private Health","2021-08-31",976
 "Mpumalanga","Public Health","2021-08-06",2932
 "Limpopo","Public Health","2021-06-21",16339
 "North West","Private Health","2021-08-08",520
-"KwaZulu-Natal","Private Health","2021-12-15",2944
+"KwaZulu-Natal","Private Health","2021-12-15",2973
 "Free State","Public Health","2021-07-25",474
 "Mpumalanga","Private Health","2021-08-17",2103
 "North West","Private Health","2021-10-27",3123
@@ -8377,7 +8427,7 @@
 "Mpumalanga","Public Health","2021-09-27",2890
 "Western Cape","Public Health","2021-08-27",29820
 "Mpumalanga","Public Health","2021-10-26",3972
-"Limpopo","Public Health","2021-12-15",5219
+"Limpopo","Public Health","2021-12-15",5238
 "Northern Cape","Public Health","2021-11-14",1006
 "Limpopo","Private Health","2021-08-22",1
 "western cape","Private Health","2021-12-04",58
@@ -8409,7 +8459,7 @@
 "North West","Private Health","2021-08-15",259
 "North West","Public Health","2021-10-02",1225
 "Eastern Cape","Private Health","2021-12-03",2566
-"Western Cape","Private Health","2021-10-27",8976
+"Western Cape","Private Health","2021-10-27",8977
 "KwaZulu-Natal","Private Health","2021-09-25",2822
 "Mpumalanga","Public Health","2021-07-14",7785
 "Western Cape","Public Health","2021-08-08",18
@@ -8452,6 +8502,7 @@
 "Gauteng","Private Health","2021-07-31",4586
 "Gauteng","Private Health","2021-12-07",16556
 "Gauteng","Public Health","2021-08-13",12866
+"Western Cape","Public Health","2021-12-16",29
 "Free State","Public Health","2021-12-10",3686
 "Eastern Cape","Public Health","2021-10-11",12551
 "Western Cape","Public Health","2021-11-04",13584
@@ -8461,7 +8512,7 @@
 "Western Cape","Private Health","2021-08-26",15143
 "KwaZulu-Natal","Public Health","2021-10-20",12983
 "Mpumalanga","Public Health","2021-06-01",3391
-"Gauteng","Public Health","2021-08-07",780
+"Gauteng","Public Health","2021-08-07",781
 "Mpumalanga","Private Health","2021-08-20",2735
 "Western Cape","Public Health","2021-07-25",4
 "Northern Cape","Private Health","2021-11-11",631
@@ -8489,15 +8540,15 @@
 "Eastern Cape","Public Health","2021-10-25",12250
 "Limpopo","Private Health","2021-08-31",3097
 "North West","Private Health","2021-05-28",380
-"Free State","Private Health","2021-09-10",2930
+"Free State","Private Health","2021-09-10",2931
 "Gauteng","Private Health","2021-05-27",8307
 "Eastern Cape","Private Health","2021-10-02",1410
 "Gauteng","Private Health","2021-09-15",29810
 "Eastern Cape","Public Health","2021-07-13",18602
 "Eastern Cape","Public Health","2021-11-17",9007
-"Gauteng","Private Health","2021-10-20",18100
+"Gauteng","Private Health","2021-10-20",18231
 "North West","Private Health","2021-09-06",3635
-"KwaZulu-Natal","Public Health","2021-12-08",8304
+"KwaZulu-Natal","Public Health","2021-12-08",8316
 "Northern Cape","Public Health","2021-06-24",863
 "Western Cape","Private Health","2021-12-01",6275
 "Mpumalanga","Private Health","2021-08-23",2824

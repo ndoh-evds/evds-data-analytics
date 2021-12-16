@@ -1,53 +1,53 @@
 "vaccine_manufacturer","province","vaccine_rollout_phase","first_dose_vaccinations","second_dose_vaccinations","booster_dose_vaccinations","total_number_vaccines_administered"
-"Johnson & Johnson","Gauteng","National",1093636,0,0,1093636
-"Johnson & Johnson","North West","National",594555,0,0,594555
-"Johnson & Johnson - Booster","mpumalanga","National",0,0,4,4
-"Johnson & Johnson","Limpopo","National",896120,0,0,896120
-"Pfizer - Booster","limpopo","National",0,0,29,29
-"Johnson & Johnson","Free State","National",388380,0,0,388380
-"Pfizer - Booster","free state","National",0,0,61,61
-"Johnson & Johnson","Eastern Cape","National",732948,0,0,732948
-"Johnson & Johnson - Booster","mpumalanga","Sisonke",0,0,6713,6713
-"Johnson & Johnson","KwaZulu-Natal","Sisonke",94433,0,0,94433
-"Pfizer","Eastern Cape","National",1329186,981425,0,2310611
-"Johnson & Johnson","Limpopo","Sisonke",34147,0,0,34147
-"Johnson & Johnson","Mpumalanga","National",625174,0,0,625174
-"Johnson & Johnson","Mpumalanga","Sisonke",21675,0,0,21675
-"Johnson & Johnson - Booster","western cape","Sisonke",0,0,58776,58776
-"Johnson & Johnson","Northern Cape","National",181378,0,0,181378
-"Pfizer","Free State","National",663891,488257,0,1152148
-"Johnson & Johnson - Booster","kwazulu-natal","National",0,0,24,24
-"Johnson & Johnson - Booster","free state","National",0,0,1,1
-"Johnson & Johnson","Gauteng","Sisonke",136510,0,0,136510
-"Pfizer","Gauteng","National",3586702,2652107,0,6238809
-"Pfizer - Booster","western cape","National",0,0,2063,2063
-"Johnson & Johnson - Booster","eastern cape","National",0,0,44,44
-"Pfizer","North West","National",619809,440348,0,1060157
-"Pfizer - Booster","mpumalanga","National",0,0,51,51
-"Johnson & Johnson","KwaZulu-Natal","National",930236,0,0,930236
-"Johnson & Johnson","Western Cape","Sisonke",94332,0,0,94332
-"Johnson & Johnson","Northern Cape","Sisonke",9459,0,0,9459
-"Pfizer - Booster","north west","National",0,0,99,99
-"Pfizer - Booster","kwazulu-natal","National",0,0,919,919
-"Pfizer - Booster","eastern cape","National",0,0,209,209
-"Pfizer - Booster","gauteng","National",0,0,3181,3181
-"Johnson & Johnson","North West","Sisonke",23442,0,0,23442
-"Johnson & Johnson - Booster","north west","National",0,0,1,1
-"Johnson & Johnson - Booster","eastern cape","Sisonke",0,0,22794,22794
-"Johnson & Johnson - Booster","gauteng","National",0,0,68,68
-"Pfizer","Limpopo","National",1057848,737501,0,1795349
-"Pfizer","Mpumalanga","National",559981,384940,0,944921
-"Johnson & Johnson - Booster","limpopo","Sisonke",0,0,16162,16162
-"Johnson & Johnson - Booster","kwazulu-natal","Sisonke",0,0,37862,37862
-"Johnson & Johnson","Western Cape","National",563541,0,0,563541
 "Johnson & Johnson","Free State","Sisonke",24375,0,0,24375
-"Johnson & Johnson - Booster","north west","Sisonke",0,0,8136,8136
-"Pfizer","KwaZulu-Natal","National",1780126,1332297,0,3112423
-"Johnson & Johnson - Booster","gauteng","Sisonke",0,0,61070,61070
-"Pfizer","Western Cape","National",2054309,1620479,0,3674788
+"Johnson & Johnson - Booster","north west","Sisonke",0,0,8171,8171
+"Johnson & Johnson","Limpopo","Sisonke",34148,0,0,34148
 "Johnson & Johnson","Eastern Cape","Sisonke",60797,0,0,60797
 "Pfizer - Booster","northern cape","National",0,0,10,10
 "Johnson & Johnson - Booster","western cape","National",0,0,30,30
-"Pfizer","Northern Cape","National",216216,162884,0,379100
+"Pfizer - Booster","north west","National",0,0,103,103
+"Pfizer","Eastern Cape","National",1329426,981585,0,2311011
+"Pfizer","Northern Cape","National",216255,162906,0,379161
 "Johnson & Johnson - Booster","northern cape","Sisonke",0,0,4204,4204
+"Pfizer","Free State","National",663978,488291,0,1152269
 "Johnson & Johnson - Booster","free state","Sisonke",0,0,11445,11445
+"Johnson & Johnson","Western Cape","Sisonke",94333,0,0,94333
+"Pfizer","North West","National",620778,440627,0,1061405
+"Johnson & Johnson","Western Cape","National",563662,0,0,563662
+"Johnson & Johnson","Limpopo","National",897192,0,0,897192
+"Johnson & Johnson","Gauteng","Sisonke",136511,0,0,136511
+"Johnson & Johnson - Booster","mpumalanga","National",0,0,4,4
+"Johnson & Johnson","North West","National",595329,0,0,595329
+"Pfizer - Booster","limpopo","National",0,0,29,29
+"Pfizer - Booster","free state","National",0,0,61,61
+"Johnson & Johnson - Booster","kwazulu-natal","Sisonke",0,0,37898,37898
+"Johnson & Johnson - Booster","gauteng","Sisonke",0,0,61100,61100
+"Pfizer - Booster","western cape","National",0,0,2069,2069
+"Johnson & Johnson - Booster","western cape","Sisonke",0,0,58777,58777
+"Pfizer - Booster","gauteng","National",0,0,3206,3206
+"Johnson & Johnson","Northern Cape","National",181418,0,0,181418
+"Johnson & Johnson","KwaZulu-Natal","Sisonke",94433,0,0,94433
+"Johnson & Johnson","Eastern Cape","National",733088,0,0,733088
+"Pfizer - Booster","mpumalanga","National",0,0,52,52
+"Johnson & Johnson - Booster","limpopo","Sisonke",0,0,16188,16188
+"Johnson & Johnson - Booster","kwazulu-natal","National",0,0,24,24
+"Johnson & Johnson - Booster","free state","National",0,0,1,1
+"Johnson & Johnson","Mpumalanga","Sisonke",21677,0,0,21677
+"Johnson & Johnson - Booster","eastern cape","National",0,0,44,44
+"Pfizer","Western Cape","National",2054532,1620655,0,3675187
+"Johnson & Johnson - Booster","mpumalanga","Sisonke",0,0,6721,6721
+"Pfizer","Mpumalanga","National",560173,385036,0,945209
+"Pfizer","KwaZulu-Natal","National",1781564,1333160,0,3114724
+"Johnson & Johnson","Northern Cape","Sisonke",9459,0,0,9459
+"Johnson & Johnson - Booster","eastern cape","Sisonke",0,0,22806,22806
+"Johnson & Johnson","Mpumalanga","National",625413,0,0,625413
+"Johnson & Johnson","Free State","National",388454,0,0,388454
+"Pfizer - Booster","kwazulu-natal","National",0,0,934,934
+"Pfizer - Booster","eastern cape","National",0,0,209,209
+"Johnson & Johnson","North West","Sisonke",23442,0,0,23442
+"Pfizer","Gauteng","National",3588786,2653466,0,6242252
+"Johnson & Johnson - Booster","north west","National",0,0,1,1
+"Johnson & Johnson","KwaZulu-Natal","National",931065,0,0,931065
+"Pfizer","Limpopo","National",1059617,737879,0,1797496
+"Johnson & Johnson - Booster","gauteng","National",0,0,68,68
+"Johnson & Johnson","Gauteng","National",1094830,0,0,1094830
