@@ -1,30 +1,37 @@
 "province","health_sector","total_number_vaccines_administered_last_24_hours"
-"eastern cape","Public Health",12
-"Eastern Cape","Private Health",245
-"Eastern Cape","Public Health",192
-"Free State","Private Health",82
-"Free State","Public Health",9
-"gauteng","Private Health",23
-"gauteng","Public Health",29
-"Gauteng","Private Health",1923
-"Gauteng","Public Health",1632
-"kwazulu-natal","Private Health",29
-"kwazulu-natal","Public Health",19
-"KwaZulu-Natal","Private Health",845
-"KwaZulu-Natal","Public Health",1455
-"limpopo","Public Health",26
-"Limpopo","Private Health",302
-"Limpopo","Public Health",2756
-"mpumalanga","Private Health",1
-"mpumalanga","Public Health",8
-"Mpumalanga","Private Health",96
-"Mpumalanga","Public Health",381
-"Northern Cape","Private Health",77
-"Northern Cape","Public Health",24
-"north west","Public Health",35
-"North West","Private Health",147
-"North West","Public Health",1781
-"western cape","Private Health",6
-"western cape","Public Health",1
-"Western Cape","Private Health",335
-"Western Cape","Public Health",87
+"eastern cape","Private Health",21
+"eastern cape","Public Health",352
+"Eastern Cape","Private Health",1500
+"Eastern Cape","Public Health",2124
+"free state","Private Health",20
+"free state","Public Health",202
+"Free State","Private Health",971
+"Free State","Public Health",2415
+"gauteng","Private Health",346
+"gauteng","Public Health",533
+"Gauteng","Private Health",11493
+"Gauteng","Public Health",13865
+"kwazulu-natal","Private Health",140
+"kwazulu-natal","Public Health",529
+"KwaZulu-Natal","Private Health",2844
+"KwaZulu-Natal","Public Health",5277
+"limpopo","Private Health",5
+"limpopo","Public Health",227
+"Limpopo","Private Health",1874
+"Limpopo","Public Health",3779
+"mpumalanga","Private Health",11
+"mpumalanga","Public Health",74
+"Mpumalanga","Private Health",925
+"Mpumalanga","Public Health",2846
+"northern cape","Private Health",3
+"northern cape","Public Health",28
+"Northern Cape","Private Health",339
+"Northern Cape","Public Health",751
+"north west","Private Health",5
+"north west","Public Health",136
+"North West","Private Health",1377
+"North West","Public Health",3310
+"western cape","Private Health",228
+"western cape","Public Health",818
+"Western Cape","Private Health",4172
+"Western Cape","Public Health",6037

@@ -1,28 +1,28 @@
 "province","vaccine_manufacturer","age_group","individuals_fully_vaccinated"
-"Eastern Cape","Janssen Vaccines & Prevention B.V","Adults",104
-"Eastern Cape","Pfizer","12-17 Years",19
-"Eastern Cape","Pfizer","Adults",122
-"Free State","Janssen Vaccines & Prevention B.V","Adults",15
-"Free State","Pfizer","12-17 Years",2
-"Free State","Pfizer","Adults",28
-"Gauteng","Janssen Vaccines & Prevention B.V","Adults",911
-"Gauteng","Pfizer","12-17 Years",104
-"Gauteng","Pfizer","Adults",974
-"KwaZulu-Natal","Janssen Vaccines & Prevention B.V","Adults",525
-"KwaZulu-Natal","Pfizer","12-17 Years",111
-"KwaZulu-Natal","Pfizer","Adults",627
-"Limpopo","Janssen Vaccines & Prevention B.V","Adults",995
-"Limpopo","Pfizer","12-17 Years",14
-"Limpopo","Pfizer","Adults",351
-"Mpumalanga","Janssen Vaccines & Prevention B.V","Adults",214
-"Mpumalanga","Pfizer","12-17 Years",28
-"Mpumalanga","Pfizer","Adults",51
-"Northern Cape","Janssen Vaccines & Prevention B.V","Adults",40
-"Northern Cape","Pfizer","12-17 Years",0
-"Northern Cape","Pfizer","Adults",22
-"North West","Janssen Vaccines & Prevention B.V","Adults",762
-"North West","Pfizer","12-17 Years",73
-"North West","Pfizer","Adults",179
-"Western Cape","Janssen Vaccines & Prevention B.V","Adults",81
-"Western Cape","Pfizer","12-17 Years",23
-"Western Cape","Pfizer","Adults",124
+"Eastern Cape","Janssen Vaccines & Prevention B.V","Adults",765
+"Eastern Cape","Pfizer","12-17 Years",157
+"Eastern Cape","Pfizer","Adults",1276
+"Free State","Janssen Vaccines & Prevention B.V","Adults",541
+"Free State","Pfizer","12-17 Years",104
+"Free State","Pfizer","Adults",1189
+"Gauteng","Janssen Vaccines & Prevention B.V","Adults",2892
+"Gauteng","Pfizer","12-17 Years",982
+"Gauteng","Pfizer","Adults",10896
+"KwaZulu-Natal","Janssen Vaccines & Prevention B.V","Adults",1250
+"KwaZulu-Natal","Pfizer","12-17 Years",435
+"KwaZulu-Natal","Pfizer","Adults",3126
+"Limpopo","Janssen Vaccines & Prevention B.V","Adults",1494
+"Limpopo","Pfizer","12-17 Years",68
+"Limpopo","Pfizer","Adults",1472
+"Mpumalanga","Janssen Vaccines & Prevention B.V","Adults",1669
+"Mpumalanga","Pfizer","12-17 Years",80
+"Mpumalanga","Pfizer","Adults",761
+"Northern Cape","Janssen Vaccines & Prevention B.V","Adults",349
+"Northern Cape","Pfizer","12-17 Years",25
+"Northern Cape","Pfizer","Adults",326
+"North West","Janssen Vaccines & Prevention B.V","Adults",1459
+"North West","Pfizer","12-17 Years",90
+"North West","Pfizer","Adults",1250
+"Western Cape","Janssen Vaccines & Prevention B.V","Adults",1254
+"Western Cape","Pfizer","12-17 Years",769
+"Western Cape","Pfizer","Adults",3827

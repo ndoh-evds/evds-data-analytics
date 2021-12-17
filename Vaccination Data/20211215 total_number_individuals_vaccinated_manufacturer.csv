@@ -60,7 +60,7 @@
 "Eastern Cape","Johnson & Johnson","2021-05-15",120
 "Eastern Cape","Johnson & Johnson","2021-05-16",18
 "Eastern Cape","Johnson & Johnson","2021-05-17",716
-"Eastern Cape","Johnson & Johnson","2021-05-18",415
+"Eastern Cape","Johnson & Johnson","2021-05-18",416
 "Eastern Cape","Johnson & Johnson","2021-05-19",661
 "Eastern Cape","Johnson & Johnson","2021-05-20",279
 "Eastern Cape","Johnson & Johnson","2021-05-21",126
@@ -127,8 +127,8 @@
 "Eastern Cape","Johnson & Johnson","2021-08-15",392
 "Eastern Cape","Johnson & Johnson","2021-08-16",5279
 "Eastern Cape","Johnson & Johnson","2021-08-17",5659
-"Eastern Cape","Johnson & Johnson","2021-08-18",5507
-"Eastern Cape","Johnson & Johnson","2021-08-19",5686
+"Eastern Cape","Johnson & Johnson","2021-08-18",5515
+"Eastern Cape","Johnson & Johnson","2021-08-19",5697
 "Eastern Cape","Johnson & Johnson","2021-08-20",5903
 "Eastern Cape","Johnson & Johnson","2021-08-21",1638
 "Eastern Cape","Johnson & Johnson","2021-08-22",563
@@ -143,7 +143,7 @@
 "Eastern Cape","Johnson & Johnson","2021-08-31",7438
 "Eastern Cape","Johnson & Johnson","2021-09-01",7519
 "Eastern Cape","Johnson & Johnson","2021-09-02",7197
-"Eastern Cape","Johnson & Johnson","2021-09-03",5433
+"Eastern Cape","Johnson & Johnson","2021-09-03",5434
 "Eastern Cape","Johnson & Johnson","2021-09-04",2420
 "Eastern Cape","Johnson & Johnson","2021-09-05",793
 "Eastern Cape","Johnson & Johnson","2021-09-06",4721
@@ -237,7 +237,7 @@
 "Eastern Cape","Johnson & Johnson","2021-12-03",3494
 "Eastern Cape","Johnson & Johnson","2021-12-04",933
 "Eastern Cape","Johnson & Johnson","2021-12-05",599
-"Eastern Cape","Johnson & Johnson","2021-12-06",3349
+"Eastern Cape","Johnson & Johnson","2021-12-06",3352
 "Eastern Cape","Johnson & Johnson","2021-12-07",3379
 "Eastern Cape","Johnson & Johnson","2021-12-08",3157
 "Eastern Cape","Johnson & Johnson","2021-12-09",3385
@@ -245,9 +245,10 @@
 "Eastern Cape","Johnson & Johnson","2021-12-11",496
 "Eastern Cape","Johnson & Johnson","2021-12-12",213
 "Eastern Cape","Johnson & Johnson","2021-12-13",2437
-"Eastern Cape","Johnson & Johnson","2021-12-14",2070
+"Eastern Cape","Johnson & Johnson","2021-12-14",2103
 "Eastern Cape","Johnson & Johnson","2021-12-15",1895
-"Eastern Cape","Johnson & Johnson","2021-12-16",81
+"Eastern Cape","Johnson & Johnson","2021-12-16",84
+"Eastern Cape","Johnson & Johnson","2021-12-17",762
 "Eastern Cape","Pfizer","2021-05-17",2419
 "Eastern Cape","Pfizer","2021-05-18",4990
 "Eastern Cape","Pfizer","2021-05-19",4759
@@ -283,7 +284,7 @@
 "Eastern Cape","Pfizer","2021-06-18",9975
 "Eastern Cape","Pfizer","2021-06-19",51
 "Eastern Cape","Pfizer","2021-06-20",7
-"Eastern Cape","Pfizer","2021-06-21",13696
+"Eastern Cape","Pfizer","2021-06-21",13697
 "Eastern Cape","Pfizer","2021-06-22",12493
 "Eastern Cape","Pfizer","2021-06-23",10456
 "Eastern Cape","Pfizer","2021-06-24",9533
@@ -314,7 +315,7 @@
 "Eastern Cape","Pfizer","2021-07-19",26443
 "Eastern Cape","Pfizer","2021-07-20",23438
 "Eastern Cape","Pfizer","2021-07-21",17386
-"Eastern Cape","Pfizer","2021-07-22",12710
+"Eastern Cape","Pfizer","2021-07-22",12711
 "Eastern Cape","Pfizer","2021-07-23",9311
 "Eastern Cape","Pfizer","2021-07-24",405
 "Eastern Cape","Pfizer","2021-07-25",308
@@ -339,10 +340,10 @@
 "Eastern Cape","Pfizer","2021-08-13",4161
 "Eastern Cape","Pfizer","2021-08-14",182
 "Eastern Cape","Pfizer","2021-08-15",41
-"Eastern Cape","Pfizer","2021-08-16",5536
+"Eastern Cape","Pfizer","2021-08-16",5537
 "Eastern Cape","Pfizer","2021-08-17",6426
-"Eastern Cape","Pfizer","2021-08-18",6518
-"Eastern Cape","Pfizer","2021-08-19",5867
+"Eastern Cape","Pfizer","2021-08-18",6522
+"Eastern Cape","Pfizer","2021-08-19",5871
 "Eastern Cape","Pfizer","2021-08-20",8251
 "Eastern Cape","Pfizer","2021-08-21",450
 "Eastern Cape","Pfizer","2021-08-22",337
@@ -377,7 +378,7 @@
 "Eastern Cape","Pfizer","2021-09-20",10640
 "Eastern Cape","Pfizer","2021-09-21",11042
 "Eastern Cape","Pfizer","2021-09-22",11671
-"Eastern Cape","Pfizer","2021-09-23",9503
+"Eastern Cape","Pfizer","2021-09-23",9502
 "Eastern Cape","Pfizer","2021-09-24",748
 "Eastern Cape","Pfizer","2021-09-25",922
 "Eastern Cape","Pfizer","2021-09-26",468
@@ -405,63 +406,64 @@
 "Eastern Cape","Pfizer","2021-10-18",6305
 "Eastern Cape","Pfizer","2021-10-19",6835
 "Eastern Cape","Pfizer","2021-10-20",5838
-"Eastern Cape","Pfizer","2021-10-21",5037
+"Eastern Cape","Pfizer","2021-10-21",5038
 "Eastern Cape","Pfizer","2021-10-22",3690
-"Eastern Cape","Pfizer","2021-10-23",982
-"Eastern Cape","Pfizer","2021-10-24",194
+"Eastern Cape","Pfizer","2021-10-23",983
+"Eastern Cape","Pfizer","2021-10-24",196
 "Eastern Cape","Pfizer","2021-10-25",4299
 "Eastern Cape","Pfizer","2021-10-26",4572
-"Eastern Cape","Pfizer","2021-10-27",3678
-"Eastern Cape","Pfizer","2021-10-28",3301
+"Eastern Cape","Pfizer","2021-10-27",3679
+"Eastern Cape","Pfizer","2021-10-28",3302
 "Eastern Cape","Pfizer","2021-10-29",2603
 "Eastern Cape","Pfizer","2021-10-30",661
 "Eastern Cape","Pfizer","2021-10-31",123
-"Eastern Cape","Pfizer","2021-11-01",591
+"Eastern Cape","Pfizer","2021-11-01",592
 "Eastern Cape","Pfizer","2021-11-02",3043
-"Eastern Cape","Pfizer","2021-11-03",2893
-"Eastern Cape","Pfizer","2021-11-04",3112
-"Eastern Cape","Pfizer","2021-11-05",2244
-"Eastern Cape","Pfizer","2021-11-06",376
+"Eastern Cape","Pfizer","2021-11-03",2894
+"Eastern Cape","Pfizer","2021-11-04",3114
+"Eastern Cape","Pfizer","2021-11-05",2245
+"Eastern Cape","Pfizer","2021-11-06",377
 "Eastern Cape","Pfizer","2021-11-07",35
 "Eastern Cape","Pfizer","2021-11-08",1598
-"Eastern Cape","Pfizer","2021-11-09",2219
-"Eastern Cape","Pfizer","2021-11-10",3148
+"Eastern Cape","Pfizer","2021-11-09",2220
+"Eastern Cape","Pfizer","2021-11-10",3150
 "Eastern Cape","Pfizer","2021-11-11",2881
-"Eastern Cape","Pfizer","2021-11-12",2479
+"Eastern Cape","Pfizer","2021-11-12",2480
 "Eastern Cape","Pfizer","2021-11-13",631
 "Eastern Cape","Pfizer","2021-11-14",288
-"Eastern Cape","Pfizer","2021-11-15",2780
-"Eastern Cape","Pfizer","2021-11-16",2945
-"Eastern Cape","Pfizer","2021-11-17",2633
-"Eastern Cape","Pfizer","2021-11-18",2249
-"Eastern Cape","Pfizer","2021-11-19",2249
+"Eastern Cape","Pfizer","2021-11-15",2781
+"Eastern Cape","Pfizer","2021-11-16",2946
+"Eastern Cape","Pfizer","2021-11-17",2634
+"Eastern Cape","Pfizer","2021-11-18",2250
+"Eastern Cape","Pfizer","2021-11-19",2252
 "Eastern Cape","Pfizer","2021-11-20",281
 "Eastern Cape","Pfizer","2021-11-21",118
-"Eastern Cape","Pfizer","2021-11-22",2538
+"Eastern Cape","Pfizer","2021-11-22",2539
 "Eastern Cape","Pfizer","2021-11-23",2159
-"Eastern Cape","Pfizer","2021-11-24",2338
-"Eastern Cape","Pfizer","2021-11-25",2329
-"Eastern Cape","Pfizer","2021-11-26",2067
-"Eastern Cape","Pfizer","2021-11-27",299
+"Eastern Cape","Pfizer","2021-11-24",2339
+"Eastern Cape","Pfizer","2021-11-25",2331
+"Eastern Cape","Pfizer","2021-11-26",2068
+"Eastern Cape","Pfizer","2021-11-27",300
 "Eastern Cape","Pfizer","2021-11-28",41
-"Eastern Cape","Pfizer","2021-11-29",3599
-"Eastern Cape","Pfizer","2021-11-30",3458
-"Eastern Cape","Pfizer","2021-12-01",2880
-"Eastern Cape","Pfizer","2021-12-02",2827
-"Eastern Cape","Pfizer","2021-12-03",2334
+"Eastern Cape","Pfizer","2021-11-29",3600
+"Eastern Cape","Pfizer","2021-11-30",3466
+"Eastern Cape","Pfizer","2021-12-01",2882
+"Eastern Cape","Pfizer","2021-12-02",2831
+"Eastern Cape","Pfizer","2021-12-03",2342
 "Eastern Cape","Pfizer","2021-12-04",503
 "Eastern Cape","Pfizer","2021-12-05",173
-"Eastern Cape","Pfizer","2021-12-06",2298
-"Eastern Cape","Pfizer","2021-12-07",2363
-"Eastern Cape","Pfizer","2021-12-08",2432
-"Eastern Cape","Pfizer","2021-12-09",2195
+"Eastern Cape","Pfizer","2021-12-06",2301
+"Eastern Cape","Pfizer","2021-12-07",2366
+"Eastern Cape","Pfizer","2021-12-08",2436
+"Eastern Cape","Pfizer","2021-12-09",2197
 "Eastern Cape","Pfizer","2021-12-10",1892
 "Eastern Cape","Pfizer","2021-12-11",345
 "Eastern Cape","Pfizer","2021-12-12",51
-"Eastern Cape","Pfizer","2021-12-13",1926
-"Eastern Cape","Pfizer","2021-12-14",1601
-"Eastern Cape","Pfizer","2021-12-15",1486
-"Eastern Cape","Pfizer","2021-12-16",93
+"Eastern Cape","Pfizer","2021-12-13",1928
+"Eastern Cape","Pfizer","2021-12-14",1609
+"Eastern Cape","Pfizer","2021-12-15",1488
+"Eastern Cape","Pfizer","2021-12-16",109
+"Eastern Cape","Pfizer","2021-12-17",750
 "Free State","Johnson & Johnson","2021-02-17",12
 "Free State","Johnson & Johnson","2021-02-18",260
 "Free State","Johnson & Johnson","2021-02-19",287
@@ -485,7 +487,7 @@
 "Free State","Johnson & Johnson","2021-03-12",468
 "Free State","Johnson & Johnson","2021-03-15",619
 "Free State","Johnson & Johnson","2021-03-16",532
-"Free State","Johnson & Johnson","2021-03-17",643
+"Free State","Johnson & Johnson","2021-03-17",644
 "Free State","Johnson & Johnson","2021-03-18",411
 "Free State","Johnson & Johnson","2021-03-19",631
 "Free State","Johnson & Johnson","2021-03-23",455
@@ -600,7 +602,7 @@
 "Free State","Johnson & Johnson","2021-08-29",57
 "Free State","Johnson & Johnson","2021-08-30",2687
 "Free State","Johnson & Johnson","2021-08-31",3279
-"Free State","Johnson & Johnson","2021-09-01",3443
+"Free State","Johnson & Johnson","2021-09-01",3444
 "Free State","Johnson & Johnson","2021-09-02",3192
 "Free State","Johnson & Johnson","2021-09-03",3650
 "Free State","Johnson & Johnson","2021-09-04",1180
@@ -697,13 +699,14 @@
 "Free State","Johnson & Johnson","2021-12-06",2543
 "Free State","Johnson & Johnson","2021-12-07",2703
 "Free State","Johnson & Johnson","2021-12-08",2681
-"Free State","Johnson & Johnson","2021-12-09",2353
-"Free State","Johnson & Johnson","2021-12-10",2019
+"Free State","Johnson & Johnson","2021-12-09",2354
+"Free State","Johnson & Johnson","2021-12-10",2020
 "Free State","Johnson & Johnson","2021-12-11",34
 "Free State","Johnson & Johnson","2021-12-13",1638
 "Free State","Johnson & Johnson","2021-12-14",1951
-"Free State","Johnson & Johnson","2021-12-15",1129
+"Free State","Johnson & Johnson","2021-12-15",1134
 "Free State","Johnson & Johnson","2021-12-16",9
+"Free State","Johnson & Johnson","2021-12-17",541
 "Free State","Pfizer","2021-05-17",262
 "Free State","Pfizer","2021-05-18",364
 "Free State","Pfizer","2021-05-19",519
@@ -741,7 +744,7 @@
 "Free State","Pfizer","2021-06-22",4154
 "Free State","Pfizer","2021-06-23",3451
 "Free State","Pfizer","2021-06-24",2965
-"Free State","Pfizer","2021-06-25",3039
+"Free State","Pfizer","2021-06-25",3040
 "Free State","Pfizer","2021-06-26",368
 "Free State","Pfizer","2021-06-27",24
 "Free State","Pfizer","2021-06-28",2087
@@ -752,7 +755,7 @@
 "Free State","Pfizer","2021-07-03",200
 "Free State","Pfizer","2021-07-04",4
 "Free State","Pfizer","2021-07-05",4267
-"Free State","Pfizer","2021-07-06",4946
+"Free State","Pfizer","2021-07-06",4947
 "Free State","Pfizer","2021-07-07",5674
 "Free State","Pfizer","2021-07-08",4845
 "Free State","Pfizer","2021-07-09",5085
@@ -783,7 +786,7 @@
 "Free State","Pfizer","2021-08-03",5624
 "Free State","Pfizer","2021-08-04",5470
 "Free State","Pfizer","2021-08-05",4416
-"Free State","Pfizer","2021-08-06",3511
+"Free State","Pfizer","2021-08-06",3510
 "Free State","Pfizer","2021-08-07",717
 "Free State","Pfizer","2021-08-08",348
 "Free State","Pfizer","2021-08-09",331
@@ -814,7 +817,7 @@
 "Free State","Pfizer","2021-09-03",5030
 "Free State","Pfizer","2021-09-04",714
 "Free State","Pfizer","2021-09-05",523
-"Free State","Pfizer","2021-09-06",4088
+"Free State","Pfizer","2021-09-06",4089
 "Free State","Pfizer","2021-09-07",4544
 "Free State","Pfizer","2021-09-08",4367
 "Free State","Pfizer","2021-09-09",4537
@@ -858,64 +861,65 @@
 "Free State","Pfizer","2021-10-17",61
 "Free State","Pfizer","2021-10-18",4390
 "Free State","Pfizer","2021-10-19",5381
-"Free State","Pfizer","2021-10-20",4269
-"Free State","Pfizer","2021-10-21",4009
+"Free State","Pfizer","2021-10-20",4270
+"Free State","Pfizer","2021-10-21",4010
 "Free State","Pfizer","2021-10-22",2879
-"Free State","Pfizer","2021-10-23",749
+"Free State","Pfizer","2021-10-23",750
 "Free State","Pfizer","2021-10-24",104
 "Free State","Pfizer","2021-10-25",2443
-"Free State","Pfizer","2021-10-26",2809
+"Free State","Pfizer","2021-10-26",2810
 "Free State","Pfizer","2021-10-27",2226
-"Free State","Pfizer","2021-10-28",2129
-"Free State","Pfizer","2021-10-29",2176
+"Free State","Pfizer","2021-10-28",2130
+"Free State","Pfizer","2021-10-29",2177
 "Free State","Pfizer","2021-10-30",368
 "Free State","Pfizer","2021-10-31",61
 "Free State","Pfizer","2021-11-01",340
-"Free State","Pfizer","2021-11-02",1394
+"Free State","Pfizer","2021-11-02",1395
 "Free State","Pfizer","2021-11-03",1749
-"Free State","Pfizer","2021-11-04",1920
-"Free State","Pfizer","2021-11-05",1605
-"Free State","Pfizer","2021-11-06",212
+"Free State","Pfizer","2021-11-04",1924
+"Free State","Pfizer","2021-11-05",1608
+"Free State","Pfizer","2021-11-06",213
 "Free State","Pfizer","2021-11-07",32
 "Free State","Pfizer","2021-11-08",1116
 "Free State","Pfizer","2021-11-09",1299
-"Free State","Pfizer","2021-11-10",1534
+"Free State","Pfizer","2021-11-10",1535
 "Free State","Pfizer","2021-11-11",1219
-"Free State","Pfizer","2021-11-12",1276
+"Free State","Pfizer","2021-11-12",1277
 "Free State","Pfizer","2021-11-13",641
 "Free State","Pfizer","2021-11-14",137
 "Free State","Pfizer","2021-11-15",1181
-"Free State","Pfizer","2021-11-16",1553
+"Free State","Pfizer","2021-11-16",1554
 "Free State","Pfizer","2021-11-17",1666
 "Free State","Pfizer","2021-11-18",1247
 "Free State","Pfizer","2021-11-19",1131
 "Free State","Pfizer","2021-11-20",157
 "Free State","Pfizer","2021-11-21",23
-"Free State","Pfizer","2021-11-22",867
-"Free State","Pfizer","2021-11-23",1110
-"Free State","Pfizer","2021-11-24",1303
+"Free State","Pfizer","2021-11-22",868
+"Free State","Pfizer","2021-11-23",1111
+"Free State","Pfizer","2021-11-24",1305
 "Free State","Pfizer","2021-11-25",1094
-"Free State","Pfizer","2021-11-26",845
+"Free State","Pfizer","2021-11-26",846
 "Free State","Pfizer","2021-11-27",225
 "Free State","Pfizer","2021-11-28",42
 "Free State","Pfizer","2021-11-29",1961
-"Free State","Pfizer","2021-11-30",2093
+"Free State","Pfizer","2021-11-30",2096
 "Free State","Pfizer","2021-12-01",2033
-"Free State","Pfizer","2021-12-02",1535
-"Free State","Pfizer","2021-12-03",1614
+"Free State","Pfizer","2021-12-02",1536
+"Free State","Pfizer","2021-12-03",1616
 "Free State","Pfizer","2021-12-04",303
 "Free State","Pfizer","2021-12-05",63
 "Free State","Pfizer","2021-12-06",1474
-"Free State","Pfizer","2021-12-07",1533
-"Free State","Pfizer","2021-12-08",1447
+"Free State","Pfizer","2021-12-07",1534
+"Free State","Pfizer","2021-12-08",1448
 "Free State","Pfizer","2021-12-09",1220
 "Free State","Pfizer","2021-12-10",1092
 "Free State","Pfizer","2021-12-11",169
 "Free State","Pfizer","2021-12-12",34
 "Free State","Pfizer","2021-12-13",866
 "Free State","Pfizer","2021-12-14",1072
-"Free State","Pfizer","2021-12-15",1146
-"Free State","Pfizer","2021-12-16",21
+"Free State","Pfizer","2021-12-15",1160
+"Free State","Pfizer","2021-12-16",24
+"Free State","Pfizer","2021-12-17",730
 "Gauteng","Johnson & Johnson","2021-02-17",44
 "Gauteng","Johnson & Johnson","2021-02-18",380
 "Gauteng","Johnson & Johnson","2021-02-19",1027
@@ -930,14 +934,14 @@
 "Gauteng","Johnson & Johnson","2021-02-28",1007
 "Gauteng","Johnson & Johnson","2021-03-02",153
 "Gauteng","Johnson & Johnson","2021-03-03",1646
-"Gauteng","Johnson & Johnson","2021-03-04",2317
-"Gauteng","Johnson & Johnson","2021-03-05",2245
+"Gauteng","Johnson & Johnson","2021-03-04",2318
+"Gauteng","Johnson & Johnson","2021-03-05",2246
 "Gauteng","Johnson & Johnson","2021-03-06",477
 "Gauteng","Johnson & Johnson","2021-03-07",1
-"Gauteng","Johnson & Johnson","2021-03-08",1516
+"Gauteng","Johnson & Johnson","2021-03-08",1517
 "Gauteng","Johnson & Johnson","2021-03-09",2530
 "Gauteng","Johnson & Johnson","2021-03-10",3105
-"Gauteng","Johnson & Johnson","2021-03-11",2351
+"Gauteng","Johnson & Johnson","2021-03-11",2352
 "Gauteng","Johnson & Johnson","2021-03-12",1169
 "Gauteng","Johnson & Johnson","2021-03-14",2
 "Gauteng","Johnson & Johnson","2021-03-15",697
@@ -1004,13 +1008,13 @@
 "Gauteng","Johnson & Johnson","2021-06-01",230
 "Gauteng","Johnson & Johnson","2021-06-02",202
 "Gauteng","Johnson & Johnson","2021-06-03",211
-"Gauteng","Johnson & Johnson","2021-06-04",158
+"Gauteng","Johnson & Johnson","2021-06-04",159
 "Gauteng","Johnson & Johnson","2021-06-05",14
 "Gauteng","Johnson & Johnson","2021-06-06",11
 "Gauteng","Johnson & Johnson","2021-06-07",85
 "Gauteng","Johnson & Johnson","2021-06-08",105
 "Gauteng","Johnson & Johnson","2021-06-09",127
-"Gauteng","Johnson & Johnson","2021-06-10",16
+"Gauteng","Johnson & Johnson","2021-06-10",18
 "Gauteng","Johnson & Johnson","2021-06-11",13
 "Gauteng","Johnson & Johnson","2021-06-12",2
 "Gauteng","Johnson & Johnson","2021-06-13",3
@@ -1018,68 +1022,68 @@
 "Gauteng","Johnson & Johnson","2021-06-15",45
 "Gauteng","Johnson & Johnson","2021-06-16",10
 "Gauteng","Johnson & Johnson","2021-06-17",38
-"Gauteng","Johnson & Johnson","2021-06-18",52
+"Gauteng","Johnson & Johnson","2021-06-18",53
 "Gauteng","Johnson & Johnson","2021-06-19",3
 "Gauteng","Johnson & Johnson","2021-06-20",10
 "Gauteng","Johnson & Johnson","2021-06-21",214
 "Gauteng","Johnson & Johnson","2021-06-22",48
-"Gauteng","Johnson & Johnson","2021-06-23",8643
-"Gauteng","Johnson & Johnson","2021-06-24",12209
+"Gauteng","Johnson & Johnson","2021-06-23",8644
+"Gauteng","Johnson & Johnson","2021-06-24",12210
 "Gauteng","Johnson & Johnson","2021-06-25",10825
 "Gauteng","Johnson & Johnson","2021-06-26",119
 "Gauteng","Johnson & Johnson","2021-06-27",113
 "Gauteng","Johnson & Johnson","2021-06-28",9148
 "Gauteng","Johnson & Johnson","2021-06-29",8910
-"Gauteng","Johnson & Johnson","2021-06-30",9899
-"Gauteng","Johnson & Johnson","2021-07-01",9457
-"Gauteng","Johnson & Johnson","2021-07-02",6292
+"Gauteng","Johnson & Johnson","2021-06-30",9900
+"Gauteng","Johnson & Johnson","2021-07-01",9459
+"Gauteng","Johnson & Johnson","2021-07-02",6295
 "Gauteng","Johnson & Johnson","2021-07-03",85
 "Gauteng","Johnson & Johnson","2021-07-04",19
-"Gauteng","Johnson & Johnson","2021-07-05",4530
+"Gauteng","Johnson & Johnson","2021-07-05",4531
 "Gauteng","Johnson & Johnson","2021-07-06",4079
-"Gauteng","Johnson & Johnson","2021-07-07",5485
+"Gauteng","Johnson & Johnson","2021-07-07",5487
 "Gauteng","Johnson & Johnson","2021-07-08",5576
-"Gauteng","Johnson & Johnson","2021-07-09",5107
+"Gauteng","Johnson & Johnson","2021-07-09",5110
 "Gauteng","Johnson & Johnson","2021-07-10",579
 "Gauteng","Johnson & Johnson","2021-07-11",139
-"Gauteng","Johnson & Johnson","2021-07-12",3134
+"Gauteng","Johnson & Johnson","2021-07-12",3143
 "Gauteng","Johnson & Johnson","2021-07-13",2924
-"Gauteng","Johnson & Johnson","2021-07-14",4031
+"Gauteng","Johnson & Johnson","2021-07-14",4032
 "Gauteng","Johnson & Johnson","2021-07-15",3686
 "Gauteng","Johnson & Johnson","2021-07-16",3904
 "Gauteng","Johnson & Johnson","2021-07-17",534
 "Gauteng","Johnson & Johnson","2021-07-18",30
-"Gauteng","Johnson & Johnson","2021-07-19",5840
-"Gauteng","Johnson & Johnson","2021-07-20",7107
-"Gauteng","Johnson & Johnson","2021-07-21",9474
+"Gauteng","Johnson & Johnson","2021-07-19",5855
+"Gauteng","Johnson & Johnson","2021-07-20",7113
+"Gauteng","Johnson & Johnson","2021-07-21",9493
 "Gauteng","Johnson & Johnson","2021-07-22",6611
 "Gauteng","Johnson & Johnson","2021-07-23",6979
 "Gauteng","Johnson & Johnson","2021-07-24",917
 "Gauteng","Johnson & Johnson","2021-07-25",758
-"Gauteng","Johnson & Johnson","2021-07-26",10392
+"Gauteng","Johnson & Johnson","2021-07-26",10393
 "Gauteng","Johnson & Johnson","2021-07-27",14831
-"Gauteng","Johnson & Johnson","2021-07-28",20210
+"Gauteng","Johnson & Johnson","2021-07-28",20212
 "Gauteng","Johnson & Johnson","2021-07-29",18354
-"Gauteng","Johnson & Johnson","2021-07-30",19090
+"Gauteng","Johnson & Johnson","2021-07-30",19100
 "Gauteng","Johnson & Johnson","2021-07-31",2669
 "Gauteng","Johnson & Johnson","2021-08-01",1146
 "Gauteng","Johnson & Johnson","2021-08-02",15704
 "Gauteng","Johnson & Johnson","2021-08-03",16095
-"Gauteng","Johnson & Johnson","2021-08-04",16306
-"Gauteng","Johnson & Johnson","2021-08-05",15665
+"Gauteng","Johnson & Johnson","2021-08-04",16315
+"Gauteng","Johnson & Johnson","2021-08-05",15666
 "Gauteng","Johnson & Johnson","2021-08-06",11964
-"Gauteng","Johnson & Johnson","2021-08-07",3575
+"Gauteng","Johnson & Johnson","2021-08-07",3576
 "Gauteng","Johnson & Johnson","2021-08-08",1212
 "Gauteng","Johnson & Johnson","2021-08-09",1238
 "Gauteng","Johnson & Johnson","2021-08-10",11883
 "Gauteng","Johnson & Johnson","2021-08-11",13747
-"Gauteng","Johnson & Johnson","2021-08-12",12184
+"Gauteng","Johnson & Johnson","2021-08-12",12186
 "Gauteng","Johnson & Johnson","2021-08-13",10550
 "Gauteng","Johnson & Johnson","2021-08-14",2232
 "Gauteng","Johnson & Johnson","2021-08-15",427
 "Gauteng","Johnson & Johnson","2021-08-16",10184
-"Gauteng","Johnson & Johnson","2021-08-17",10248
-"Gauteng","Johnson & Johnson","2021-08-18",8947
+"Gauteng","Johnson & Johnson","2021-08-17",10249
+"Gauteng","Johnson & Johnson","2021-08-18",8948
 "Gauteng","Johnson & Johnson","2021-08-19",7843
 "Gauteng","Johnson & Johnson","2021-08-20",12991
 "Gauteng","Johnson & Johnson","2021-08-21",4954
@@ -1088,20 +1092,20 @@
 "Gauteng","Johnson & Johnson","2021-08-24",11204
 "Gauteng","Johnson & Johnson","2021-08-25",11598
 "Gauteng","Johnson & Johnson","2021-08-26",10972
-"Gauteng","Johnson & Johnson","2021-08-27",10800
+"Gauteng","Johnson & Johnson","2021-08-27",10801
 "Gauteng","Johnson & Johnson","2021-08-28",5263
 "Gauteng","Johnson & Johnson","2021-08-29",1587
 "Gauteng","Johnson & Johnson","2021-08-30",9292
 "Gauteng","Johnson & Johnson","2021-08-31",8672
 "Gauteng","Johnson & Johnson","2021-09-01",8837
 "Gauteng","Johnson & Johnson","2021-09-02",7879
-"Gauteng","Johnson & Johnson","2021-09-03",8267
-"Gauteng","Johnson & Johnson","2021-09-04",3618
+"Gauteng","Johnson & Johnson","2021-09-03",8268
+"Gauteng","Johnson & Johnson","2021-09-04",3619
 "Gauteng","Johnson & Johnson","2021-09-05",1093
-"Gauteng","Johnson & Johnson","2021-09-06",7357
+"Gauteng","Johnson & Johnson","2021-09-06",7358
 "Gauteng","Johnson & Johnson","2021-09-07",7868
-"Gauteng","Johnson & Johnson","2021-09-08",7846
-"Gauteng","Johnson & Johnson","2021-09-09",7359
+"Gauteng","Johnson & Johnson","2021-09-08",7847
+"Gauteng","Johnson & Johnson","2021-09-09",7360
 "Gauteng","Johnson & Johnson","2021-09-10",8148
 "Gauteng","Johnson & Johnson","2021-09-11",3878
 "Gauteng","Johnson & Johnson","2021-09-12",1235
@@ -1109,12 +1113,12 @@
 "Gauteng","Johnson & Johnson","2021-09-14",8129
 "Gauteng","Johnson & Johnson","2021-09-15",8845
 "Gauteng","Johnson & Johnson","2021-09-16",7781
-"Gauteng","Johnson & Johnson","2021-09-17",7220
+"Gauteng","Johnson & Johnson","2021-09-17",7221
 "Gauteng","Johnson & Johnson","2021-09-18",6229
-"Gauteng","Johnson & Johnson","2021-09-19",4152
+"Gauteng","Johnson & Johnson","2021-09-19",4153
 "Gauteng","Johnson & Johnson","2021-09-20",6046
 "Gauteng","Johnson & Johnson","2021-09-21",6386
-"Gauteng","Johnson & Johnson","2021-09-22",7061
+"Gauteng","Johnson & Johnson","2021-09-22",7062
 "Gauteng","Johnson & Johnson","2021-09-23",6697
 "Gauteng","Johnson & Johnson","2021-09-24",1235
 "Gauteng","Johnson & Johnson","2021-09-25",1987
@@ -1122,13 +1126,13 @@
 "Gauteng","Johnson & Johnson","2021-09-27",5103
 "Gauteng","Johnson & Johnson","2021-09-28",5546
 "Gauteng","Johnson & Johnson","2021-09-29",5883
-"Gauteng","Johnson & Johnson","2021-09-30",5039
-"Gauteng","Johnson & Johnson","2021-10-01",6016
+"Gauteng","Johnson & Johnson","2021-09-30",5040
+"Gauteng","Johnson & Johnson","2021-10-01",6017
 "Gauteng","Johnson & Johnson","2021-10-02",9253
-"Gauteng","Johnson & Johnson","2021-10-03",7045
+"Gauteng","Johnson & Johnson","2021-10-03",7046
 "Gauteng","Johnson & Johnson","2021-10-04",6739
 "Gauteng","Johnson & Johnson","2021-10-05",7048
-"Gauteng","Johnson & Johnson","2021-10-06",8449
+"Gauteng","Johnson & Johnson","2021-10-06",8447
 "Gauteng","Johnson & Johnson","2021-10-07",7697
 "Gauteng","Johnson & Johnson","2021-10-08",6867
 "Gauteng","Johnson & Johnson","2021-10-09",3017
@@ -1151,15 +1155,15 @@
 "Gauteng","Johnson & Johnson","2021-10-26",5079
 "Gauteng","Johnson & Johnson","2021-10-27",5037
 "Gauteng","Johnson & Johnson","2021-10-28",4585
-"Gauteng","Johnson & Johnson","2021-10-29",5008
+"Gauteng","Johnson & Johnson","2021-10-29",5009
 "Gauteng","Johnson & Johnson","2021-10-30",3161
 "Gauteng","Johnson & Johnson","2021-10-31",1404
 "Gauteng","Johnson & Johnson","2021-11-01",6846
-"Gauteng","Johnson & Johnson","2021-11-02",5093
+"Gauteng","Johnson & Johnson","2021-11-02",5094
 "Gauteng","Johnson & Johnson","2021-11-03",5346
 "Gauteng","Johnson & Johnson","2021-11-04",5490
 "Gauteng","Johnson & Johnson","2021-11-05",5434
-"Gauteng","Johnson & Johnson","2021-11-06",2551
+"Gauteng","Johnson & Johnson","2021-11-06",2552
 "Gauteng","Johnson & Johnson","2021-11-07",1351
 "Gauteng","Johnson & Johnson","2021-11-08",3196
 "Gauteng","Johnson & Johnson","2021-11-09",5011
@@ -1167,9 +1171,9 @@
 "Gauteng","Johnson & Johnson","2021-11-11",5609
 "Gauteng","Johnson & Johnson","2021-11-12",7045
 "Gauteng","Johnson & Johnson","2021-11-13",6909
-"Gauteng","Johnson & Johnson","2021-11-14",5479
+"Gauteng","Johnson & Johnson","2021-11-14",5481
 "Gauteng","Johnson & Johnson","2021-11-15",4678
-"Gauteng","Johnson & Johnson","2021-11-16",5333
+"Gauteng","Johnson & Johnson","2021-11-16",5334
 "Gauteng","Johnson & Johnson","2021-11-17",5782
 "Gauteng","Johnson & Johnson","2021-11-18",5066
 "Gauteng","Johnson & Johnson","2021-11-19",5268
@@ -1177,29 +1181,30 @@
 "Gauteng","Johnson & Johnson","2021-11-21",921
 "Gauteng","Johnson & Johnson","2021-11-22",4328
 "Gauteng","Johnson & Johnson","2021-11-23",5093
-"Gauteng","Johnson & Johnson","2021-11-24",5806
-"Gauteng","Johnson & Johnson","2021-11-25",4638
+"Gauteng","Johnson & Johnson","2021-11-24",5837
+"Gauteng","Johnson & Johnson","2021-11-25",4647
 "Gauteng","Johnson & Johnson","2021-11-26",4187
 "Gauteng","Johnson & Johnson","2021-11-27",1693
 "Gauteng","Johnson & Johnson","2021-11-28",733
 "Gauteng","Johnson & Johnson","2021-11-29",6627
-"Gauteng","Johnson & Johnson","2021-11-30",7164
-"Gauteng","Johnson & Johnson","2021-12-01",7380
+"Gauteng","Johnson & Johnson","2021-11-30",7165
+"Gauteng","Johnson & Johnson","2021-12-01",7381
 "Gauteng","Johnson & Johnson","2021-12-02",5755
-"Gauteng","Johnson & Johnson","2021-12-03",6398
-"Gauteng","Johnson & Johnson","2021-12-04",5182
+"Gauteng","Johnson & Johnson","2021-12-03",6399
+"Gauteng","Johnson & Johnson","2021-12-04",5188
 "Gauteng","Johnson & Johnson","2021-12-05",3029
 "Gauteng","Johnson & Johnson","2021-12-06",5611
-"Gauteng","Johnson & Johnson","2021-12-07",6387
-"Gauteng","Johnson & Johnson","2021-12-08",6457
-"Gauteng","Johnson & Johnson","2021-12-09",6573
-"Gauteng","Johnson & Johnson","2021-12-10",6550
+"Gauteng","Johnson & Johnson","2021-12-07",6388
+"Gauteng","Johnson & Johnson","2021-12-08",6496
+"Gauteng","Johnson & Johnson","2021-12-09",6579
+"Gauteng","Johnson & Johnson","2021-12-10",6560
 "Gauteng","Johnson & Johnson","2021-12-11",2882
 "Gauteng","Johnson & Johnson","2021-12-12",1140
-"Gauteng","Johnson & Johnson","2021-12-13",5330
-"Gauteng","Johnson & Johnson","2021-12-14",6588
-"Gauteng","Johnson & Johnson","2021-12-15",4837
-"Gauteng","Johnson & Johnson","2021-12-16",852
+"Gauteng","Johnson & Johnson","2021-12-13",5363
+"Gauteng","Johnson & Johnson","2021-12-14",6636
+"Gauteng","Johnson & Johnson","2021-12-15",4917
+"Gauteng","Johnson & Johnson","2021-12-16",892
+"Gauteng","Johnson & Johnson","2021-12-17",2879
 "Gauteng","Pfizer","2021-05-17",3055
 "Gauteng","Pfizer","2021-05-18",6972
 "Gauteng","Pfizer","2021-05-19",9652
@@ -1217,7 +1222,7 @@
 "Gauteng","Pfizer","2021-05-31",22692
 "Gauteng","Pfizer","2021-06-01",20450
 "Gauteng","Pfizer","2021-06-02",20263
-"Gauteng","Pfizer","2021-06-03",19416
+"Gauteng","Pfizer","2021-06-03",19417
 "Gauteng","Pfizer","2021-06-04",17490
 "Gauteng","Pfizer","2021-06-05",579
 "Gauteng","Pfizer","2021-06-06",72
@@ -1252,23 +1257,23 @@
 "Gauteng","Pfizer","2021-07-05",21775
 "Gauteng","Pfizer","2021-07-06",24111
 "Gauteng","Pfizer","2021-07-07",30899
-"Gauteng","Pfizer","2021-07-08",26057
+"Gauteng","Pfizer","2021-07-08",26058
 "Gauteng","Pfizer","2021-07-09",26004
 "Gauteng","Pfizer","2021-07-10",4684
-"Gauteng","Pfizer","2021-07-11",3335
-"Gauteng","Pfizer","2021-07-12",26361
+"Gauteng","Pfizer","2021-07-11",3336
+"Gauteng","Pfizer","2021-07-12",26363
 "Gauteng","Pfizer","2021-07-13",18549
 "Gauteng","Pfizer","2021-07-14",18179
 "Gauteng","Pfizer","2021-07-15",26264
-"Gauteng","Pfizer","2021-07-16",34767
+"Gauteng","Pfizer","2021-07-16",34768
 "Gauteng","Pfizer","2021-07-17",7815
 "Gauteng","Pfizer","2021-07-18",4716
 "Gauteng","Pfizer","2021-07-19",41244
-"Gauteng","Pfizer","2021-07-20",37505
-"Gauteng","Pfizer","2021-07-21",40863
+"Gauteng","Pfizer","2021-07-20",37507
+"Gauteng","Pfizer","2021-07-21",40864
 "Gauteng","Pfizer","2021-07-22",38122
 "Gauteng","Pfizer","2021-07-23",35962
-"Gauteng","Pfizer","2021-07-24",7690
+"Gauteng","Pfizer","2021-07-24",7691
 "Gauteng","Pfizer","2021-07-25",5631
 "Gauteng","Pfizer","2021-07-26",33142
 "Gauteng","Pfizer","2021-07-27",30690
@@ -1286,134 +1291,135 @@
 "Gauteng","Pfizer","2021-08-08",2489
 "Gauteng","Pfizer","2021-08-09",482
 "Gauteng","Pfizer","2021-08-10",20309
-"Gauteng","Pfizer","2021-08-11",22661
+"Gauteng","Pfizer","2021-08-11",22662
 "Gauteng","Pfizer","2021-08-12",21419
 "Gauteng","Pfizer","2021-08-13",21081
 "Gauteng","Pfizer","2021-08-14",5566
 "Gauteng","Pfizer","2021-08-15",2374
-"Gauteng","Pfizer","2021-08-16",18856
+"Gauteng","Pfizer","2021-08-16",18857
 "Gauteng","Pfizer","2021-08-17",19653
 "Gauteng","Pfizer","2021-08-18",19143
-"Gauteng","Pfizer","2021-08-19",20515
-"Gauteng","Pfizer","2021-08-20",42243
+"Gauteng","Pfizer","2021-08-19",20514
+"Gauteng","Pfizer","2021-08-20",42245
 "Gauteng","Pfizer","2021-08-21",12880
 "Gauteng","Pfizer","2021-08-22",5754
 "Gauteng","Pfizer","2021-08-23",40902
-"Gauteng","Pfizer","2021-08-24",44369
+"Gauteng","Pfizer","2021-08-24",44368
 "Gauteng","Pfizer","2021-08-25",43727
-"Gauteng","Pfizer","2021-08-26",42153
-"Gauteng","Pfizer","2021-08-27",42657
+"Gauteng","Pfizer","2021-08-26",42154
+"Gauteng","Pfizer","2021-08-27",42656
 "Gauteng","Pfizer","2021-08-28",11781
 "Gauteng","Pfizer","2021-08-29",4119
-"Gauteng","Pfizer","2021-08-30",33701
-"Gauteng","Pfizer","2021-08-31",33783
-"Gauteng","Pfizer","2021-09-01",32581
+"Gauteng","Pfizer","2021-08-30",33703
+"Gauteng","Pfizer","2021-08-31",33786
+"Gauteng","Pfizer","2021-09-01",32582
 "Gauteng","Pfizer","2021-09-02",30290
 "Gauteng","Pfizer","2021-09-03",33101
-"Gauteng","Pfizer","2021-09-04",9071
+"Gauteng","Pfizer","2021-09-04",9070
 "Gauteng","Pfizer","2021-09-05",2799
 "Gauteng","Pfizer","2021-09-06",28495
 "Gauteng","Pfizer","2021-09-07",27945
 "Gauteng","Pfizer","2021-09-08",27789
-"Gauteng","Pfizer","2021-09-09",31872
-"Gauteng","Pfizer","2021-09-10",35472
-"Gauteng","Pfizer","2021-09-11",8379
+"Gauteng","Pfizer","2021-09-09",31873
+"Gauteng","Pfizer","2021-09-10",35473
+"Gauteng","Pfizer","2021-09-11",8380
 "Gauteng","Pfizer","2021-09-12",2255
-"Gauteng","Pfizer","2021-09-13",33921
+"Gauteng","Pfizer","2021-09-13",33922
 "Gauteng","Pfizer","2021-09-14",39212
 "Gauteng","Pfizer","2021-09-15",38752
-"Gauteng","Pfizer","2021-09-16",35638
-"Gauteng","Pfizer","2021-09-17",35996
+"Gauteng","Pfizer","2021-09-16",35639
+"Gauteng","Pfizer","2021-09-17",35997
 "Gauteng","Pfizer","2021-09-18",7243
 "Gauteng","Pfizer","2021-09-19",2637
 "Gauteng","Pfizer","2021-09-20",29696
-"Gauteng","Pfizer","2021-09-21",27348
-"Gauteng","Pfizer","2021-09-22",24722
-"Gauteng","Pfizer","2021-09-23",24725
-"Gauteng","Pfizer","2021-09-24",1977
+"Gauteng","Pfizer","2021-09-21",27349
+"Gauteng","Pfizer","2021-09-22",24723
+"Gauteng","Pfizer","2021-09-23",24727
+"Gauteng","Pfizer","2021-09-24",1978
 "Gauteng","Pfizer","2021-09-25",4273
 "Gauteng","Pfizer","2021-09-26",1156
 "Gauteng","Pfizer","2021-09-27",19437
-"Gauteng","Pfizer","2021-09-28",20102
-"Gauteng","Pfizer","2021-09-29",19473
-"Gauteng","Pfizer","2021-09-30",16864
+"Gauteng","Pfizer","2021-09-28",20103
+"Gauteng","Pfizer","2021-09-29",19472
+"Gauteng","Pfizer","2021-09-30",16866
 "Gauteng","Pfizer","2021-10-01",18409
 "Gauteng","Pfizer","2021-10-02",9989
-"Gauteng","Pfizer","2021-10-03",4240
-"Gauteng","Pfizer","2021-10-04",19745
-"Gauteng","Pfizer","2021-10-05",19576
-"Gauteng","Pfizer","2021-10-06",20997
+"Gauteng","Pfizer","2021-10-03",4241
+"Gauteng","Pfizer","2021-10-04",19748
+"Gauteng","Pfizer","2021-10-05",19577
+"Gauteng","Pfizer","2021-10-06",21001
 "Gauteng","Pfizer","2021-10-07",20295
-"Gauteng","Pfizer","2021-10-08",20902
-"Gauteng","Pfizer","2021-10-09",4861
+"Gauteng","Pfizer","2021-10-08",20974
+"Gauteng","Pfizer","2021-10-09",4862
 "Gauteng","Pfizer","2021-10-10",1937
-"Gauteng","Pfizer","2021-10-11",19959
-"Gauteng","Pfizer","2021-10-12",20947
-"Gauteng","Pfizer","2021-10-13",19863
-"Gauteng","Pfizer","2021-10-14",21409
+"Gauteng","Pfizer","2021-10-11",19962
+"Gauteng","Pfizer","2021-10-12",20948
+"Gauteng","Pfizer","2021-10-13",19867
+"Gauteng","Pfizer","2021-10-14",21408
 "Gauteng","Pfizer","2021-10-15",20918
 "Gauteng","Pfizer","2021-10-16",4346
 "Gauteng","Pfizer","2021-10-17",1505
-"Gauteng","Pfizer","2021-10-18",18127
-"Gauteng","Pfizer","2021-10-19",18914
-"Gauteng","Pfizer","2021-10-20",19037
-"Gauteng","Pfizer","2021-10-21",18768
-"Gauteng","Pfizer","2021-10-22",18376
-"Gauteng","Pfizer","2021-10-23",6051
+"Gauteng","Pfizer","2021-10-18",18181
+"Gauteng","Pfizer","2021-10-19",18915
+"Gauteng","Pfizer","2021-10-20",19048
+"Gauteng","Pfizer","2021-10-21",18774
+"Gauteng","Pfizer","2021-10-22",18380
+"Gauteng","Pfizer","2021-10-23",6056
 "Gauteng","Pfizer","2021-10-24",1560
 "Gauteng","Pfizer","2021-10-25",16537
-"Gauteng","Pfizer","2021-10-26",16508
+"Gauteng","Pfizer","2021-10-26",16510
 "Gauteng","Pfizer","2021-10-27",16400
-"Gauteng","Pfizer","2021-10-28",16122
-"Gauteng","Pfizer","2021-10-29",17501
-"Gauteng","Pfizer","2021-10-30",4641
-"Gauteng","Pfizer","2021-10-31",985
-"Gauteng","Pfizer","2021-11-01",3776
-"Gauteng","Pfizer","2021-11-02",13877
-"Gauteng","Pfizer","2021-11-03",13212
-"Gauteng","Pfizer","2021-11-04",12372
-"Gauteng","Pfizer","2021-11-05",13208
-"Gauteng","Pfizer","2021-11-06",3337
+"Gauteng","Pfizer","2021-10-28",16125
+"Gauteng","Pfizer","2021-10-29",17513
+"Gauteng","Pfizer","2021-10-30",4644
+"Gauteng","Pfizer","2021-10-31",984
+"Gauteng","Pfizer","2021-11-01",3777
+"Gauteng","Pfizer","2021-11-02",13883
+"Gauteng","Pfizer","2021-11-03",13219
+"Gauteng","Pfizer","2021-11-04",12378
+"Gauteng","Pfizer","2021-11-05",13229
+"Gauteng","Pfizer","2021-11-06",3340
 "Gauteng","Pfizer","2021-11-07",662
-"Gauteng","Pfizer","2021-11-08",9996
-"Gauteng","Pfizer","2021-11-09",12272
+"Gauteng","Pfizer","2021-11-08",9995
+"Gauteng","Pfizer","2021-11-09",12274
 "Gauteng","Pfizer","2021-11-10",12067
-"Gauteng","Pfizer","2021-11-11",12866
-"Gauteng","Pfizer","2021-11-12",13441
+"Gauteng","Pfizer","2021-11-11",12867
+"Gauteng","Pfizer","2021-11-12",13440
 "Gauteng","Pfizer","2021-11-13",6119
-"Gauteng","Pfizer","2021-11-14",2290
-"Gauteng","Pfizer","2021-11-15",12897
-"Gauteng","Pfizer","2021-11-16",12723
-"Gauteng","Pfizer","2021-11-17",12884
-"Gauteng","Pfizer","2021-11-18",11752
-"Gauteng","Pfizer","2021-11-19",11556
-"Gauteng","Pfizer","2021-11-20",3435
-"Gauteng","Pfizer","2021-11-21",690
-"Gauteng","Pfizer","2021-11-22",11281
-"Gauteng","Pfizer","2021-11-23",12006
-"Gauteng","Pfizer","2021-11-24",12052
-"Gauteng","Pfizer","2021-11-25",10405
-"Gauteng","Pfizer","2021-11-26",10843
-"Gauteng","Pfizer","2021-11-27",3419
+"Gauteng","Pfizer","2021-11-14",2292
+"Gauteng","Pfizer","2021-11-15",12900
+"Gauteng","Pfizer","2021-11-16",12727
+"Gauteng","Pfizer","2021-11-17",12886
+"Gauteng","Pfizer","2021-11-18",11753
+"Gauteng","Pfizer","2021-11-19",11557
+"Gauteng","Pfizer","2021-11-20",3437
+"Gauteng","Pfizer","2021-11-21",691
+"Gauteng","Pfizer","2021-11-22",11282
+"Gauteng","Pfizer","2021-11-23",12010
+"Gauteng","Pfizer","2021-11-24",12054
+"Gauteng","Pfizer","2021-11-25",10410
+"Gauteng","Pfizer","2021-11-26",10845
+"Gauteng","Pfizer","2021-11-27",3420
 "Gauteng","Pfizer","2021-11-28",1075
-"Gauteng","Pfizer","2021-11-29",19401
-"Gauteng","Pfizer","2021-11-30",19997
-"Gauteng","Pfizer","2021-12-01",18239
-"Gauteng","Pfizer","2021-12-02",15506
-"Gauteng","Pfizer","2021-12-03",16542
-"Gauteng","Pfizer","2021-12-04",6119
-"Gauteng","Pfizer","2021-12-05",2096
-"Gauteng","Pfizer","2021-12-06",15788
-"Gauteng","Pfizer","2021-12-07",15794
-"Gauteng","Pfizer","2021-12-08",14697
-"Gauteng","Pfizer","2021-12-09",13772
-"Gauteng","Pfizer","2021-12-10",12475
-"Gauteng","Pfizer","2021-12-11",3694
+"Gauteng","Pfizer","2021-11-29",19404
+"Gauteng","Pfizer","2021-11-30",20001
+"Gauteng","Pfizer","2021-12-01",18253
+"Gauteng","Pfizer","2021-12-02",15533
+"Gauteng","Pfizer","2021-12-03",16554
+"Gauteng","Pfizer","2021-12-04",6120
+"Gauteng","Pfizer","2021-12-05",2097
+"Gauteng","Pfizer","2021-12-06",15802
+"Gauteng","Pfizer","2021-12-07",15799
+"Gauteng","Pfizer","2021-12-08",14698
+"Gauteng","Pfizer","2021-12-09",13775
+"Gauteng","Pfizer","2021-12-10",12487
+"Gauteng","Pfizer","2021-12-11",3707
 "Gauteng","Pfizer","2021-12-12",859
-"Gauteng","Pfizer","2021-12-13",9830
-"Gauteng","Pfizer","2021-12-14",10609
-"Gauteng","Pfizer","2021-12-15",9426
-"Gauteng","Pfizer","2021-12-16",981
+"Gauteng","Pfizer","2021-12-13",9856
+"Gauteng","Pfizer","2021-12-14",10646
+"Gauteng","Pfizer","2021-12-15",9556
+"Gauteng","Pfizer","2021-12-16",987
+"Gauteng","Pfizer","2021-12-17",7405
 "KwaZulu-Natal","Johnson & Johnson","2021-02-17",48
 "KwaZulu-Natal","Johnson & Johnson","2021-02-18",378
 "KwaZulu-Natal","Johnson & Johnson","2021-02-19",879
@@ -1546,7 +1552,7 @@
 "KwaZulu-Natal","Johnson & Johnson","2021-08-07",3919
 "KwaZulu-Natal","Johnson & Johnson","2021-08-08",2159
 "KwaZulu-Natal","Johnson & Johnson","2021-08-09",2865
-"KwaZulu-Natal","Johnson & Johnson","2021-08-10",10461
+"KwaZulu-Natal","Johnson & Johnson","2021-08-10",10460
 "KwaZulu-Natal","Johnson & Johnson","2021-08-11",12162
 "KwaZulu-Natal","Johnson & Johnson","2021-08-12",10566
 "KwaZulu-Natal","Johnson & Johnson","2021-08-13",8218
@@ -1563,7 +1569,7 @@
 "KwaZulu-Natal","Johnson & Johnson","2021-08-24",14990
 "KwaZulu-Natal","Johnson & Johnson","2021-08-25",14254
 "KwaZulu-Natal","Johnson & Johnson","2021-08-26",11747
-"KwaZulu-Natal","Johnson & Johnson","2021-08-27",9365
+"KwaZulu-Natal","Johnson & Johnson","2021-08-27",9366
 "KwaZulu-Natal","Johnson & Johnson","2021-08-28",1458
 "KwaZulu-Natal","Johnson & Johnson","2021-08-29",1124
 "KwaZulu-Natal","Johnson & Johnson","2021-08-30",7733
@@ -1598,9 +1604,9 @@
 "KwaZulu-Natal","Johnson & Johnson","2021-09-28",5990
 "KwaZulu-Natal","Johnson & Johnson","2021-09-29",5273
 "KwaZulu-Natal","Johnson & Johnson","2021-09-30",5177
-"KwaZulu-Natal","Johnson & Johnson","2021-10-01",8078
+"KwaZulu-Natal","Johnson & Johnson","2021-10-01",8080
 "KwaZulu-Natal","Johnson & Johnson","2021-10-02",6251
-"KwaZulu-Natal","Johnson & Johnson","2021-10-03",5922
+"KwaZulu-Natal","Johnson & Johnson","2021-10-03",5923
 "KwaZulu-Natal","Johnson & Johnson","2021-10-04",5664
 "KwaZulu-Natal","Johnson & Johnson","2021-10-05",5599
 "KwaZulu-Natal","Johnson & Johnson","2021-10-06",5238
@@ -1625,7 +1631,7 @@
 "KwaZulu-Natal","Johnson & Johnson","2021-10-25",5453
 "KwaZulu-Natal","Johnson & Johnson","2021-10-26",6036
 "KwaZulu-Natal","Johnson & Johnson","2021-10-27",5607
-"KwaZulu-Natal","Johnson & Johnson","2021-10-28",5233
+"KwaZulu-Natal","Johnson & Johnson","2021-10-28",5234
 "KwaZulu-Natal","Johnson & Johnson","2021-10-29",5098
 "KwaZulu-Natal","Johnson & Johnson","2021-10-30",2468
 "KwaZulu-Natal","Johnson & Johnson","2021-10-31",2702
@@ -1638,45 +1644,46 @@
 "KwaZulu-Natal","Johnson & Johnson","2021-11-07",1346
 "KwaZulu-Natal","Johnson & Johnson","2021-11-08",3996
 "KwaZulu-Natal","Johnson & Johnson","2021-11-09",4257
-"KwaZulu-Natal","Johnson & Johnson","2021-11-10",4693
-"KwaZulu-Natal","Johnson & Johnson","2021-11-11",4571
+"KwaZulu-Natal","Johnson & Johnson","2021-11-10",4697
+"KwaZulu-Natal","Johnson & Johnson","2021-11-11",4572
 "KwaZulu-Natal","Johnson & Johnson","2021-11-12",4922
 "KwaZulu-Natal","Johnson & Johnson","2021-11-13",3945
 "KwaZulu-Natal","Johnson & Johnson","2021-11-14",3226
 "KwaZulu-Natal","Johnson & Johnson","2021-11-15",4049
-"KwaZulu-Natal","Johnson & Johnson","2021-11-16",4272
-"KwaZulu-Natal","Johnson & Johnson","2021-11-17",4060
+"KwaZulu-Natal","Johnson & Johnson","2021-11-16",4277
+"KwaZulu-Natal","Johnson & Johnson","2021-11-17",4063
 "KwaZulu-Natal","Johnson & Johnson","2021-11-18",3752
 "KwaZulu-Natal","Johnson & Johnson","2021-11-19",3308
-"KwaZulu-Natal","Johnson & Johnson","2021-11-20",2133
+"KwaZulu-Natal","Johnson & Johnson","2021-11-20",2136
 "KwaZulu-Natal","Johnson & Johnson","2021-11-21",1403
-"KwaZulu-Natal","Johnson & Johnson","2021-11-22",3657
-"KwaZulu-Natal","Johnson & Johnson","2021-11-23",3460
+"KwaZulu-Natal","Johnson & Johnson","2021-11-22",3668
+"KwaZulu-Natal","Johnson & Johnson","2021-11-23",3468
 "KwaZulu-Natal","Johnson & Johnson","2021-11-24",4031
-"KwaZulu-Natal","Johnson & Johnson","2021-11-25",3625
-"KwaZulu-Natal","Johnson & Johnson","2021-11-26",3086
-"KwaZulu-Natal","Johnson & Johnson","2021-11-27",1898
-"KwaZulu-Natal","Johnson & Johnson","2021-11-28",1568
-"KwaZulu-Natal","Johnson & Johnson","2021-11-29",4877
-"KwaZulu-Natal","Johnson & Johnson","2021-11-30",5104
-"KwaZulu-Natal","Johnson & Johnson","2021-12-01",4614
-"KwaZulu-Natal","Johnson & Johnson","2021-12-02",4431
-"KwaZulu-Natal","Johnson & Johnson","2021-12-03",4236
-"KwaZulu-Natal","Johnson & Johnson","2021-12-04",1778
-"KwaZulu-Natal","Johnson & Johnson","2021-12-05",1312
-"KwaZulu-Natal","Johnson & Johnson","2021-12-06",3727
-"KwaZulu-Natal","Johnson & Johnson","2021-12-07",3823
-"KwaZulu-Natal","Johnson & Johnson","2021-12-08",3751
-"KwaZulu-Natal","Johnson & Johnson","2021-12-09",3277
-"KwaZulu-Natal","Johnson & Johnson","2021-12-10",3014
+"KwaZulu-Natal","Johnson & Johnson","2021-11-25",3628
+"KwaZulu-Natal","Johnson & Johnson","2021-11-26",3102
+"KwaZulu-Natal","Johnson & Johnson","2021-11-27",1909
+"KwaZulu-Natal","Johnson & Johnson","2021-11-28",1593
+"KwaZulu-Natal","Johnson & Johnson","2021-11-29",4896
+"KwaZulu-Natal","Johnson & Johnson","2021-11-30",5119
+"KwaZulu-Natal","Johnson & Johnson","2021-12-01",4615
+"KwaZulu-Natal","Johnson & Johnson","2021-12-02",4437
+"KwaZulu-Natal","Johnson & Johnson","2021-12-03",4247
+"KwaZulu-Natal","Johnson & Johnson","2021-12-04",1792
+"KwaZulu-Natal","Johnson & Johnson","2021-12-05",1333
+"KwaZulu-Natal","Johnson & Johnson","2021-12-06",3739
+"KwaZulu-Natal","Johnson & Johnson","2021-12-07",3827
+"KwaZulu-Natal","Johnson & Johnson","2021-12-08",3774
+"KwaZulu-Natal","Johnson & Johnson","2021-12-09",3306
+"KwaZulu-Natal","Johnson & Johnson","2021-12-10",3022
 "KwaZulu-Natal","Johnson & Johnson","2021-12-11",1290
-"KwaZulu-Natal","Johnson & Johnson","2021-12-12",792
-"KwaZulu-Natal","Johnson & Johnson","2021-12-13",2167
-"KwaZulu-Natal","Johnson & Johnson","2021-12-14",2439
-"KwaZulu-Natal","Johnson & Johnson","2021-12-15",2199
-"KwaZulu-Natal","Johnson & Johnson","2021-12-16",480
+"KwaZulu-Natal","Johnson & Johnson","2021-12-12",797
+"KwaZulu-Natal","Johnson & Johnson","2021-12-13",2189
+"KwaZulu-Natal","Johnson & Johnson","2021-12-14",2494
+"KwaZulu-Natal","Johnson & Johnson","2021-12-15",2299
+"KwaZulu-Natal","Johnson & Johnson","2021-12-16",621
+"KwaZulu-Natal","Johnson & Johnson","2021-12-17",1199
 "KwaZulu-Natal","Pfizer","2021-05-17",6133
-"KwaZulu-Natal","Pfizer","2021-05-18",15448
+"KwaZulu-Natal","Pfizer","2021-05-18",15449
 "KwaZulu-Natal","Pfizer","2021-05-19",18841
 "KwaZulu-Natal","Pfizer","2021-05-20",20917
 "KwaZulu-Natal","Pfizer","2021-05-21",21211
@@ -1746,9 +1753,9 @@
 "KwaZulu-Natal","Pfizer","2021-07-24",6326
 "KwaZulu-Natal","Pfizer","2021-07-25",4317
 "KwaZulu-Natal","Pfizer","2021-07-26",14031
-"KwaZulu-Natal","Pfizer","2021-07-27",10286
+"KwaZulu-Natal","Pfizer","2021-07-27",10287
 "KwaZulu-Natal","Pfizer","2021-07-28",9575
-"KwaZulu-Natal","Pfizer","2021-07-29",11927
+"KwaZulu-Natal","Pfizer","2021-07-29",11928
 "KwaZulu-Natal","Pfizer","2021-07-30",18962
 "KwaZulu-Natal","Pfizer","2021-07-31",7234
 "KwaZulu-Natal","Pfizer","2021-08-01",4826
@@ -1760,8 +1767,8 @@
 "KwaZulu-Natal","Pfizer","2021-08-07",4018
 "KwaZulu-Natal","Pfizer","2021-08-08",1931
 "KwaZulu-Natal","Pfizer","2021-08-09",1492
-"KwaZulu-Natal","Pfizer","2021-08-10",7607
-"KwaZulu-Natal","Pfizer","2021-08-11",8258
+"KwaZulu-Natal","Pfizer","2021-08-10",7608
+"KwaZulu-Natal","Pfizer","2021-08-11",8259
 "KwaZulu-Natal","Pfizer","2021-08-12",7205
 "KwaZulu-Natal","Pfizer","2021-08-13",6671
 "KwaZulu-Natal","Pfizer","2021-08-14",2411
@@ -1796,7 +1803,7 @@
 "KwaZulu-Natal","Pfizer","2021-09-12",2072
 "KwaZulu-Natal","Pfizer","2021-09-13",13505
 "KwaZulu-Natal","Pfizer","2021-09-14",14469
-"KwaZulu-Natal","Pfizer","2021-09-15",16242
+"KwaZulu-Natal","Pfizer","2021-09-15",16243
 "KwaZulu-Natal","Pfizer","2021-09-16",12090
 "KwaZulu-Natal","Pfizer","2021-09-17",14709
 "KwaZulu-Natal","Pfizer","2021-09-18",3981
@@ -1805,90 +1812,91 @@
 "KwaZulu-Natal","Pfizer","2021-09-21",10957
 "KwaZulu-Natal","Pfizer","2021-09-22",10572
 "KwaZulu-Natal","Pfizer","2021-09-23",10654
-"KwaZulu-Natal","Pfizer","2021-09-24",2124
+"KwaZulu-Natal","Pfizer","2021-09-24",2125
 "KwaZulu-Natal","Pfizer","2021-09-25",2684
-"KwaZulu-Natal","Pfizer","2021-09-26",1203
+"KwaZulu-Natal","Pfizer","2021-09-26",1204
 "KwaZulu-Natal","Pfizer","2021-09-27",8459
 "KwaZulu-Natal","Pfizer","2021-09-28",9548
 "KwaZulu-Natal","Pfizer","2021-09-29",8764
 "KwaZulu-Natal","Pfizer","2021-09-30",7957
-"KwaZulu-Natal","Pfizer","2021-10-01",11147
+"KwaZulu-Natal","Pfizer","2021-10-01",11148
 "KwaZulu-Natal","Pfizer","2021-10-02",5798
 "KwaZulu-Natal","Pfizer","2021-10-03",3161
-"KwaZulu-Natal","Pfizer","2021-10-04",7724
+"KwaZulu-Natal","Pfizer","2021-10-04",7727
 "KwaZulu-Natal","Pfizer","2021-10-05",8074
 "KwaZulu-Natal","Pfizer","2021-10-06",7835
 "KwaZulu-Natal","Pfizer","2021-10-07",7994
 "KwaZulu-Natal","Pfizer","2021-10-08",9406
 "KwaZulu-Natal","Pfizer","2021-10-09",3100
-"KwaZulu-Natal","Pfizer","2021-10-10",1410
-"KwaZulu-Natal","Pfizer","2021-10-11",8114
-"KwaZulu-Natal","Pfizer","2021-10-12",8762
-"KwaZulu-Natal","Pfizer","2021-10-13",8436
+"KwaZulu-Natal","Pfizer","2021-10-10",1411
+"KwaZulu-Natal","Pfizer","2021-10-11",8115
+"KwaZulu-Natal","Pfizer","2021-10-12",8764
+"KwaZulu-Natal","Pfizer","2021-10-13",8438
 "KwaZulu-Natal","Pfizer","2021-10-14",8744
 "KwaZulu-Natal","Pfizer","2021-10-15",9829
 "KwaZulu-Natal","Pfizer","2021-10-16",3069
-"KwaZulu-Natal","Pfizer","2021-10-17",1229
+"KwaZulu-Natal","Pfizer","2021-10-17",1230
 "KwaZulu-Natal","Pfizer","2021-10-18",6899
-"KwaZulu-Natal","Pfizer","2021-10-19",7726
-"KwaZulu-Natal","Pfizer","2021-10-20",6956
+"KwaZulu-Natal","Pfizer","2021-10-19",7727
+"KwaZulu-Natal","Pfizer","2021-10-20",6957
 "KwaZulu-Natal","Pfizer","2021-10-21",7060
-"KwaZulu-Natal","Pfizer","2021-10-22",8385
+"KwaZulu-Natal","Pfizer","2021-10-22",8389
 "KwaZulu-Natal","Pfizer","2021-10-23",2683
-"KwaZulu-Natal","Pfizer","2021-10-24",896
+"KwaZulu-Natal","Pfizer","2021-10-24",897
 "KwaZulu-Natal","Pfizer","2021-10-25",6327
-"KwaZulu-Natal","Pfizer","2021-10-26",6102
+"KwaZulu-Natal","Pfizer","2021-10-26",6103
 "KwaZulu-Natal","Pfizer","2021-10-27",5690
-"KwaZulu-Natal","Pfizer","2021-10-28",5973
-"KwaZulu-Natal","Pfizer","2021-10-29",6001
-"KwaZulu-Natal","Pfizer","2021-10-30",2003
+"KwaZulu-Natal","Pfizer","2021-10-28",5974
+"KwaZulu-Natal","Pfizer","2021-10-29",6004
+"KwaZulu-Natal","Pfizer","2021-10-30",2006
 "KwaZulu-Natal","Pfizer","2021-10-31",888
-"KwaZulu-Natal","Pfizer","2021-11-01",2427
-"KwaZulu-Natal","Pfizer","2021-11-02",4459
-"KwaZulu-Natal","Pfizer","2021-11-03",4758
-"KwaZulu-Natal","Pfizer","2021-11-04",4479
-"KwaZulu-Natal","Pfizer","2021-11-05",4722
-"KwaZulu-Natal","Pfizer","2021-11-06",1436
+"KwaZulu-Natal","Pfizer","2021-11-01",2430
+"KwaZulu-Natal","Pfizer","2021-11-02",4460
+"KwaZulu-Natal","Pfizer","2021-11-03",4762
+"KwaZulu-Natal","Pfizer","2021-11-04",4485
+"KwaZulu-Natal","Pfizer","2021-11-05",4727
+"KwaZulu-Natal","Pfizer","2021-11-06",1438
 "KwaZulu-Natal","Pfizer","2021-11-07",688
-"KwaZulu-Natal","Pfizer","2021-11-08",3717
-"KwaZulu-Natal","Pfizer","2021-11-09",4030
-"KwaZulu-Natal","Pfizer","2021-11-10",4520
-"KwaZulu-Natal","Pfizer","2021-11-11",4307
-"KwaZulu-Natal","Pfizer","2021-11-12",4690
+"KwaZulu-Natal","Pfizer","2021-11-08",3718
+"KwaZulu-Natal","Pfizer","2021-11-09",4031
+"KwaZulu-Natal","Pfizer","2021-11-10",4521
+"KwaZulu-Natal","Pfizer","2021-11-11",4308
+"KwaZulu-Natal","Pfizer","2021-11-12",4692
 "KwaZulu-Natal","Pfizer","2021-11-13",2276
-"KwaZulu-Natal","Pfizer","2021-11-14",1226
-"KwaZulu-Natal","Pfizer","2021-11-15",4176
-"KwaZulu-Natal","Pfizer","2021-11-16",4062
+"KwaZulu-Natal","Pfizer","2021-11-14",1227
+"KwaZulu-Natal","Pfizer","2021-11-15",4177
+"KwaZulu-Natal","Pfizer","2021-11-16",4067
 "KwaZulu-Natal","Pfizer","2021-11-17",3908
-"KwaZulu-Natal","Pfizer","2021-11-18",3811
+"KwaZulu-Natal","Pfizer","2021-11-18",3812
 "KwaZulu-Natal","Pfizer","2021-11-19",3800
-"KwaZulu-Natal","Pfizer","2021-11-20",1380
-"KwaZulu-Natal","Pfizer","2021-11-21",579
-"KwaZulu-Natal","Pfizer","2021-11-22",3422
-"KwaZulu-Natal","Pfizer","2021-11-23",3491
-"KwaZulu-Natal","Pfizer","2021-11-24",3682
-"KwaZulu-Natal","Pfizer","2021-11-25",3655
+"KwaZulu-Natal","Pfizer","2021-11-20",1382
+"KwaZulu-Natal","Pfizer","2021-11-21",580
+"KwaZulu-Natal","Pfizer","2021-11-22",3436
+"KwaZulu-Natal","Pfizer","2021-11-23",3492
+"KwaZulu-Natal","Pfizer","2021-11-24",3689
+"KwaZulu-Natal","Pfizer","2021-11-25",3657
 "KwaZulu-Natal","Pfizer","2021-11-26",3557
 "KwaZulu-Natal","Pfizer","2021-11-27",1751
-"KwaZulu-Natal","Pfizer","2021-11-28",807
-"KwaZulu-Natal","Pfizer","2021-11-29",5507
-"KwaZulu-Natal","Pfizer","2021-11-30",5815
-"KwaZulu-Natal","Pfizer","2021-12-01",5099
-"KwaZulu-Natal","Pfizer","2021-12-02",5132
-"KwaZulu-Natal","Pfizer","2021-12-03",5523
-"KwaZulu-Natal","Pfizer","2021-12-04",2302
-"KwaZulu-Natal","Pfizer","2021-12-05",940
-"KwaZulu-Natal","Pfizer","2021-12-06",4873
-"KwaZulu-Natal","Pfizer","2021-12-07",4833
-"KwaZulu-Natal","Pfizer","2021-12-08",4432
-"KwaZulu-Natal","Pfizer","2021-12-09",4505
-"KwaZulu-Natal","Pfizer","2021-12-10",4164
-"KwaZulu-Natal","Pfizer","2021-12-11",1505
-"KwaZulu-Natal","Pfizer","2021-12-12",657
-"KwaZulu-Natal","Pfizer","2021-12-13",3766
-"KwaZulu-Natal","Pfizer","2021-12-14",3347
-"KwaZulu-Natal","Pfizer","2021-12-15",3062
-"KwaZulu-Natal","Pfizer","2021-12-16",608
+"KwaZulu-Natal","Pfizer","2021-11-28",808
+"KwaZulu-Natal","Pfizer","2021-11-29",5516
+"KwaZulu-Natal","Pfizer","2021-11-30",5822
+"KwaZulu-Natal","Pfizer","2021-12-01",5101
+"KwaZulu-Natal","Pfizer","2021-12-02",5142
+"KwaZulu-Natal","Pfizer","2021-12-03",5540
+"KwaZulu-Natal","Pfizer","2021-12-04",2321
+"KwaZulu-Natal","Pfizer","2021-12-05",944
+"KwaZulu-Natal","Pfizer","2021-12-06",4903
+"KwaZulu-Natal","Pfizer","2021-12-07",4856
+"KwaZulu-Natal","Pfizer","2021-12-08",4440
+"KwaZulu-Natal","Pfizer","2021-12-09",4522
+"KwaZulu-Natal","Pfizer","2021-12-10",4195
+"KwaZulu-Natal","Pfizer","2021-12-11",1530
+"KwaZulu-Natal","Pfizer","2021-12-12",661
+"KwaZulu-Natal","Pfizer","2021-12-13",3812
+"KwaZulu-Natal","Pfizer","2021-12-14",3380
+"KwaZulu-Natal","Pfizer","2021-12-15",3146
+"KwaZulu-Natal","Pfizer","2021-12-16",650
+"KwaZulu-Natal","Pfizer","2021-12-17",2295
 "Limpopo","Johnson & Johnson","2021-02-17",1
 "Limpopo","Johnson & Johnson","2021-02-19",75
 "Limpopo","Johnson & Johnson","2021-02-20",430
@@ -1980,11 +1988,11 @@
 "Limpopo","Johnson & Johnson","2021-07-09",17474
 "Limpopo","Johnson & Johnson","2021-07-10",92
 "Limpopo","Johnson & Johnson","2021-07-11",7
-"Limpopo","Johnson & Johnson","2021-07-12",803
+"Limpopo","Johnson & Johnson","2021-07-12",804
 "Limpopo","Johnson & Johnson","2021-07-13",1649
 "Limpopo","Johnson & Johnson","2021-07-14",3934
 "Limpopo","Johnson & Johnson","2021-07-15",6706
-"Limpopo","Johnson & Johnson","2021-07-16",8834
+"Limpopo","Johnson & Johnson","2021-07-16",8835
 "Limpopo","Johnson & Johnson","2021-07-17",810
 "Limpopo","Johnson & Johnson","2021-07-18",1
 "Limpopo","Johnson & Johnson","2021-07-19",5038
@@ -2120,7 +2128,7 @@
 "Limpopo","Johnson & Johnson","2021-11-27",1118
 "Limpopo","Johnson & Johnson","2021-11-28",212
 "Limpopo","Johnson & Johnson","2021-11-29",4645
-"Limpopo","Johnson & Johnson","2021-11-30",4733
+"Limpopo","Johnson & Johnson","2021-11-30",4734
 "Limpopo","Johnson & Johnson","2021-12-01",4849
 "Limpopo","Johnson & Johnson","2021-12-02",5109
 "Limpopo","Johnson & Johnson","2021-12-03",4093
@@ -2128,16 +2136,17 @@
 "Limpopo","Johnson & Johnson","2021-12-05",795
 "Limpopo","Johnson & Johnson","2021-12-06",5003
 "Limpopo","Johnson & Johnson","2021-12-07",4794
-"Limpopo","Johnson & Johnson","2021-12-08",5060
+"Limpopo","Johnson & Johnson","2021-12-08",5061
 "Limpopo","Johnson & Johnson","2021-12-09",4198
 "Limpopo","Johnson & Johnson","2021-12-10",3708
 "Limpopo","Johnson & Johnson","2021-12-11",1186
 "Limpopo","Johnson & Johnson","2021-12-12",30
 "Limpopo","Johnson & Johnson","2021-12-13",3909
-"Limpopo","Johnson & Johnson","2021-12-14",3210
+"Limpopo","Johnson & Johnson","2021-12-14",3239
 "Limpopo","Johnson & Johnson","2021-12-15",3111
-"Limpopo","Johnson & Johnson","2021-12-16",982
-"Limpopo","Pfizer","2021-05-17",971
+"Limpopo","Johnson & Johnson","2021-12-16",1010
+"Limpopo","Johnson & Johnson","2021-12-17",1468
+"Limpopo","Pfizer","2021-05-17",973
 "Limpopo","Pfizer","2021-05-18",3249
 "Limpopo","Pfizer","2021-05-19",4115
 "Limpopo","Pfizer","2021-05-20",4706
@@ -2295,28 +2304,28 @@
 "Limpopo","Pfizer","2021-10-19",2040
 "Limpopo","Pfizer","2021-10-20",2299
 "Limpopo","Pfizer","2021-10-21",2422
-"Limpopo","Pfizer","2021-10-22",1988
+"Limpopo","Pfizer","2021-10-22",1990
 "Limpopo","Pfizer","2021-10-23",346
 "Limpopo","Pfizer","2021-10-24",41
-"Limpopo","Pfizer","2021-10-25",2137
-"Limpopo","Pfizer","2021-10-26",2130
+"Limpopo","Pfizer","2021-10-25",2138
+"Limpopo","Pfizer","2021-10-26",2131
 "Limpopo","Pfizer","2021-10-27",1893
-"Limpopo","Pfizer","2021-10-28",2024
+"Limpopo","Pfizer","2021-10-28",2026
 "Limpopo","Pfizer","2021-10-29",1841
 "Limpopo","Pfizer","2021-10-30",302
 "Limpopo","Pfizer","2021-10-31",13
 "Limpopo","Pfizer","2021-11-01",416
-"Limpopo","Pfizer","2021-11-02",2531
-"Limpopo","Pfizer","2021-11-03",2589
+"Limpopo","Pfizer","2021-11-02",2533
+"Limpopo","Pfizer","2021-11-03",2590
 "Limpopo","Pfizer","2021-11-04",2262
 "Limpopo","Pfizer","2021-11-05",1966
 "Limpopo","Pfizer","2021-11-06",265
 "Limpopo","Pfizer","2021-11-07",6
 "Limpopo","Pfizer","2021-11-08",1483
 "Limpopo","Pfizer","2021-11-09",1784
-"Limpopo","Pfizer","2021-11-10",1741
+"Limpopo","Pfizer","2021-11-10",1742
 "Limpopo","Pfizer","2021-11-11",1954
-"Limpopo","Pfizer","2021-11-12",1941
+"Limpopo","Pfizer","2021-11-12",1942
 "Limpopo","Pfizer","2021-11-13",968
 "Limpopo","Pfizer","2021-11-14",193
 "Limpopo","Pfizer","2021-11-15",2532
@@ -2326,31 +2335,32 @@
 "Limpopo","Pfizer","2021-11-19",1425
 "Limpopo","Pfizer","2021-11-20",208
 "Limpopo","Pfizer","2021-11-21",5
-"Limpopo","Pfizer","2021-11-22",1713
-"Limpopo","Pfizer","2021-11-23",2095
+"Limpopo","Pfizer","2021-11-22",1715
+"Limpopo","Pfizer","2021-11-23",2096
 "Limpopo","Pfizer","2021-11-24",2489
-"Limpopo","Pfizer","2021-11-25",2348
+"Limpopo","Pfizer","2021-11-25",2349
 "Limpopo","Pfizer","2021-11-26",2566
-"Limpopo","Pfizer","2021-11-27",887
+"Limpopo","Pfizer","2021-11-27",888
 "Limpopo","Pfizer","2021-11-28",63
-"Limpopo","Pfizer","2021-11-29",4007
-"Limpopo","Pfizer","2021-11-30",4575
-"Limpopo","Pfizer","2021-12-01",4002
-"Limpopo","Pfizer","2021-12-02",3732
-"Limpopo","Pfizer","2021-12-03",2612
-"Limpopo","Pfizer","2021-12-04",733
+"Limpopo","Pfizer","2021-11-29",4008
+"Limpopo","Pfizer","2021-11-30",4577
+"Limpopo","Pfizer","2021-12-01",4003
+"Limpopo","Pfizer","2021-12-02",3736
+"Limpopo","Pfizer","2021-12-03",2614
+"Limpopo","Pfizer","2021-12-04",735
 "Limpopo","Pfizer","2021-12-05",64
-"Limpopo","Pfizer","2021-12-06",2191
-"Limpopo","Pfizer","2021-12-07",2006
-"Limpopo","Pfizer","2021-12-08",2085
-"Limpopo","Pfizer","2021-12-09",2111
-"Limpopo","Pfizer","2021-12-10",1902
+"Limpopo","Pfizer","2021-12-06",2194
+"Limpopo","Pfizer","2021-12-07",2007
+"Limpopo","Pfizer","2021-12-08",2087
+"Limpopo","Pfizer","2021-12-09",2112
+"Limpopo","Pfizer","2021-12-10",1904
 "Limpopo","Pfizer","2021-12-11",623
 "Limpopo","Pfizer","2021-12-12",16
-"Limpopo","Pfizer","2021-12-13",1982
-"Limpopo","Pfizer","2021-12-14",1797
-"Limpopo","Pfizer","2021-12-15",1702
-"Limpopo","Pfizer","2021-12-16",321
+"Limpopo","Pfizer","2021-12-13",1983
+"Limpopo","Pfizer","2021-12-14",1802
+"Limpopo","Pfizer","2021-12-15",1714
+"Limpopo","Pfizer","2021-12-16",351
+"Limpopo","Pfizer","2021-12-17",1026
 "Mpumalanga","Johnson & Johnson","2021-02-19",532
 "Mpumalanga","Johnson & Johnson","2021-02-20",873
 "Mpumalanga","Johnson & Johnson","2021-02-21",1181
@@ -2364,9 +2374,9 @@
 "Mpumalanga","Johnson & Johnson","2021-03-06",1
 "Mpumalanga","Johnson & Johnson","2021-03-08",282
 "Mpumalanga","Johnson & Johnson","2021-03-09",533
-"Mpumalanga","Johnson & Johnson","2021-03-10",552
-"Mpumalanga","Johnson & Johnson","2021-03-11",564
-"Mpumalanga","Johnson & Johnson","2021-03-12",499
+"Mpumalanga","Johnson & Johnson","2021-03-10",553
+"Mpumalanga","Johnson & Johnson","2021-03-11",565
+"Mpumalanga","Johnson & Johnson","2021-03-12",509
 "Mpumalanga","Johnson & Johnson","2021-03-13",1
 "Mpumalanga","Johnson & Johnson","2021-03-15",93
 "Mpumalanga","Johnson & Johnson","2021-03-16",400
@@ -2464,9 +2474,9 @@
 "Mpumalanga","Johnson & Johnson","2021-07-23",1735
 "Mpumalanga","Johnson & Johnson","2021-07-24",14
 "Mpumalanga","Johnson & Johnson","2021-07-25",165
-"Mpumalanga","Johnson & Johnson","2021-07-26",865
+"Mpumalanga","Johnson & Johnson","2021-07-26",867
 "Mpumalanga","Johnson & Johnson","2021-07-27",1271
-"Mpumalanga","Johnson & Johnson","2021-07-28",3142
+"Mpumalanga","Johnson & Johnson","2021-07-28",3143
 "Mpumalanga","Johnson & Johnson","2021-07-29",3869
 "Mpumalanga","Johnson & Johnson","2021-07-30",3557
 "Mpumalanga","Johnson & Johnson","2021-07-31",851
@@ -2480,7 +2490,7 @@
 "Mpumalanga","Johnson & Johnson","2021-08-08",165
 "Mpumalanga","Johnson & Johnson","2021-08-09",1666
 "Mpumalanga","Johnson & Johnson","2021-08-10",3846
-"Mpumalanga","Johnson & Johnson","2021-08-11",3871
+"Mpumalanga","Johnson & Johnson","2021-08-11",3872
 "Mpumalanga","Johnson & Johnson","2021-08-12",3719
 "Mpumalanga","Johnson & Johnson","2021-08-13",2268
 "Mpumalanga","Johnson & Johnson","2021-08-14",1435
@@ -2488,7 +2498,7 @@
 "Mpumalanga","Johnson & Johnson","2021-08-16",2433
 "Mpumalanga","Johnson & Johnson","2021-08-17",2828
 "Mpumalanga","Johnson & Johnson","2021-08-18",2903
-"Mpumalanga","Johnson & Johnson","2021-08-19",2588
+"Mpumalanga","Johnson & Johnson","2021-08-19",2589
 "Mpumalanga","Johnson & Johnson","2021-08-20",4355
 "Mpumalanga","Johnson & Johnson","2021-08-21",1406
 "Mpumalanga","Johnson & Johnson","2021-08-22",257
@@ -2496,7 +2506,7 @@
 "Mpumalanga","Johnson & Johnson","2021-08-24",4216
 "Mpumalanga","Johnson & Johnson","2021-08-25",4253
 "Mpumalanga","Johnson & Johnson","2021-08-26",4811
-"Mpumalanga","Johnson & Johnson","2021-08-27",4459
+"Mpumalanga","Johnson & Johnson","2021-08-27",4460
 "Mpumalanga","Johnson & Johnson","2021-08-28",1732
 "Mpumalanga","Johnson & Johnson","2021-08-29",28
 "Mpumalanga","Johnson & Johnson","2021-08-30",4936
@@ -2551,7 +2561,7 @@
 "Mpumalanga","Johnson & Johnson","2021-10-18",7372
 "Mpumalanga","Johnson & Johnson","2021-10-19",7479
 "Mpumalanga","Johnson & Johnson","2021-10-20",7951
-"Mpumalanga","Johnson & Johnson","2021-10-21",8602
+"Mpumalanga","Johnson & Johnson","2021-10-21",8603
 "Mpumalanga","Johnson & Johnson","2021-10-22",7875
 "Mpumalanga","Johnson & Johnson","2021-10-23",2386
 "Mpumalanga","Johnson & Johnson","2021-10-24",209
@@ -2567,7 +2577,7 @@
 "Mpumalanga","Johnson & Johnson","2021-11-03",4882
 "Mpumalanga","Johnson & Johnson","2021-11-04",4905
 "Mpumalanga","Johnson & Johnson","2021-11-05",4758
-"Mpumalanga","Johnson & Johnson","2021-11-06",1868
+"Mpumalanga","Johnson & Johnson","2021-11-06",1869
 "Mpumalanga","Johnson & Johnson","2021-11-07",184
 "Mpumalanga","Johnson & Johnson","2021-11-08",4092
 "Mpumalanga","Johnson & Johnson","2021-11-09",4650
@@ -2584,15 +2594,15 @@
 "Mpumalanga","Johnson & Johnson","2021-11-20",1407
 "Mpumalanga","Johnson & Johnson","2021-11-21",109
 "Mpumalanga","Johnson & Johnson","2021-11-22",2803
-"Mpumalanga","Johnson & Johnson","2021-11-23",3522
+"Mpumalanga","Johnson & Johnson","2021-11-23",3523
 "Mpumalanga","Johnson & Johnson","2021-11-24",3775
 "Mpumalanga","Johnson & Johnson","2021-11-25",3288
 "Mpumalanga","Johnson & Johnson","2021-11-26",2655
 "Mpumalanga","Johnson & Johnson","2021-11-27",987
 "Mpumalanga","Johnson & Johnson","2021-11-28",72
-"Mpumalanga","Johnson & Johnson","2021-11-29",5043
-"Mpumalanga","Johnson & Johnson","2021-11-30",5075
-"Mpumalanga","Johnson & Johnson","2021-12-01",4894
+"Mpumalanga","Johnson & Johnson","2021-11-29",5044
+"Mpumalanga","Johnson & Johnson","2021-11-30",5103
+"Mpumalanga","Johnson & Johnson","2021-12-01",4897
 "Mpumalanga","Johnson & Johnson","2021-12-02",4825
 "Mpumalanga","Johnson & Johnson","2021-12-03",4369
 "Mpumalanga","Johnson & Johnson","2021-12-04",2640
@@ -2600,19 +2610,20 @@
 "Mpumalanga","Johnson & Johnson","2021-12-06",4382
 "Mpumalanga","Johnson & Johnson","2021-12-07",3857
 "Mpumalanga","Johnson & Johnson","2021-12-08",3821
-"Mpumalanga","Johnson & Johnson","2021-12-09",4045
-"Mpumalanga","Johnson & Johnson","2021-12-10",3199
+"Mpumalanga","Johnson & Johnson","2021-12-09",4046
+"Mpumalanga","Johnson & Johnson","2021-12-10",3205
 "Mpumalanga","Johnson & Johnson","2021-12-11",1514
 "Mpumalanga","Johnson & Johnson","2021-12-12",586
-"Mpumalanga","Johnson & Johnson","2021-12-13",2724
+"Mpumalanga","Johnson & Johnson","2021-12-13",2725
 "Mpumalanga","Johnson & Johnson","2021-12-14",3020
-"Mpumalanga","Johnson & Johnson","2021-12-15",2537
-"Mpumalanga","Johnson & Johnson","2021-12-16",187
+"Mpumalanga","Johnson & Johnson","2021-12-15",2551
+"Mpumalanga","Johnson & Johnson","2021-12-16",216
+"Mpumalanga","Johnson & Johnson","2021-12-17",1663
 "Mpumalanga","Pfizer","2021-05-17",361
 "Mpumalanga","Pfizer","2021-05-18",2978
 "Mpumalanga","Pfizer","2021-05-19",2033
 "Mpumalanga","Pfizer","2021-05-20",809
-"Mpumalanga","Pfizer","2021-05-21",1535
+"Mpumalanga","Pfizer","2021-05-21",1536
 "Mpumalanga","Pfizer","2021-05-22",5
 "Mpumalanga","Pfizer","2021-05-23",2
 "Mpumalanga","Pfizer","2021-05-24",2433
@@ -2643,7 +2654,7 @@
 "Mpumalanga","Pfizer","2021-06-18",3989
 "Mpumalanga","Pfizer","2021-06-19",61
 "Mpumalanga","Pfizer","2021-06-20",7
-"Mpumalanga","Pfizer","2021-06-21",4443
+"Mpumalanga","Pfizer","2021-06-21",4444
 "Mpumalanga","Pfizer","2021-06-22",4274
 "Mpumalanga","Pfizer","2021-06-23",2912
 "Mpumalanga","Pfizer","2021-06-24",2943
@@ -2654,27 +2665,27 @@
 "Mpumalanga","Pfizer","2021-06-29",3628
 "Mpumalanga","Pfizer","2021-06-30",3248
 "Mpumalanga","Pfizer","2021-07-01",2833
-"Mpumalanga","Pfizer","2021-07-02",2349
+"Mpumalanga","Pfizer","2021-07-02",2350
 "Mpumalanga","Pfizer","2021-07-03",53
 "Mpumalanga","Pfizer","2021-07-04",63
-"Mpumalanga","Pfizer","2021-07-05",3840
-"Mpumalanga","Pfizer","2021-07-06",4981
+"Mpumalanga","Pfizer","2021-07-05",3841
+"Mpumalanga","Pfizer","2021-07-06",4984
 "Mpumalanga","Pfizer","2021-07-07",6145
 "Mpumalanga","Pfizer","2021-07-08",5705
-"Mpumalanga","Pfizer","2021-07-09",5473
+"Mpumalanga","Pfizer","2021-07-09",5474
 "Mpumalanga","Pfizer","2021-07-10",946
 "Mpumalanga","Pfizer","2021-07-11",516
-"Mpumalanga","Pfizer","2021-07-12",6646
-"Mpumalanga","Pfizer","2021-07-13",5499
+"Mpumalanga","Pfizer","2021-07-12",6647
+"Mpumalanga","Pfizer","2021-07-13",5501
 "Mpumalanga","Pfizer","2021-07-14",5313
 "Mpumalanga","Pfizer","2021-07-15",6119
 "Mpumalanga","Pfizer","2021-07-16",7079
 "Mpumalanga","Pfizer","2021-07-17",520
 "Mpumalanga","Pfizer","2021-07-18",75
 "Mpumalanga","Pfizer","2021-07-19",8627
-"Mpumalanga","Pfizer","2021-07-20",9406
+"Mpumalanga","Pfizer","2021-07-20",9407
 "Mpumalanga","Pfizer","2021-07-21",10778
-"Mpumalanga","Pfizer","2021-07-22",10337
+"Mpumalanga","Pfizer","2021-07-22",10338
 "Mpumalanga","Pfizer","2021-07-23",8089
 "Mpumalanga","Pfizer","2021-07-24",1008
 "Mpumalanga","Pfizer","2021-07-25",92
@@ -2696,7 +2707,7 @@
 "Mpumalanga","Pfizer","2021-08-10",2677
 "Mpumalanga","Pfizer","2021-08-11",2950
 "Mpumalanga","Pfizer","2021-08-12",3203
-"Mpumalanga","Pfizer","2021-08-13",2925
+"Mpumalanga","Pfizer","2021-08-13",2924
 "Mpumalanga","Pfizer","2021-08-14",257
 "Mpumalanga","Pfizer","2021-08-15",14
 "Mpumalanga","Pfizer","2021-08-16",3146
@@ -2706,17 +2717,17 @@
 "Mpumalanga","Pfizer","2021-08-20",4736
 "Mpumalanga","Pfizer","2021-08-21",1164
 "Mpumalanga","Pfizer","2021-08-22",74
-"Mpumalanga","Pfizer","2021-08-23",6083
+"Mpumalanga","Pfizer","2021-08-23",6082
 "Mpumalanga","Pfizer","2021-08-24",6981
 "Mpumalanga","Pfizer","2021-08-25",7362
 "Mpumalanga","Pfizer","2021-08-26",7858
-"Mpumalanga","Pfizer","2021-08-27",6703
+"Mpumalanga","Pfizer","2021-08-27",6701
 "Mpumalanga","Pfizer","2021-08-28",1256
 "Mpumalanga","Pfizer","2021-08-29",124
 "Mpumalanga","Pfizer","2021-08-30",5517
-"Mpumalanga","Pfizer","2021-08-31",6001
+"Mpumalanga","Pfizer","2021-08-31",6000
 "Mpumalanga","Pfizer","2021-09-01",5455
-"Mpumalanga","Pfizer","2021-09-02",5214
+"Mpumalanga","Pfizer","2021-09-02",5213
 "Mpumalanga","Pfizer","2021-09-03",4405
 "Mpumalanga","Pfizer","2021-09-04",509
 "Mpumalanga","Pfizer","2021-09-05",26
@@ -2750,7 +2761,7 @@
 "Mpumalanga","Pfizer","2021-10-03",208
 "Mpumalanga","Pfizer","2021-10-04",1393
 "Mpumalanga","Pfizer","2021-10-05",1394
-"Mpumalanga","Pfizer","2021-10-06",941
+"Mpumalanga","Pfizer","2021-10-06",942
 "Mpumalanga","Pfizer","2021-10-07",1360
 "Mpumalanga","Pfizer","2021-10-08",1511
 "Mpumalanga","Pfizer","2021-10-09",456
@@ -2767,23 +2778,23 @@
 "Mpumalanga","Pfizer","2021-10-20",1487
 "Mpumalanga","Pfizer","2021-10-21",1439
 "Mpumalanga","Pfizer","2021-10-22",1170
-"Mpumalanga","Pfizer","2021-10-23",274
+"Mpumalanga","Pfizer","2021-10-23",275
 "Mpumalanga","Pfizer","2021-10-24",19
 "Mpumalanga","Pfizer","2021-10-25",872
 "Mpumalanga","Pfizer","2021-10-26",996
 "Mpumalanga","Pfizer","2021-10-27",894
 "Mpumalanga","Pfizer","2021-10-28",1201
 "Mpumalanga","Pfizer","2021-10-29",897
-"Mpumalanga","Pfizer","2021-10-30",269
+"Mpumalanga","Pfizer","2021-10-30",270
 "Mpumalanga","Pfizer","2021-10-31",85
 "Mpumalanga","Pfizer","2021-11-01",319
 "Mpumalanga","Pfizer","2021-11-02",1234
-"Mpumalanga","Pfizer","2021-11-03",1290
-"Mpumalanga","Pfizer","2021-11-04",1132
-"Mpumalanga","Pfizer","2021-11-05",1031
+"Mpumalanga","Pfizer","2021-11-03",1291
+"Mpumalanga","Pfizer","2021-11-04",1131
+"Mpumalanga","Pfizer","2021-11-05",1032
 "Mpumalanga","Pfizer","2021-11-06",252
 "Mpumalanga","Pfizer","2021-11-07",14
-"Mpumalanga","Pfizer","2021-11-08",750
+"Mpumalanga","Pfizer","2021-11-08",751
 "Mpumalanga","Pfizer","2021-11-09",956
 "Mpumalanga","Pfizer","2021-11-10",848
 "Mpumalanga","Pfizer","2021-11-11",1018
@@ -2798,30 +2809,31 @@
 "Mpumalanga","Pfizer","2021-11-20",198
 "Mpumalanga","Pfizer","2021-11-21",14
 "Mpumalanga","Pfizer","2021-11-22",786
-"Mpumalanga","Pfizer","2021-11-23",838
+"Mpumalanga","Pfizer","2021-11-23",839
 "Mpumalanga","Pfizer","2021-11-24",832
 "Mpumalanga","Pfizer","2021-11-25",806
 "Mpumalanga","Pfizer","2021-11-26",742
 "Mpumalanga","Pfizer","2021-11-27",201
 "Mpumalanga","Pfizer","2021-11-28",20
 "Mpumalanga","Pfizer","2021-11-29",1658
-"Mpumalanga","Pfizer","2021-11-30",1668
-"Mpumalanga","Pfizer","2021-12-01",1412
-"Mpumalanga","Pfizer","2021-12-02",1183
-"Mpumalanga","Pfizer","2021-12-03",1190
+"Mpumalanga","Pfizer","2021-11-30",1675
+"Mpumalanga","Pfizer","2021-12-01",1414
+"Mpumalanga","Pfizer","2021-12-02",1184
+"Mpumalanga","Pfizer","2021-12-03",1192
 "Mpumalanga","Pfizer","2021-12-04",494
 "Mpumalanga","Pfizer","2021-12-05",149
-"Mpumalanga","Pfizer","2021-12-06",1113
+"Mpumalanga","Pfizer","2021-12-06",1114
 "Mpumalanga","Pfizer","2021-12-07",1092
-"Mpumalanga","Pfizer","2021-12-08",1127
+"Mpumalanga","Pfizer","2021-12-08",1129
 "Mpumalanga","Pfizer","2021-12-09",1164
-"Mpumalanga","Pfizer","2021-12-10",983
+"Mpumalanga","Pfizer","2021-12-10",984
 "Mpumalanga","Pfizer","2021-12-11",286
-"Mpumalanga","Pfizer","2021-12-12",58
-"Mpumalanga","Pfizer","2021-12-13",930
+"Mpumalanga","Pfizer","2021-12-12",59
+"Mpumalanga","Pfizer","2021-12-13",931
 "Mpumalanga","Pfizer","2021-12-14",924
-"Mpumalanga","Pfizer","2021-12-15",831
-"Mpumalanga","Pfizer","2021-12-16",30
+"Mpumalanga","Pfizer","2021-12-15",841
+"Mpumalanga","Pfizer","2021-12-16",40
+"Mpumalanga","Pfizer","2021-12-17",532
 "Northern Cape","Johnson & Johnson","2021-02-17",20
 "Northern Cape","Johnson & Johnson","2021-02-18",176
 "Northern Cape","Johnson & Johnson","2021-02-19",294
@@ -3062,6 +3074,7 @@
 "Northern Cape","Johnson & Johnson","2021-12-14",953
 "Northern Cape","Johnson & Johnson","2021-12-15",663
 "Northern Cape","Johnson & Johnson","2021-12-16",38
+"Northern Cape","Johnson & Johnson","2021-12-17",349
 "Northern Cape","Pfizer","2021-05-17",178
 "Northern Cape","Pfizer","2021-05-18",308
 "Northern Cape","Pfizer","2021-05-19",341
@@ -3141,7 +3154,7 @@
 "Northern Cape","Pfizer","2021-08-12",1063
 "Northern Cape","Pfizer","2021-08-13",842
 "Northern Cape","Pfizer","2021-08-14",19
-"Northern Cape","Pfizer","2021-08-15",17
+"Northern Cape","Pfizer","2021-08-15",18
 "Northern Cape","Pfizer","2021-08-16",651
 "Northern Cape","Pfizer","2021-08-17",693
 "Northern Cape","Pfizer","2021-08-18",862
@@ -3202,21 +3215,21 @@
 "Northern Cape","Pfizer","2021-10-12",1347
 "Northern Cape","Pfizer","2021-10-13",1355
 "Northern Cape","Pfizer","2021-10-14",1396
-"Northern Cape","Pfizer","2021-10-15",1044
+"Northern Cape","Pfizer","2021-10-15",1047
 "Northern Cape","Pfizer","2021-10-16",146
 "Northern Cape","Pfizer","2021-10-17",117
 "Northern Cape","Pfizer","2021-10-18",705
 "Northern Cape","Pfizer","2021-10-19",594
 "Northern Cape","Pfizer","2021-10-20",532
 "Northern Cape","Pfizer","2021-10-21",582
-"Northern Cape","Pfizer","2021-10-22",441
+"Northern Cape","Pfizer","2021-10-22",442
 "Northern Cape","Pfizer","2021-10-23",85
 "Northern Cape","Pfizer","2021-10-24",13
 "Northern Cape","Pfizer","2021-10-25",463
 "Northern Cape","Pfizer","2021-10-26",598
 "Northern Cape","Pfizer","2021-10-27",558
-"Northern Cape","Pfizer","2021-10-28",536
-"Northern Cape","Pfizer","2021-10-29",465
+"Northern Cape","Pfizer","2021-10-28",537
+"Northern Cape","Pfizer","2021-10-29",466
 "Northern Cape","Pfizer","2021-10-30",47
 "Northern Cape","Pfizer","2021-10-31",10
 "Northern Cape","Pfizer","2021-11-01",89
@@ -3233,7 +3246,7 @@
 "Northern Cape","Pfizer","2021-11-12",543
 "Northern Cape","Pfizer","2021-11-13",196
 "Northern Cape","Pfizer","2021-11-14",88
-"Northern Cape","Pfizer","2021-11-15",453
+"Northern Cape","Pfizer","2021-11-15",454
 "Northern Cape","Pfizer","2021-11-16",446
 "Northern Cape","Pfizer","2021-11-17",399
 "Northern Cape","Pfizer","2021-11-18",464
@@ -3250,7 +3263,7 @@
 "Northern Cape","Pfizer","2021-11-29",614
 "Northern Cape","Pfizer","2021-11-30",754
 "Northern Cape","Pfizer","2021-12-01",611
-"Northern Cape","Pfizer","2021-12-02",583
+"Northern Cape","Pfizer","2021-12-02",584
 "Northern Cape","Pfizer","2021-12-03",583
 "Northern Cape","Pfizer","2021-12-04",209
 "Northern Cape","Pfizer","2021-12-05",105
@@ -3263,8 +3276,9 @@
 "Northern Cape","Pfizer","2021-12-12",80
 "Northern Cape","Pfizer","2021-12-13",437
 "Northern Cape","Pfizer","2021-12-14",335
-"Northern Cape","Pfizer","2021-12-15",288
+"Northern Cape","Pfizer","2021-12-15",289
 "Northern Cape","Pfizer","2021-12-16",16
+"Northern Cape","Pfizer","2021-12-17",177
 "North West","Johnson & Johnson","2021-02-18",270
 "North West","Johnson & Johnson","2021-02-19",693
 "North West","Johnson & Johnson","2021-02-20",541
@@ -3353,7 +3367,7 @@
 "North West","Johnson & Johnson","2021-07-11",1
 "North West","Johnson & Johnson","2021-07-12",1365
 "North West","Johnson & Johnson","2021-07-13",1726
-"North West","Johnson & Johnson","2021-07-14",1605
+"North West","Johnson & Johnson","2021-07-14",1606
 "North West","Johnson & Johnson","2021-07-15",696
 "North West","Johnson & Johnson","2021-07-16",1420
 "North West","Johnson & Johnson","2021-07-17",744
@@ -3375,7 +3389,7 @@
 "North West","Johnson & Johnson","2021-08-02",1920
 "North West","Johnson & Johnson","2021-08-03",1612
 "North West","Johnson & Johnson","2021-08-04",1459
-"North West","Johnson & Johnson","2021-08-05",2099
+"North West","Johnson & Johnson","2021-08-05",2100
 "North West","Johnson & Johnson","2021-08-06",2554
 "North West","Johnson & Johnson","2021-08-07",1497
 "North West","Johnson & Johnson","2021-08-08",150
@@ -3400,7 +3414,7 @@
 "North West","Johnson & Johnson","2021-08-27",5683
 "North West","Johnson & Johnson","2021-08-28",2833
 "North West","Johnson & Johnson","2021-08-29",1224
-"North West","Johnson & Johnson","2021-08-30",5665
+"North West","Johnson & Johnson","2021-08-30",5666
 "North West","Johnson & Johnson","2021-08-31",5769
 "North West","Johnson & Johnson","2021-09-01",5540
 "North West","Johnson & Johnson","2021-09-02",5446
@@ -3429,20 +3443,20 @@
 "North West","Johnson & Johnson","2021-09-25",2208
 "North West","Johnson & Johnson","2021-09-26",403
 "North West","Johnson & Johnson","2021-09-27",5623
-"North West","Johnson & Johnson","2021-09-28",5930
+"North West","Johnson & Johnson","2021-09-28",5931
 "North West","Johnson & Johnson","2021-09-29",5416
 "North West","Johnson & Johnson","2021-09-30",5693
-"North West","Johnson & Johnson","2021-10-01",6897
+"North West","Johnson & Johnson","2021-10-01",6898
 "North West","Johnson & Johnson","2021-10-02",7340
 "North West","Johnson & Johnson","2021-10-03",6522
 "North West","Johnson & Johnson","2021-10-04",4988
 "North West","Johnson & Johnson","2021-10-05",6070
 "North West","Johnson & Johnson","2021-10-06",6793
-"North West","Johnson & Johnson","2021-10-07",7150
+"North West","Johnson & Johnson","2021-10-07",7151
 "North West","Johnson & Johnson","2021-10-08",9424
 "North West","Johnson & Johnson","2021-10-09",6765
 "North West","Johnson & Johnson","2021-10-10",4438
-"North West","Johnson & Johnson","2021-10-11",6408
+"North West","Johnson & Johnson","2021-10-11",6409
 "North West","Johnson & Johnson","2021-10-12",7279
 "North West","Johnson & Johnson","2021-10-13",6691
 "North West","Johnson & Johnson","2021-10-14",7503
@@ -3456,7 +3470,7 @@
 "North West","Johnson & Johnson","2021-10-22",6258
 "North West","Johnson & Johnson","2021-10-23",6338
 "North West","Johnson & Johnson","2021-10-24",3706
-"North West","Johnson & Johnson","2021-10-25",4435
+"North West","Johnson & Johnson","2021-10-25",4436
 "North West","Johnson & Johnson","2021-10-26",5125
 "North West","Johnson & Johnson","2021-10-27",5250
 "North West","Johnson & Johnson","2021-10-28",4000
@@ -3475,8 +3489,8 @@
 "North West","Johnson & Johnson","2021-11-10",3234
 "North West","Johnson & Johnson","2021-11-11",3189
 "North West","Johnson & Johnson","2021-11-12",3016
-"North West","Johnson & Johnson","2021-11-13",3612
-"North West","Johnson & Johnson","2021-11-14",3050
+"North West","Johnson & Johnson","2021-11-13",3617
+"North West","Johnson & Johnson","2021-11-14",3051
 "North West","Johnson & Johnson","2021-11-15",2832
 "North West","Johnson & Johnson","2021-11-16",3140
 "North West","Johnson & Johnson","2021-11-17",2535
@@ -3491,24 +3505,25 @@
 "North West","Johnson & Johnson","2021-11-26",2310
 "North West","Johnson & Johnson","2021-11-27",1392
 "North West","Johnson & Johnson","2021-11-28",1464
-"North West","Johnson & Johnson","2021-11-29",3795
+"North West","Johnson & Johnson","2021-11-29",3800
 "North West","Johnson & Johnson","2021-11-30",4204
 "North West","Johnson & Johnson","2021-12-01",4546
 "North West","Johnson & Johnson","2021-12-02",3441
 "North West","Johnson & Johnson","2021-12-03",3367
-"North West","Johnson & Johnson","2021-12-04",1757
+"North West","Johnson & Johnson","2021-12-04",1758
 "North West","Johnson & Johnson","2021-12-05",1425
-"North West","Johnson & Johnson","2021-12-06",3014
-"North West","Johnson & Johnson","2021-12-07",3056
+"North West","Johnson & Johnson","2021-12-06",3015
+"North West","Johnson & Johnson","2021-12-07",3057
 "North West","Johnson & Johnson","2021-12-08",3125
 "North West","Johnson & Johnson","2021-12-09",2756
 "North West","Johnson & Johnson","2021-12-10",2631
 "North West","Johnson & Johnson","2021-12-11",1357
 "North West","Johnson & Johnson","2021-12-12",1035
-"North West","Johnson & Johnson","2021-12-13",1903
+"North West","Johnson & Johnson","2021-12-13",1909
 "North West","Johnson & Johnson","2021-12-14",2353
-"North West","Johnson & Johnson","2021-12-15",2218
-"North West","Johnson & Johnson","2021-12-16",703
+"North West","Johnson & Johnson","2021-12-15",2224
+"North West","Johnson & Johnson","2021-12-16",762
+"North West","Johnson & Johnson","2021-12-17",1405
 "North West","Pfizer","2021-05-17",693
 "North West","Pfizer","2021-05-18",1958
 "North West","Pfizer","2021-05-19",2775
@@ -3587,7 +3602,7 @@
 "North West","Pfizer","2021-07-31",1323
 "North West","Pfizer","2021-08-01",714
 "North West","Pfizer","2021-08-02",4948
-"North West","Pfizer","2021-08-03",5919
+"North West","Pfizer","2021-08-03",5920
 "North West","Pfizer","2021-08-04",6140
 "North West","Pfizer","2021-08-05",6094
 "North West","Pfizer","2021-08-06",5465
@@ -3637,7 +3652,7 @@
 "North West","Pfizer","2021-09-19",197
 "North West","Pfizer","2021-09-20",3477
 "North West","Pfizer","2021-09-21",3922
-"North West","Pfizer","2021-09-22",4120
+"North West","Pfizer","2021-09-22",4121
 "North West","Pfizer","2021-09-23",3682
 "North West","Pfizer","2021-09-24",445
 "North West","Pfizer","2021-09-25",451
@@ -3646,7 +3661,7 @@
 "North West","Pfizer","2021-09-28",3111
 "North West","Pfizer","2021-09-29",3555
 "North West","Pfizer","2021-09-30",2542
-"North West","Pfizer","2021-10-01",2765
+"North West","Pfizer","2021-10-01",2766
 "North West","Pfizer","2021-10-02",1088
 "North West","Pfizer","2021-10-03",620
 "North West","Pfizer","2021-10-04",3170
@@ -3660,7 +3675,7 @@
 "North West","Pfizer","2021-10-12",2293
 "North West","Pfizer","2021-10-13",2560
 "North West","Pfizer","2021-10-14",2607
-"North West","Pfizer","2021-10-15",2211
+"North West","Pfizer","2021-10-15",2212
 "North West","Pfizer","2021-10-16",357
 "North West","Pfizer","2021-10-17",76
 "North West","Pfizer","2021-10-18",2076
@@ -3668,20 +3683,20 @@
 "North West","Pfizer","2021-10-20",3115
 "North West","Pfizer","2021-10-21",2523
 "North West","Pfizer","2021-10-22",1978
-"North West","Pfizer","2021-10-23",693
-"North West","Pfizer","2021-10-24",287
-"North West","Pfizer","2021-10-25",1830
+"North West","Pfizer","2021-10-23",694
+"North West","Pfizer","2021-10-24",290
+"North West","Pfizer","2021-10-25",1833
 "North West","Pfizer","2021-10-26",2014
-"North West","Pfizer","2021-10-27",2047
+"North West","Pfizer","2021-10-27",2048
 "North West","Pfizer","2021-10-28",1900
-"North West","Pfizer","2021-10-29",1904
+"North West","Pfizer","2021-10-29",1905
 "North West","Pfizer","2021-10-30",485
 "North West","Pfizer","2021-10-31",242
 "North West","Pfizer","2021-11-01",690
 "North West","Pfizer","2021-11-02",1756
-"North West","Pfizer","2021-11-03",1618
-"North West","Pfizer","2021-11-04",1799
-"North West","Pfizer","2021-11-05",1429
+"North West","Pfizer","2021-11-03",1619
+"North West","Pfizer","2021-11-04",1802
+"North West","Pfizer","2021-11-05",1430
 "North West","Pfizer","2021-11-06",488
 "North West","Pfizer","2021-11-07",154
 "North West","Pfizer","2021-11-08",1177
@@ -3692,52 +3707,53 @@
 "North West","Pfizer","2021-11-13",866
 "North West","Pfizer","2021-11-14",406
 "North West","Pfizer","2021-11-15",1452
-"North West","Pfizer","2021-11-16",1358
-"North West","Pfizer","2021-11-17",1403
+"North West","Pfizer","2021-11-16",1359
+"North West","Pfizer","2021-11-17",1404
 "North West","Pfizer","2021-11-18",1393
 "North West","Pfizer","2021-11-19",1237
 "North West","Pfizer","2021-11-20",615
 "North West","Pfizer","2021-11-21",337
 "North West","Pfizer","2021-11-22",1390
 "North West","Pfizer","2021-11-23",1323
-"North West","Pfizer","2021-11-24",1465
+"North West","Pfizer","2021-11-24",1467
 "North West","Pfizer","2021-11-25",1357
-"North West","Pfizer","2021-11-26",1029
-"North West","Pfizer","2021-11-27",418
+"North West","Pfizer","2021-11-26",1030
+"North West","Pfizer","2021-11-27",419
 "North West","Pfizer","2021-11-28",223
 "North West","Pfizer","2021-11-29",2281
 "North West","Pfizer","2021-11-30",2269
-"North West","Pfizer","2021-12-01",2237
-"North West","Pfizer","2021-12-02",1916
-"North West","Pfizer","2021-12-03",1896
-"North West","Pfizer","2021-12-04",741
+"North West","Pfizer","2021-12-01",2239
+"North West","Pfizer","2021-12-02",1917
+"North West","Pfizer","2021-12-03",1897
+"North West","Pfizer","2021-12-04",742
 "North West","Pfizer","2021-12-05",332
-"North West","Pfizer","2021-12-06",2035
+"North West","Pfizer","2021-12-06",2039
 "North West","Pfizer","2021-12-07",1887
-"North West","Pfizer","2021-12-08",1785
-"North West","Pfizer","2021-12-09",1506
+"North West","Pfizer","2021-12-08",1787
+"North West","Pfizer","2021-12-09",1507
 "North West","Pfizer","2021-12-10",1566
 "North West","Pfizer","2021-12-11",594
 "North West","Pfizer","2021-12-12",338
 "North West","Pfizer","2021-12-13",1224
 "North West","Pfizer","2021-12-14",1550
-"North West","Pfizer","2021-12-15",1296
-"North West","Pfizer","2021-12-16",214
+"North West","Pfizer","2021-12-15",1297
+"North West","Pfizer","2021-12-16",225
+"North West","Pfizer","2021-12-17",886
 "Western Cape","Johnson & Johnson","2021-02-17",61
 "Western Cape","Johnson & Johnson","2021-02-18",293
 "Western Cape","Johnson & Johnson","2021-02-19",560
-"Western Cape","Johnson & Johnson","2021-02-20",788
+"Western Cape","Johnson & Johnson","2021-02-20",789
 "Western Cape","Johnson & Johnson","2021-02-21",904
 "Western Cape","Johnson & Johnson","2021-02-22",1080
-"Western Cape","Johnson & Johnson","2021-02-23",1427
+"Western Cape","Johnson & Johnson","2021-02-23",1428
 "Western Cape","Johnson & Johnson","2021-02-24",1709
 "Western Cape","Johnson & Johnson","2021-02-25",1696
-"Western Cape","Johnson & Johnson","2021-02-26",1638
+"Western Cape","Johnson & Johnson","2021-02-26",1641
 "Western Cape","Johnson & Johnson","2021-02-27",1258
 "Western Cape","Johnson & Johnson","2021-02-28",1241
 "Western Cape","Johnson & Johnson","2021-03-01",482
 "Western Cape","Johnson & Johnson","2021-03-02",794
-"Western Cape","Johnson & Johnson","2021-03-03",1068
+"Western Cape","Johnson & Johnson","2021-03-03",1069
 "Western Cape","Johnson & Johnson","2021-03-04",1399
 "Western Cape","Johnson & Johnson","2021-03-05",818
 "Western Cape","Johnson & Johnson","2021-03-08",523
@@ -3749,7 +3765,7 @@
 "Western Cape","Johnson & Johnson","2021-03-15",405
 "Western Cape","Johnson & Johnson","2021-03-16",2033
 "Western Cape","Johnson & Johnson","2021-03-17",1957
-"Western Cape","Johnson & Johnson","2021-03-18",960
+"Western Cape","Johnson & Johnson","2021-03-18",961
 "Western Cape","Johnson & Johnson","2021-03-19",487
 "Western Cape","Johnson & Johnson","2021-03-20",1
 "Western Cape","Johnson & Johnson","2021-03-21",5
@@ -3778,14 +3794,14 @@
 "Western Cape","Johnson & Johnson","2021-05-03",2055
 "Western Cape","Johnson & Johnson","2021-05-04",2150
 "Western Cape","Johnson & Johnson","2021-05-05",2480
-"Western Cape","Johnson & Johnson","2021-05-06",2589
+"Western Cape","Johnson & Johnson","2021-05-06",2590
 "Western Cape","Johnson & Johnson","2021-05-07",3154
 "Western Cape","Johnson & Johnson","2021-05-08",629
 "Western Cape","Johnson & Johnson","2021-05-10",2971
-"Western Cape","Johnson & Johnson","2021-05-11",4002
+"Western Cape","Johnson & Johnson","2021-05-11",4003
 "Western Cape","Johnson & Johnson","2021-05-12",5089
 "Western Cape","Johnson & Johnson","2021-05-13",4509
-"Western Cape","Johnson & Johnson","2021-05-14",3978
+"Western Cape","Johnson & Johnson","2021-05-14",3979
 "Western Cape","Johnson & Johnson","2021-05-15",542
 "Western Cape","Johnson & Johnson","2021-05-17",70
 "Western Cape","Johnson & Johnson","2021-05-20",6
@@ -3855,15 +3871,15 @@
 "Western Cape","Johnson & Johnson","2021-07-30",5252
 "Western Cape","Johnson & Johnson","2021-07-31",1632
 "Western Cape","Johnson & Johnson","2021-08-01",365
-"Western Cape","Johnson & Johnson","2021-08-02",4890
-"Western Cape","Johnson & Johnson","2021-08-03",7628
+"Western Cape","Johnson & Johnson","2021-08-02",4891
+"Western Cape","Johnson & Johnson","2021-08-03",7629
 "Western Cape","Johnson & Johnson","2021-08-04",7008
 "Western Cape","Johnson & Johnson","2021-08-05",8247
 "Western Cape","Johnson & Johnson","2021-08-06",6882
 "Western Cape","Johnson & Johnson","2021-08-07",1318
 "Western Cape","Johnson & Johnson","2021-08-08",200
 "Western Cape","Johnson & Johnson","2021-08-09",544
-"Western Cape","Johnson & Johnson","2021-08-10",6112
+"Western Cape","Johnson & Johnson","2021-08-10",6113
 "Western Cape","Johnson & Johnson","2021-08-11",5561
 "Western Cape","Johnson & Johnson","2021-08-12",7176
 "Western Cape","Johnson & Johnson","2021-08-13",6028
@@ -3877,9 +3893,9 @@
 "Western Cape","Johnson & Johnson","2021-08-21",3159
 "Western Cape","Johnson & Johnson","2021-08-22",6
 "Western Cape","Johnson & Johnson","2021-08-23",7409
-"Western Cape","Johnson & Johnson","2021-08-24",8623
+"Western Cape","Johnson & Johnson","2021-08-24",8632
 "Western Cape","Johnson & Johnson","2021-08-25",8442
-"Western Cape","Johnson & Johnson","2021-08-26",7584
+"Western Cape","Johnson & Johnson","2021-08-26",7585
 "Western Cape","Johnson & Johnson","2021-08-27",6685
 "Western Cape","Johnson & Johnson","2021-08-28",1502
 "Western Cape","Johnson & Johnson","2021-08-29",6
@@ -3914,7 +3930,7 @@
 "Western Cape","Johnson & Johnson","2021-09-27",2406
 "Western Cape","Johnson & Johnson","2021-09-28",2677
 "Western Cape","Johnson & Johnson","2021-09-29",2271
-"Western Cape","Johnson & Johnson","2021-09-30",2490
+"Western Cape","Johnson & Johnson","2021-09-30",2491
 "Western Cape","Johnson & Johnson","2021-10-01",2839
 "Western Cape","Johnson & Johnson","2021-10-02",2661
 "Western Cape","Johnson & Johnson","2021-10-03",1090
@@ -3928,46 +3944,46 @@
 "Western Cape","Johnson & Johnson","2021-10-11",3343
 "Western Cape","Johnson & Johnson","2021-10-12",4511
 "Western Cape","Johnson & Johnson","2021-10-13",4663
-"Western Cape","Johnson & Johnson","2021-10-14",5418
-"Western Cape","Johnson & Johnson","2021-10-15",5430
+"Western Cape","Johnson & Johnson","2021-10-14",5419
+"Western Cape","Johnson & Johnson","2021-10-15",5431
 "Western Cape","Johnson & Johnson","2021-10-16",1321
 "Western Cape","Johnson & Johnson","2021-10-17",22
 "Western Cape","Johnson & Johnson","2021-10-18",3998
 "Western Cape","Johnson & Johnson","2021-10-19",5935
 "Western Cape","Johnson & Johnson","2021-10-20",6783
 "Western Cape","Johnson & Johnson","2021-10-21",5982
-"Western Cape","Johnson & Johnson","2021-10-22",5482
+"Western Cape","Johnson & Johnson","2021-10-22",5483
 "Western Cape","Johnson & Johnson","2021-10-23",1769
 "Western Cape","Johnson & Johnson","2021-10-24",17
 "Western Cape","Johnson & Johnson","2021-10-25",3690
 "Western Cape","Johnson & Johnson","2021-10-26",5115
-"Western Cape","Johnson & Johnson","2021-10-27",5348
+"Western Cape","Johnson & Johnson","2021-10-27",5349
 "Western Cape","Johnson & Johnson","2021-10-28",4947
-"Western Cape","Johnson & Johnson","2021-10-29",4122
+"Western Cape","Johnson & Johnson","2021-10-29",4123
 "Western Cape","Johnson & Johnson","2021-10-30",1032
 "Western Cape","Johnson & Johnson","2021-10-31",96
 "Western Cape","Johnson & Johnson","2021-11-01",1317
 "Western Cape","Johnson & Johnson","2021-11-02",3633
 "Western Cape","Johnson & Johnson","2021-11-03",3885
-"Western Cape","Johnson & Johnson","2021-11-04",4666
+"Western Cape","Johnson & Johnson","2021-11-04",4667
 "Western Cape","Johnson & Johnson","2021-11-05",4266
-"Western Cape","Johnson & Johnson","2021-11-06",980
+"Western Cape","Johnson & Johnson","2021-11-06",981
 "Western Cape","Johnson & Johnson","2021-11-07",60
 "Western Cape","Johnson & Johnson","2021-11-08",2562
-"Western Cape","Johnson & Johnson","2021-11-09",3073
+"Western Cape","Johnson & Johnson","2021-11-09",3080
 "Western Cape","Johnson & Johnson","2021-11-10",3229
-"Western Cape","Johnson & Johnson","2021-11-11",3901
+"Western Cape","Johnson & Johnson","2021-11-11",3928
 "Western Cape","Johnson & Johnson","2021-11-12",3178
 "Western Cape","Johnson & Johnson","2021-11-13",2666
 "Western Cape","Johnson & Johnson","2021-11-14",813
-"Western Cape","Johnson & Johnson","2021-11-15",2094
+"Western Cape","Johnson & Johnson","2021-11-15",2095
 "Western Cape","Johnson & Johnson","2021-11-16",2543
-"Western Cape","Johnson & Johnson","2021-11-17",2275
+"Western Cape","Johnson & Johnson","2021-11-17",2276
 "Western Cape","Johnson & Johnson","2021-11-18",2978
 "Western Cape","Johnson & Johnson","2021-11-19",2752
 "Western Cape","Johnson & Johnson","2021-11-20",926
 "Western Cape","Johnson & Johnson","2021-11-21",171
-"Western Cape","Johnson & Johnson","2021-11-22",1605
+"Western Cape","Johnson & Johnson","2021-11-22",1606
 "Western Cape","Johnson & Johnson","2021-11-23",2449
 "Western Cape","Johnson & Johnson","2021-11-24",2931
 "Western Cape","Johnson & Johnson","2021-11-25",2753
@@ -3976,24 +3992,25 @@
 "Western Cape","Johnson & Johnson","2021-11-28",173
 "Western Cape","Johnson & Johnson","2021-11-29",2668
 "Western Cape","Johnson & Johnson","2021-11-30",3745
-"Western Cape","Johnson & Johnson","2021-12-01",3649
-"Western Cape","Johnson & Johnson","2021-12-02",3363
+"Western Cape","Johnson & Johnson","2021-12-01",3650
+"Western Cape","Johnson & Johnson","2021-12-02",3364
 "Western Cape","Johnson & Johnson","2021-12-03",3215
-"Western Cape","Johnson & Johnson","2021-12-04",2237
-"Western Cape","Johnson & Johnson","2021-12-05",912
-"Western Cape","Johnson & Johnson","2021-12-06",2231
+"Western Cape","Johnson & Johnson","2021-12-04",2242
+"Western Cape","Johnson & Johnson","2021-12-05",913
+"Western Cape","Johnson & Johnson","2021-12-06",2240
 "Western Cape","Johnson & Johnson","2021-12-07",3019
-"Western Cape","Johnson & Johnson","2021-12-08",3084
-"Western Cape","Johnson & Johnson","2021-12-09",3342
-"Western Cape","Johnson & Johnson","2021-12-10",3024
-"Western Cape","Johnson & Johnson","2021-12-11",788
+"Western Cape","Johnson & Johnson","2021-12-08",3085
+"Western Cape","Johnson & Johnson","2021-12-09",3368
+"Western Cape","Johnson & Johnson","2021-12-10",3053
+"Western Cape","Johnson & Johnson","2021-12-11",789
 "Western Cape","Johnson & Johnson","2021-12-12",81
-"Western Cape","Johnson & Johnson","2021-12-13",2032
-"Western Cape","Johnson & Johnson","2021-12-14",2349
-"Western Cape","Johnson & Johnson","2021-12-15",1998
-"Western Cape","Johnson & Johnson","2021-12-16",59
+"Western Cape","Johnson & Johnson","2021-12-13",2037
+"Western Cape","Johnson & Johnson","2021-12-14",2379
+"Western Cape","Johnson & Johnson","2021-12-15",2010
+"Western Cape","Johnson & Johnson","2021-12-16",63
+"Western Cape","Johnson & Johnson","2021-12-17",1250
 "Western Cape","Pfizer","2021-03-09",1
-"Western Cape","Pfizer","2021-05-17",840
+"Western Cape","Pfizer","2021-05-17",841
 "Western Cape","Pfizer","2021-05-18",1665
 "Western Cape","Pfizer","2021-05-19",2049
 "Western Cape","Pfizer","2021-05-20",2597
@@ -4009,7 +4026,7 @@
 "Western Cape","Pfizer","2021-05-31",10883
 "Western Cape","Pfizer","2021-06-01",14203
 "Western Cape","Pfizer","2021-06-02",15951
-"Western Cape","Pfizer","2021-06-03",14705
+"Western Cape","Pfizer","2021-06-03",14706
 "Western Cape","Pfizer","2021-06-04",12792
 "Western Cape","Pfizer","2021-06-05",522
 "Western Cape","Pfizer","2021-06-06",80
@@ -4026,7 +4043,7 @@
 "Western Cape","Pfizer","2021-06-18",14429
 "Western Cape","Pfizer","2021-06-19",318
 "Western Cape","Pfizer","2021-06-20",57
-"Western Cape","Pfizer","2021-06-21",11581
+"Western Cape","Pfizer","2021-06-21",11582
 "Western Cape","Pfizer","2021-06-22",11029
 "Western Cape","Pfizer","2021-06-23",10911
 "Western Cape","Pfizer","2021-06-24",10723
@@ -4036,7 +4053,7 @@
 "Western Cape","Pfizer","2021-06-28",6992
 "Western Cape","Pfizer","2021-06-29",10736
 "Western Cape","Pfizer","2021-06-30",11254
-"Western Cape","Pfizer","2021-07-01",10844
+"Western Cape","Pfizer","2021-07-01",10843
 "Western Cape","Pfizer","2021-07-02",14889
 "Western Cape","Pfizer","2021-07-03",1671
 "Western Cape","Pfizer","2021-07-04",1109
@@ -4050,7 +4067,7 @@
 "Western Cape","Pfizer","2021-07-12",18499
 "Western Cape","Pfizer","2021-07-13",18874
 "Western Cape","Pfizer","2021-07-14",17445
-"Western Cape","Pfizer","2021-07-15",19254
+"Western Cape","Pfizer","2021-07-15",19253
 "Western Cape","Pfizer","2021-07-16",23337
 "Western Cape","Pfizer","2021-07-17",3495
 "Western Cape","Pfizer","2021-07-18",806
@@ -4065,10 +4082,10 @@
 "Western Cape","Pfizer","2021-07-27",17234
 "Western Cape","Pfizer","2021-07-28",21338
 "Western Cape","Pfizer","2021-07-29",16123
-"Western Cape","Pfizer","2021-07-30",16659
+"Western Cape","Pfizer","2021-07-30",16660
 "Western Cape","Pfizer","2021-07-31",2204
 "Western Cape","Pfizer","2021-08-01",1014
-"Western Cape","Pfizer","2021-08-02",16021
+"Western Cape","Pfizer","2021-08-02",16020
 "Western Cape","Pfizer","2021-08-03",16254
 "Western Cape","Pfizer","2021-08-04",16860
 "Western Cape","Pfizer","2021-08-05",16191
@@ -4083,15 +4100,15 @@
 "Western Cape","Pfizer","2021-08-14",1754
 "Western Cape","Pfizer","2021-08-15",400
 "Western Cape","Pfizer","2021-08-16",11795
-"Western Cape","Pfizer","2021-08-17",11946
-"Western Cape","Pfizer","2021-08-18",10751
+"Western Cape","Pfizer","2021-08-17",11947
+"Western Cape","Pfizer","2021-08-18",10752
 "Western Cape","Pfizer","2021-08-19",12103
 "Western Cape","Pfizer","2021-08-20",28661
 "Western Cape","Pfizer","2021-08-21",5828
 "Western Cape","Pfizer","2021-08-22",1505
-"Western Cape","Pfizer","2021-08-23",27820
+"Western Cape","Pfizer","2021-08-23",27821
 "Western Cape","Pfizer","2021-08-24",27399
-"Western Cape","Pfizer","2021-08-25",30110
+"Western Cape","Pfizer","2021-08-25",30112
 "Western Cape","Pfizer","2021-08-26",27191
 "Western Cape","Pfizer","2021-08-27",27145
 "Western Cape","Pfizer","2021-08-28",5273
@@ -4100,24 +4117,24 @@
 "Western Cape","Pfizer","2021-08-31",21360
 "Western Cape","Pfizer","2021-09-01",22844
 "Western Cape","Pfizer","2021-09-02",23010
-"Western Cape","Pfizer","2021-09-03",24123
+"Western Cape","Pfizer","2021-09-03",24124
 "Western Cape","Pfizer","2021-09-04",5241
 "Western Cape","Pfizer","2021-09-05",418
-"Western Cape","Pfizer","2021-09-06",17957
-"Western Cape","Pfizer","2021-09-07",19189
-"Western Cape","Pfizer","2021-09-08",20227
-"Western Cape","Pfizer","2021-09-09",21237
+"Western Cape","Pfizer","2021-09-06",17958
+"Western Cape","Pfizer","2021-09-07",19190
+"Western Cape","Pfizer","2021-09-08",20228
+"Western Cape","Pfizer","2021-09-09",21238
 "Western Cape","Pfizer","2021-09-10",23598
 "Western Cape","Pfizer","2021-09-11",4280
 "Western Cape","Pfizer","2021-09-12",233
 "Western Cape","Pfizer","2021-09-13",19033
 "Western Cape","Pfizer","2021-09-14",21404
-"Western Cape","Pfizer","2021-09-15",22114
+"Western Cape","Pfizer","2021-09-15",22116
 "Western Cape","Pfizer","2021-09-16",21942
 "Western Cape","Pfizer","2021-09-17",22513
 "Western Cape","Pfizer","2021-09-18",4174
 "Western Cape","Pfizer","2021-09-19",458
-"Western Cape","Pfizer","2021-09-20",14638
+"Western Cape","Pfizer","2021-09-20",14639
 "Western Cape","Pfizer","2021-09-21",15878
 "Western Cape","Pfizer","2021-09-22",16533
 "Western Cape","Pfizer","2021-09-23",15302
@@ -4126,11 +4143,11 @@
 "Western Cape","Pfizer","2021-09-26",143
 "Western Cape","Pfizer","2021-09-27",10560
 "Western Cape","Pfizer","2021-09-28",12492
-"Western Cape","Pfizer","2021-09-29",12305
+"Western Cape","Pfizer","2021-09-29",12306
 "Western Cape","Pfizer","2021-09-30",12677
 "Western Cape","Pfizer","2021-10-01",13698
 "Western Cape","Pfizer","2021-10-02",8837
-"Western Cape","Pfizer","2021-10-03",4284
+"Western Cape","Pfizer","2021-10-03",4285
 "Western Cape","Pfizer","2021-10-04",10507
 "Western Cape","Pfizer","2021-10-05",11625
 "Western Cape","Pfizer","2021-10-06",12047
@@ -4140,41 +4157,41 @@
 "Western Cape","Pfizer","2021-10-10",388
 "Western Cape","Pfizer","2021-10-11",7616
 "Western Cape","Pfizer","2021-10-12",8153
-"Western Cape","Pfizer","2021-10-13",8744
-"Western Cape","Pfizer","2021-10-14",9156
+"Western Cape","Pfizer","2021-10-13",8745
+"Western Cape","Pfizer","2021-10-14",9157
 "Western Cape","Pfizer","2021-10-15",10416
 "Western Cape","Pfizer","2021-10-16",1738
 "Western Cape","Pfizer","2021-10-17",252
 "Western Cape","Pfizer","2021-10-18",6441
 "Western Cape","Pfizer","2021-10-19",7080
-"Western Cape","Pfizer","2021-10-20",7585
-"Western Cape","Pfizer","2021-10-21",7070
-"Western Cape","Pfizer","2021-10-22",7415
+"Western Cape","Pfizer","2021-10-20",7589
+"Western Cape","Pfizer","2021-10-21",7073
+"Western Cape","Pfizer","2021-10-22",7419
 "Western Cape","Pfizer","2021-10-23",1367
 "Western Cape","Pfizer","2021-10-24",97
-"Western Cape","Pfizer","2021-10-25",6353
-"Western Cape","Pfizer","2021-10-26",6818
+"Western Cape","Pfizer","2021-10-25",6354
+"Western Cape","Pfizer","2021-10-26",6819
 "Western Cape","Pfizer","2021-10-27",6673
-"Western Cape","Pfizer","2021-10-28",6384
-"Western Cape","Pfizer","2021-10-29",6284
-"Western Cape","Pfizer","2021-10-30",1171
+"Western Cape","Pfizer","2021-10-28",6391
+"Western Cape","Pfizer","2021-10-29",6286
+"Western Cape","Pfizer","2021-10-30",1172
 "Western Cape","Pfizer","2021-10-31",75
 "Western Cape","Pfizer","2021-11-01",558
-"Western Cape","Pfizer","2021-11-02",4957
-"Western Cape","Pfizer","2021-11-03",4810
-"Western Cape","Pfizer","2021-11-04",4949
-"Western Cape","Pfizer","2021-11-05",5171
+"Western Cape","Pfizer","2021-11-02",4959
+"Western Cape","Pfizer","2021-11-03",4813
+"Western Cape","Pfizer","2021-11-04",4953
+"Western Cape","Pfizer","2021-11-05",5179
 "Western Cape","Pfizer","2021-11-06",878
 "Western Cape","Pfizer","2021-11-07",49
 "Western Cape","Pfizer","2021-11-08",3891
-"Western Cape","Pfizer","2021-11-09",4576
-"Western Cape","Pfizer","2021-11-10",4833
-"Western Cape","Pfizer","2021-11-11",4667
-"Western Cape","Pfizer","2021-11-12",4894
+"Western Cape","Pfizer","2021-11-09",4597
+"Western Cape","Pfizer","2021-11-10",4835
+"Western Cape","Pfizer","2021-11-11",4669
+"Western Cape","Pfizer","2021-11-12",4896
 "Western Cape","Pfizer","2021-11-13",2190
 "Western Cape","Pfizer","2021-11-14",494
 "Western Cape","Pfizer","2021-11-15",3966
-"Western Cape","Pfizer","2021-11-16",4478
+"Western Cape","Pfizer","2021-11-16",4482
 "Western Cape","Pfizer","2021-11-17",3934
 "Western Cape","Pfizer","2021-11-18",4366
 "Western Cape","Pfizer","2021-11-19",4492
@@ -4184,24 +4201,25 @@
 "Western Cape","Pfizer","2021-11-23",4071
 "Western Cape","Pfizer","2021-11-24",4165
 "Western Cape","Pfizer","2021-11-25",4417
-"Western Cape","Pfizer","2021-11-26",4501
+"Western Cape","Pfizer","2021-11-26",4503
 "Western Cape","Pfizer","2021-11-27",933
 "Western Cape","Pfizer","2021-11-28",86
-"Western Cape","Pfizer","2021-11-29",6766
-"Western Cape","Pfizer","2021-11-30",7345
-"Western Cape","Pfizer","2021-12-01",7045
-"Western Cape","Pfizer","2021-12-02",6249
-"Western Cape","Pfizer","2021-12-03",6605
-"Western Cape","Pfizer","2021-12-04",2121
+"Western Cape","Pfizer","2021-11-29",6768
+"Western Cape","Pfizer","2021-11-30",7351
+"Western Cape","Pfizer","2021-12-01",7053
+"Western Cape","Pfizer","2021-12-02",6253
+"Western Cape","Pfizer","2021-12-03",6606
+"Western Cape","Pfizer","2021-12-04",2124
 "Western Cape","Pfizer","2021-12-05",486
-"Western Cape","Pfizer","2021-12-06",5383
-"Western Cape","Pfizer","2021-12-07",5641
-"Western Cape","Pfizer","2021-12-08",5445
-"Western Cape","Pfizer","2021-12-09",5206
-"Western Cape","Pfizer","2021-12-10",5121
+"Western Cape","Pfizer","2021-12-06",5391
+"Western Cape","Pfizer","2021-12-07",5645
+"Western Cape","Pfizer","2021-12-08",5447
+"Western Cape","Pfizer","2021-12-09",5214
+"Western Cape","Pfizer","2021-12-10",5126
 "Western Cape","Pfizer","2021-12-11",973
 "Western Cape","Pfizer","2021-12-12",104
-"Western Cape","Pfizer","2021-12-13",3995
-"Western Cape","Pfizer","2021-12-14",4010
-"Western Cape","Pfizer","2021-12-15",3525
-"Western Cape","Pfizer","2021-12-16",82
+"Western Cape","Pfizer","2021-12-13",4018
+"Western Cape","Pfizer","2021-12-14",4015
+"Western Cape","Pfizer","2021-12-15",3588
+"Western Cape","Pfizer","2021-12-16",86
+"Western Cape","Pfizer","2021-12-17",2617
