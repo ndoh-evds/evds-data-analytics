@@ -1,0 +1,730 @@
+Unnamed: 0,visit_date,province,district,age_group,sex,vaccine_manufacturer,vaccine_rollout_phase,health_sector,first_dose_total,second_dose_total,booster_dose_total,immunocompromised_booster_dose_total,continuous_booster_dose_total,sisonke_booster_dose_total,individuals_vaccinated_total,individuals_fully_vaccinated_total,total_vaccines_administered,total_population
+3480000,,Mpumalanga,Nkangala DM,35-49,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,9179.0
+3480001,,Mpumalanga,Nkangala DM,35-49,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,23433.0
+3480002,,Mpumalanga,Nkangala DM,35-49,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,33263.0
+3480003,,Mpumalanga,Nkangala DM,35-49,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,37955.0
+3480004,,Mpumalanga,Nkangala DM,35-49,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,53271.0
+3480005,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6684.0
+3480006,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,11573.0
+3480007,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,20408.0
+3480008,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,36063.0
+3480009,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,41012.0
+3480010,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,68021.0
+3480011,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,6684.0
+3480012,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,11573.0
+3480013,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,20408.0
+3480014,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,36063.0
+3480015,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,41012.0
+3480016,,Mpumalanga,Nkangala DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,68021.0
+3480017,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2056.0
+3480018,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3559.0
+3480019,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,10141.0
+3480020,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12793.0
+3480021,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,17367.0
+3480022,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,20820.0
+3480023,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,2056.0
+3480024,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,3559.0
+3480025,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,10141.0
+3480026,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,12793.0
+3480027,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,17367.0
+3480028,,Mpumalanga,Nkangala DM,50-59,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,20820.0
+3480029,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1394.0
+3480030,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2855.0
+3480031,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6981.0
+3480032,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,11122.0
+3480033,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12578.0
+3480034,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,21346.0
+3480035,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,1394.0
+3480036,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,2855.0
+3480037,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6981.0
+3480038,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,11122.0
+3480039,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,12578.0
+3480040,,Mpumalanga,Nkangala DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,21346.0
+3480041,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,National,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2666.0
+3480042,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,National,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3868.0
+3480043,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,National,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,11467.0
+3480044,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,National,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,17115.0
+3480045,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,National,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,17941.0
+3480046,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,National,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,19278.0
+3480047,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2666.0
+3480048,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3868.0
+3480049,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,11467.0
+3480050,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,17115.0
+3480051,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,17941.0
+3480052,,Mpumalanga,Nkangala DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,19278.0
+3480053,,Northern Cape,Frances Baard DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3060.0
+3480054,,Northern Cape,Frances Baard DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6881.0
+3480055,,Northern Cape,Frances Baard DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,8146.0
+3480056,,Northern Cape,Frances Baard DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,38244.0
+3480057,,Northern Cape,Frances Baard DM,35-49,Female,Johnson & Johnson,Sisonke,Public,15.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,15.0,2325.0
+3480058,,Northern Cape,Frances Baard DM,35-49,Female,Johnson & Johnson,Sisonke,Public,15.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,15.0,4676.0
+3480059,,Northern Cape,Frances Baard DM,35-49,Female,Johnson & Johnson,Sisonke,Public,15.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,15.0,5846.0
+3480060,,Northern Cape,Frances Baard DM,35-49,Female,Johnson & Johnson,Sisonke,Public,15.0,0.0,0.0,0.0,0.0,0.0,15.0,15.0,15.0,26139.0
+3480061,,Northern Cape,Frances Baard DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,2230.0
+3480062,,Northern Cape,Frances Baard DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,5540.0
+3480063,,Northern Cape,Frances Baard DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,6404.0
+3480064,,Northern Cape,Frances Baard DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,29897.0
+3480065,,Northern Cape,Frances Baard DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1079.0
+3480066,,Northern Cape,Frances Baard DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2163.0
+3480067,,Northern Cape,Frances Baard DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3019.0
+3480068,,Northern Cape,Frances Baard DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,13035.0
+3480069,,Northern Cape,Frances Baard DM,50-59,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,1100.0
+3480070,,Northern Cape,Frances Baard DM,50-59,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,2070.0
+3480071,,Northern Cape,Frances Baard DM,50-59,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,2496.0
+3480072,,Northern Cape,Frances Baard DM,50-59,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,10759.0
+3480073,,Northern Cape,Frances Baard DM,60+,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1816.0
+3480074,,Northern Cape,Frances Baard DM,60+,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3008.0
+3480075,,Northern Cape,Frances Baard DM,60+,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4579.0
+3480076,,Northern Cape,Frances Baard DM,60+,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,17975.0
+3480077,,Northern Cape,Frances Baard DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1029.0
+3480078,,Northern Cape,Frances Baard DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1975.0
+3480079,,Northern Cape,Frances Baard DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2750.0
+3480080,,Northern Cape,Frances Baard DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,10563.0
+3480081,,Northern Cape,J T Gaetsewe DM,35-49,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,4765.0
+3480082,,Northern Cape,J T Gaetsewe DM,35-49,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,7284.0
+3480083,,Northern Cape,J T Gaetsewe DM,35-49,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,12037.0
+3480084,,Northern Cape,J T Gaetsewe DM,35-49,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4769.0
+3480085,,Northern Cape,J T Gaetsewe DM,35-49,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,8289.0
+3480086,,Northern Cape,J T Gaetsewe DM,35-49,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12577.0
+3480087,,Northern Cape,J T Gaetsewe DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1770.0
+3480088,,Northern Cape,J T Gaetsewe DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4010.0
+3480089,,Northern Cape,J T Gaetsewe DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4469.0
+3480090,,Northern Cape,J T Gaetsewe DM,60+,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,1535.0
+3480091,,Northern Cape,J T Gaetsewe DM,60+,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,6133.0
+3480092,,Northern Cape,J T Gaetsewe DM,60+,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,6626.0
+3480093,,Northern Cape,J T Gaetsewe DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,1307.0
+3480094,,Northern Cape,J T Gaetsewe DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,3377.0
+3480095,,Northern Cape,J T Gaetsewe DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,3830.0
+3480096,,Northern Cape,Namakwa DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,882.0
+3480097,,Northern Cape,Namakwa DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1135.0
+3480098,,Northern Cape,Namakwa DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1156.0
+3480099,,Northern Cape,Namakwa DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1209.0
+3480100,,Northern Cape,Namakwa DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2063.0
+3480101,,Northern Cape,Namakwa DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4628.0
+3480102,,Northern Cape,Namakwa DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,553.0
+3480103,,Northern Cape,Namakwa DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,558.0
+3480104,,Northern Cape,Namakwa DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,628.0
+3480105,,Northern Cape,Namakwa DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,635.0
+3480106,,Northern Cape,Namakwa DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1305.0
+3480107,,Northern Cape,Namakwa DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3072.0
+3480108,,Northern Cape,Namakwa DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,421.0
+3480109,,Northern Cape,Namakwa DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,535.0
+3480110,,Northern Cape,Namakwa DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,591.0
+3480111,,Northern Cape,Namakwa DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,689.0
+3480112,,Northern Cape,Namakwa DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1051.0
+3480113,,Northern Cape,Namakwa DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2877.0
+3480114,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1067.0
+3480115,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1076.0
+3480116,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1525.0
+3480117,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1690.0
+3480118,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1914.0
+3480119,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,2559.0
+3480120,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,3408.0
+3480121,,Northern Cape,Pixley ka Seme DM,35-49,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,3692.0
+3480122,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1074.0
+3480123,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1343.0
+3480124,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1801.0
+3480125,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1983.0
+3480126,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,2305.0
+3480127,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,2888.0
+3480128,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,3962.0
+3480129,,Northern Cape,Pixley ka Seme DM,35-49,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,4010.0
+3480130,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,573.0
+3480131,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,638.0
+3480132,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,793.0
+3480133,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,811.0
+3480134,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,1235.0
+3480135,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,1518.0
+3480136,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,1687.0
+3480137,,Northern Cape,Pixley ka Seme DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2118.0
+3480138,,Northern Cape,ZF Mgcawu DM,18-34,Male,Johnson & Johnson,Sisonke,Public,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2166.0
+3480139,,Northern Cape,ZF Mgcawu DM,18-34,Male,Johnson & Johnson,Sisonke,Public,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3027.0
+3480140,,Northern Cape,ZF Mgcawu DM,18-34,Male,Johnson & Johnson,Sisonke,Public,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7883.0
+3480141,,Northern Cape,ZF Mgcawu DM,18-34,Male,Johnson & Johnson,Sisonke,Public,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15124.0
+3480142,,Northern Cape,ZF Mgcawu DM,18-34,Male,Johnson & Johnson,Sisonke,Public,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15846.0
+3480143,,Northern Cape,ZF Mgcawu DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1720.0
+3480144,,Northern Cape,ZF Mgcawu DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2065.0
+3480145,,Northern Cape,ZF Mgcawu DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3889.0
+3480146,,Northern Cape,ZF Mgcawu DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,7293.0
+3480147,,Northern Cape,ZF Mgcawu DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,12285.0
+3480148,,Northern Cape,ZF Mgcawu DM,35-49,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,2079.0
+3480149,,Northern Cape,ZF Mgcawu DM,35-49,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,2149.0
+3480150,,Northern Cape,ZF Mgcawu DM,35-49,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,4689.0
+3480151,,Northern Cape,ZF Mgcawu DM,35-49,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,9099.0
+3480152,,Northern Cape,ZF Mgcawu DM,35-49,Male,Johnson & Johnson,Sisonke,Public,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,13062.0
+3480153,,Northern Cape,ZF Mgcawu DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,867.0
+3480154,,Northern Cape,ZF Mgcawu DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,952.0
+3480155,,Northern Cape,ZF Mgcawu DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1672.0
+3480156,,Northern Cape,ZF Mgcawu DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3080.0
+3480157,,Northern Cape,ZF Mgcawu DM,50-59,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,5583.0
+3480158,,Northern Cape,ZF Mgcawu DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,966.0
+3480159,,Northern Cape,ZF Mgcawu DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1072.0
+3480160,,Northern Cape,ZF Mgcawu DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2267.0
+3480161,,Northern Cape,ZF Mgcawu DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4063.0
+3480162,,Northern Cape,ZF Mgcawu DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,7484.0
+3480163,,North West,Bojanala Platinum DM,18-34,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,7703.0
+3480164,,North West,Bojanala Platinum DM,18-34,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,24874.0
+3480165,,North West,Bojanala Platinum DM,18-34,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,28574.0
+3480166,,North West,Bojanala Platinum DM,18-34,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,81681.0
+3480167,,North West,Bojanala Platinum DM,18-34,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,105668.0
+3480168,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,9248.0
+3480169,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,22916.0
+3480170,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,32721.0
+3480171,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,105295.0
+3480172,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,140604.0
+3480173,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,9248.0
+3480174,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,22916.0
+3480175,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,32721.0
+3480176,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,105295.0
+3480177,,North West,Bojanala Platinum DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,140604.0
+3480178,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6792.0
+3480179,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,16452.0
+3480180,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,25689.0
+3480181,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,58535.0
+3480182,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,78954.0
+3480183,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,6792.0
+3480184,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,16452.0
+3480185,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,25689.0
+3480186,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,58535.0
+3480187,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,78954.0
+3480188,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6792.0
+3480189,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,16452.0
+3480190,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,25689.0
+3480191,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,58535.0
+3480192,,North West,Bojanala Platinum DM,35-49,Female,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,78954.0
+3480193,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,8386.0
+3480194,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,14614.0
+3480195,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,23090.0
+3480196,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,76741.0
+3480197,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,124395.0
+3480198,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Public,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,8386.0
+3480199,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Public,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,14614.0
+3480200,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Public,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,23090.0
+3480201,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Public,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,76741.0
+3480202,,North West,Bojanala Platinum DM,35-49,Male,Johnson & Johnson,Sisonke,Public,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,124395.0
+3480203,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2811.0
+3480204,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,9621.0
+3480205,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,13786.0
+3480206,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,25932.0
+3480207,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,26519.0
+3480208,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2811.0
+3480209,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,9621.0
+3480210,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,13786.0
+3480211,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,25932.0
+3480212,,North West,Bojanala Platinum DM,50-59,Female,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,26519.0
+3480213,,North West,Bojanala Platinum DM,50-59,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,2848.0
+3480214,,North West,Bojanala Platinum DM,50-59,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,6447.0
+3480215,,North West,Bojanala Platinum DM,50-59,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,11619.0
+3480216,,North West,Bojanala Platinum DM,50-59,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,27892.0
+3480217,,North West,Bojanala Platinum DM,50-59,Male,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,40809.0
+3480218,,North West,Bojanala Platinum DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3466.0
+3480219,,North West,Bojanala Platinum DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,16755.0
+3480220,,North West,Bojanala Platinum DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,19473.0
+3480221,,North West,Bojanala Platinum DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,22910.0
+3480222,,North West,Bojanala Platinum DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,28103.0
+3480223,,North West,Bojanala Platinum DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3547.0
+3480224,,North West,Bojanala Platinum DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12380.0
+3480225,,North West,Bojanala Platinum DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,15170.0
+3480226,,North West,Bojanala Platinum DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,20766.0
+3480227,,North West,Bojanala Platinum DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,25661.0
+3480228,,North West,Dr K Kaunda DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12184.0
+3480229,,North West,Dr K Kaunda DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,38691.0
+3480230,,North West,Dr K Kaunda DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,60805.0
+3480231,,North West,Dr K Kaunda DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,8301.0
+3480232,,North West,Dr K Kaunda DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,26986.0
+3480233,,North West,Dr K Kaunda DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,46897.0
+3480234,,North West,Dr K Kaunda DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,8301.0
+3480235,,North West,Dr K Kaunda DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,26986.0
+3480236,,North West,Dr K Kaunda DM,35-49,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,46897.0
+3480237,,North West,Dr K Kaunda DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,7756.0
+3480238,,North West,Dr K Kaunda DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,25285.0
+3480239,,North West,Dr K Kaunda DM,35-49,Male,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,47011.0
+3480240,,North West,Dr K Kaunda DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3712.0
+3480241,,North West,Dr K Kaunda DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12004.0
+3480242,,North West,Dr K Kaunda DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,22773.0
+3480243,,North West,Dr K Kaunda DM,50-59,Male,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,3546.0
+3480244,,North West,Dr K Kaunda DM,50-59,Male,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,10136.0
+3480245,,North West,Dr K Kaunda DM,50-59,Male,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,20697.0
+3480246,,North West,Dr K Kaunda DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3948.0
+3480247,,North West,Dr K Kaunda DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12977.0
+3480248,,North West,Dr K Kaunda DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,23603.0
+3480249,,North West,Dr K Kaunda DM,60+,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2878.0
+3480250,,North West,Dr K Kaunda DM,60+,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,9846.0
+3480251,,North West,Dr K Kaunda DM,60+,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,16244.0
+3480252,,North West,Ngaka Modiri Molema DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,13513.0
+3480253,,North West,Ngaka Modiri Molema DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,18713.0
+3480254,,North West,Ngaka Modiri Molema DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,21007.0
+3480255,,North West,Ngaka Modiri Molema DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,24972.0
+3480256,,North West,Ngaka Modiri Molema DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,45994.0
+3480257,,North West,Ngaka Modiri Molema DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12798.0
+3480258,,North West,Ngaka Modiri Molema DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,18758.0
+3480259,,North West,Ngaka Modiri Molema DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,22431.0
+3480260,,North West,Ngaka Modiri Molema DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,27240.0
+3480261,,North West,Ngaka Modiri Molema DM,18-34,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,46707.0
+3480262,,North West,Ngaka Modiri Molema DM,35-49,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,8222.0
+3480263,,North West,Ngaka Modiri Molema DM,35-49,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,11207.0
+3480264,,North West,Ngaka Modiri Molema DM,35-49,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,14533.0
+3480265,,North West,Ngaka Modiri Molema DM,35-49,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,15647.0
+3480266,,North West,Ngaka Modiri Molema DM,35-49,Female,Johnson & Johnson,Sisonke,Public,9.0,0.0,0.0,0.0,0.0,0.0,9.0,9.0,9.0,31136.0
+3480267,,North West,Ngaka Modiri Molema DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,7160.0
+3480268,,North West,Ngaka Modiri Molema DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,11256.0
+3480269,,North West,Ngaka Modiri Molema DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,14252.0
+3480270,,North West,Ngaka Modiri Molema DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,17496.0
+3480271,,North West,Ngaka Modiri Molema DM,35-49,Male,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,28176.0
+3480272,,North West,Ngaka Modiri Molema DM,50-59,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,4300.0
+3480273,,North West,Ngaka Modiri Molema DM,50-59,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,5750.0
+3480274,,North West,Ngaka Modiri Molema DM,50-59,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,7327.0
+3480275,,North West,Ngaka Modiri Molema DM,50-59,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,7564.0
+3480276,,North West,Ngaka Modiri Molema DM,50-59,Female,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,13167.0
+3480277,,North West,Ngaka Modiri Molema DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,3266.0
+3480278,,North West,Ngaka Modiri Molema DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,5151.0
+3480279,,North West,Ngaka Modiri Molema DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6092.0
+3480280,,North West,Ngaka Modiri Molema DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6575.0
+3480281,,North West,Ngaka Modiri Molema DM,50-59,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,9946.0
+3480282,,North West,Ngaka Modiri Molema DM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,7811.0
+3480283,,North West,Ngaka Modiri Molema DM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,7938.0
+3480284,,North West,Ngaka Modiri Molema DM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,9816.0
+3480285,,North West,Ngaka Modiri Molema DM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,11525.0
+3480286,,North West,Ngaka Modiri Molema DM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,15158.0
+3480287,,North West,Ngaka Modiri Molema DM,60+,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,4180.0
+3480288,,North West,Ngaka Modiri Molema DM,60+,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,4862.0
+3480289,,North West,Ngaka Modiri Molema DM,60+,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,5930.0
+3480290,,North West,Ngaka Modiri Molema DM,60+,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6689.0
+3480291,,North West,Ngaka Modiri Molema DM,60+,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,8362.0
+3480292,,North West,Ruth Segomotsi Mompati DM,35-49,Female,Johnson & Johnson,Sisonke,Public,16.0,0.0,0.0,0.0,0.0,0.0,16.0,16.0,16.0,4842.0
+3480293,,North West,Ruth Segomotsi Mompati DM,35-49,Female,Johnson & Johnson,Sisonke,Public,16.0,0.0,0.0,0.0,0.0,0.0,16.0,16.0,16.0,4843.0
+3480294,,North West,Ruth Segomotsi Mompati DM,35-49,Female,Johnson & Johnson,Sisonke,Public,16.0,0.0,0.0,0.0,0.0,0.0,16.0,16.0,16.0,5888.0
+3480295,,North West,Ruth Segomotsi Mompati DM,35-49,Female,Johnson & Johnson,Sisonke,Public,16.0,0.0,0.0,0.0,0.0,0.0,16.0,16.0,16.0,8940.0
+3480296,,North West,Ruth Segomotsi Mompati DM,35-49,Female,Johnson & Johnson,Sisonke,Public,16.0,0.0,0.0,0.0,0.0,0.0,16.0,16.0,16.0,12967.0
+3480297,,North West,Ruth Segomotsi Mompati DM,35-49,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,4451.0
+3480298,,North West,Ruth Segomotsi Mompati DM,35-49,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,4972.0
+3480299,,North West,Ruth Segomotsi Mompati DM,35-49,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,6294.0
+3480300,,North West,Ruth Segomotsi Mompati DM,35-49,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,6988.0
+3480301,,North West,Ruth Segomotsi Mompati DM,35-49,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,9375.0
+3480302,,North West,Ruth Segomotsi Mompati DM,50-59,Female,Johnson & Johnson,Sisonke,Public,18.0,0.0,0.0,0.0,0.0,0.0,18.0,18.0,18.0,2135.0
+3480303,,North West,Ruth Segomotsi Mompati DM,50-59,Female,Johnson & Johnson,Sisonke,Public,18.0,0.0,0.0,0.0,0.0,0.0,18.0,18.0,18.0,2391.0
+3480304,,North West,Ruth Segomotsi Mompati DM,50-59,Female,Johnson & Johnson,Sisonke,Public,18.0,0.0,0.0,0.0,0.0,0.0,18.0,18.0,18.0,2985.0
+3480305,,North West,Ruth Segomotsi Mompati DM,50-59,Female,Johnson & Johnson,Sisonke,Public,18.0,0.0,0.0,0.0,0.0,0.0,18.0,18.0,18.0,4548.0
+3480306,,North West,Ruth Segomotsi Mompati DM,50-59,Female,Johnson & Johnson,Sisonke,Public,18.0,0.0,0.0,0.0,0.0,0.0,18.0,18.0,18.0,6465.0
+3480307,,North West,Ruth Segomotsi Mompati DM,50-59,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,1806.0
+3480308,,North West,Ruth Segomotsi Mompati DM,50-59,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,1890.0
+3480309,,North West,Ruth Segomotsi Mompati DM,50-59,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,2454.0
+3480310,,North West,Ruth Segomotsi Mompati DM,50-59,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,3167.0
+3480311,,North West,Ruth Segomotsi Mompati DM,50-59,Male,Johnson & Johnson,Sisonke,Public,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,4548.0
+3480312,,North West,Ruth Segomotsi Mompati DM,60+,Female,Johnson & Johnson,Sisonke,Public,33.0,0.0,0.0,0.0,0.0,0.0,33.0,33.0,33.0,3100.0
+3480313,,North West,Ruth Segomotsi Mompati DM,60+,Female,Johnson & Johnson,Sisonke,Public,33.0,0.0,0.0,0.0,0.0,0.0,33.0,33.0,33.0,3418.0
+3480314,,North West,Ruth Segomotsi Mompati DM,60+,Female,Johnson & Johnson,Sisonke,Public,33.0,0.0,0.0,0.0,0.0,0.0,33.0,33.0,33.0,3667.0
+3480315,,North West,Ruth Segomotsi Mompati DM,60+,Female,Johnson & Johnson,Sisonke,Public,33.0,0.0,0.0,0.0,0.0,0.0,33.0,33.0,33.0,6067.0
+3480316,,North West,Ruth Segomotsi Mompati DM,60+,Female,Johnson & Johnson,Sisonke,Public,33.0,0.0,0.0,0.0,0.0,0.0,33.0,33.0,33.0,13658.0
+3480317,,North West,Ruth Segomotsi Mompati DM,60+,Male,Johnson & Johnson,Sisonke,Public,28.0,0.0,0.0,0.0,0.0,0.0,28.0,28.0,28.0,1928.0
+3480318,,North West,Ruth Segomotsi Mompati DM,60+,Male,Johnson & Johnson,Sisonke,Public,28.0,0.0,0.0,0.0,0.0,0.0,28.0,28.0,28.0,2117.0
+3480319,,North West,Ruth Segomotsi Mompati DM,60+,Male,Johnson & Johnson,Sisonke,Public,28.0,0.0,0.0,0.0,0.0,0.0,28.0,28.0,28.0,2139.0
+3480320,,North West,Ruth Segomotsi Mompati DM,60+,Male,Johnson & Johnson,Sisonke,Public,28.0,0.0,0.0,0.0,0.0,0.0,28.0,28.0,28.0,3948.0
+3480321,,North West,Ruth Segomotsi Mompati DM,60+,Male,Johnson & Johnson,Sisonke,Public,28.0,0.0,0.0,0.0,0.0,0.0,28.0,28.0,28.0,7513.0
+3480322,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,56978.0
+3480323,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,61390.0
+3480324,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,73657.0
+3480325,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,75240.0
+3480326,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,95220.0
+3480327,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,97394.0
+3480328,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,102647.0
+3480329,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Private,13.0,0.0,0.0,0.0,0.0,0.0,13.0,13.0,13.0,102860.0
+3480330,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,56978.0
+3480331,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,61390.0
+3480332,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,73657.0
+3480333,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,75240.0
+3480334,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,95220.0
+3480335,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,97394.0
+3480336,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,102647.0
+3480337,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,102860.0
+3480338,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,56978.0
+3480339,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,61390.0
+3480340,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,73657.0
+3480341,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,75240.0
+3480342,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,95220.0
+3480343,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,97394.0
+3480344,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,102647.0
+3480345,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,102860.0
+3480346,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,56978.0
+3480347,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,61390.0
+3480348,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,73657.0
+3480349,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,75240.0
+3480350,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,95220.0
+3480351,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,97394.0
+3480352,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,102647.0
+3480353,,Western Cape,Cape Town MM,18-34,Female,Johnson & Johnson,Sisonke,Public,48.0,0.0,0.0,0.0,0.0,0.0,48.0,48.0,48.0,102860.0
+3480354,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,57438.0
+3480355,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,62575.0
+3480356,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,76518.0
+3480357,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,81604.0
+3480358,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,98087.0
+3480359,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,102264.0
+3480360,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,102340.0
+3480361,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,National,Private,7.0,0.0,0.0,0.0,0.0,0.0,7.0,7.0,7.0,105421.0
+3480362,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,57438.0
+3480363,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,62575.0
+3480364,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,76518.0
+3480365,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,81604.0
+3480366,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,98087.0
+3480367,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,102264.0
+3480368,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,102340.0
+3480369,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Private,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,105421.0
+3480370,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,57438.0
+3480371,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,62575.0
+3480372,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,76518.0
+3480373,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,81604.0
+3480374,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,98087.0
+3480375,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,102264.0
+3480376,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,102340.0
+3480377,,Western Cape,Cape Town MM,18-34,Male,Johnson & Johnson,Sisonke,Public,168.0,0.0,0.0,0.0,0.0,0.0,168.0,168.0,168.0,105421.0
+3480378,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,44240.0
+3480379,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,49881.0
+3480380,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,54844.0
+3480381,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,58645.0
+3480382,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,67329.0
+3480383,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,69880.0
+3480384,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,78609.0
+3480385,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Private,20.0,0.0,0.0,0.0,0.0,0.0,20.0,20.0,20.0,80991.0
+3480386,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,44240.0
+3480387,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,49881.0
+3480388,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,54844.0
+3480389,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,58645.0
+3480390,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,67329.0
+3480391,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,69880.0
+3480392,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,78609.0
+3480393,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,National,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,80991.0
+3480394,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,44240.0
+3480395,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,49881.0
+3480396,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,54844.0
+3480397,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,58645.0
+3480398,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,67329.0
+3480399,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,69880.0
+3480400,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,78609.0
+3480401,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Private,43.0,0.0,0.0,0.0,0.0,0.0,43.0,43.0,43.0,80991.0
+3480402,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,44240.0
+3480403,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,49881.0
+3480404,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,54844.0
+3480405,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,58645.0
+3480406,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,67329.0
+3480407,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,69880.0
+3480408,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,78609.0
+3480409,,Western Cape,Cape Town MM,35-49,Female,Johnson & Johnson,Sisonke,Public,116.0,0.0,0.0,0.0,0.0,0.0,116.0,116.0,116.0,80991.0
+3480410,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,44530.0
+3480411,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,44995.0
+3480412,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,55869.0
+3480413,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,64208.0
+3480414,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,70502.0
+3480415,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,80285.0
+3480416,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,81149.0
+3480417,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,83584.0
+3480418,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,44530.0
+3480419,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,44995.0
+3480420,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,55869.0
+3480421,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,64208.0
+3480422,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,70502.0
+3480423,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,80285.0
+3480424,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,81149.0
+3480425,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,83584.0
+3480426,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,44530.0
+3480427,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,44995.0
+3480428,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,55869.0
+3480429,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,64208.0
+3480430,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,70502.0
+3480431,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,80285.0
+3480432,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,81149.0
+3480433,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Private,58.0,0.0,0.0,0.0,0.0,0.0,58.0,58.0,58.0,83584.0
+3480434,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,44530.0
+3480435,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,44995.0
+3480436,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,55869.0
+3480437,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,64208.0
+3480438,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,70502.0
+3480439,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,80285.0
+3480440,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,81149.0
+3480441,,Western Cape,Cape Town MM,35-49,Male,Johnson & Johnson,Sisonke,Public,177.0,0.0,0.0,0.0,0.0,0.0,177.0,177.0,177.0,83584.0
+3480442,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,20904.0
+3480443,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,22929.0
+3480444,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,25632.0
+3480445,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,28735.0
+3480446,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,32267.0
+3480447,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,34141.0
+3480448,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,34657.0
+3480449,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,National,Private,17.0,0.0,0.0,0.0,0.0,0.0,17.0,17.0,17.0,41558.0
+3480450,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,20904.0
+3480451,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,22929.0
+3480452,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,25632.0
+3480453,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,28735.0
+3480454,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,32267.0
+3480455,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,34141.0
+3480456,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,34657.0
+3480457,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Private,22.0,0.0,0.0,0.0,0.0,0.0,22.0,22.0,22.0,41558.0
+3480458,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,20904.0
+3480459,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,22929.0
+3480460,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,25632.0
+3480461,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,28735.0
+3480462,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,32267.0
+3480463,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,34141.0
+3480464,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,34657.0
+3480465,,Western Cape,Cape Town MM,50-59,Female,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,41558.0
+3480466,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,15547.0
+3480467,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,17444.0
+3480468,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,24527.0
+3480469,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,25390.0
+3480470,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,26867.0
+3480471,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,30170.0
+3480472,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,34088.0
+3480473,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Private,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,35671.0
+3480474,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,15547.0
+3480475,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,17444.0
+3480476,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,24527.0
+3480477,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,25390.0
+3480478,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,26867.0
+3480479,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,30170.0
+3480480,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,34088.0
+3480481,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,35671.0
+3480482,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,15547.0
+3480483,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,17444.0
+3480484,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,24527.0
+3480485,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,25390.0
+3480486,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,26867.0
+3480487,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,30170.0
+3480488,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,34088.0
+3480489,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Private,38.0,0.0,0.0,0.0,0.0,0.0,38.0,38.0,38.0,35671.0
+3480490,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,15547.0
+3480491,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,17444.0
+3480492,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,24527.0
+3480493,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,25390.0
+3480494,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,26867.0
+3480495,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,30170.0
+3480496,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,34088.0
+3480497,,Western Cape,Cape Town MM,50-59,Male,Johnson & Johnson,Sisonke,Public,30.0,0.0,0.0,0.0,0.0,0.0,30.0,30.0,30.0,35671.0
+3480498,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,11576.0
+3480499,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,28107.0
+3480500,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,28232.0
+3480501,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,37837.0
+3480502,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,39060.0
+3480503,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,39273.0
+3480504,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,42992.0
+3480505,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,49453.0
+3480506,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,11576.0
+3480507,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,28107.0
+3480508,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,28232.0
+3480509,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,37837.0
+3480510,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,39060.0
+3480511,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,39273.0
+3480512,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,42992.0
+3480513,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,49453.0
+3480514,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,11576.0
+3480515,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,28107.0
+3480516,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,28232.0
+3480517,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,37837.0
+3480518,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,39060.0
+3480519,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,39273.0
+3480520,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,42992.0
+3480521,,Western Cape,Cape Town MM,60+,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,49453.0
+3480522,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,7439.0
+3480523,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,16643.0
+3480524,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,20584.0
+3480525,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,28342.0
+3480526,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,28980.0
+3480527,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,29048.0
+3480528,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,31160.0
+3480529,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Private,8.0,0.0,0.0,0.0,0.0,0.0,8.0,8.0,8.0,39367.0
+3480530,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,7439.0
+3480531,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,16643.0
+3480532,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,20584.0
+3480533,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,28342.0
+3480534,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,28980.0
+3480535,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,29048.0
+3480536,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,31160.0
+3480537,,Western Cape,Cape Town MM,60+,Male,Johnson & Johnson,Sisonke,Public,12.0,0.0,0.0,0.0,0.0,0.0,12.0,12.0,12.0,39367.0
+3480538,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,7439.0
+3480539,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,16643.0
+3480540,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,20584.0
+3480541,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,28342.0
+3480542,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,28980.0
+3480543,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,29048.0
+3480544,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,31160.0
+3480545,,Western Cape,Cape Town MM,60+,Male,Pfizer,National,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,1.0,39367.0
+3480546,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,15365.0
+3480547,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,21494.0
+3480548,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,27281.0
+3480549,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,34287.0
+3480550,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,40385.0
+3480551,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,15365.0
+3480552,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,21494.0
+3480553,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,27281.0
+3480554,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,34287.0
+3480555,,Western Cape,Cape Winelands DM,18-34,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,40385.0
+3480556,,Western Cape,Cape Winelands DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,15789.0
+3480557,,Western Cape,Cape Winelands DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,26856.0
+3480558,,Western Cape,Cape Winelands DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,27998.0
+3480559,,Western Cape,Cape Winelands DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,34827.0
+3480560,,Western Cape,Cape Winelands DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,43501.0
+3480561,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12899.0
+3480562,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,15462.0
+3480563,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,18190.0
+3480564,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,20075.0
+3480565,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,31297.0
+3480566,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12899.0
+3480567,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,15462.0
+3480568,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,18190.0
+3480569,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,20075.0
+3480570,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,31297.0
+3480571,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,12899.0
+3480572,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,15462.0
+3480573,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,18190.0
+3480574,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,20075.0
+3480575,,Western Cape,Cape Winelands DM,35-49,Female,Johnson & Johnson,Sisonke,Public,10.0,0.0,0.0,0.0,0.0,0.0,10.0,10.0,10.0,31297.0
+3480576,,Western Cape,Cape Winelands DM,35-49,Male,Johnson & Johnson,Sisonke,Public,14.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,14.0,12547.0
+3480577,,Western Cape,Cape Winelands DM,35-49,Male,Johnson & Johnson,Sisonke,Public,14.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,14.0,17189.0
+3480578,,Western Cape,Cape Winelands DM,35-49,Male,Johnson & Johnson,Sisonke,Public,14.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,14.0,18286.0
+3480579,,Western Cape,Cape Winelands DM,35-49,Male,Johnson & Johnson,Sisonke,Public,14.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,14.0,19634.0
+3480580,,Western Cape,Cape Winelands DM,35-49,Male,Johnson & Johnson,Sisonke,Public,14.0,0.0,0.0,0.0,0.0,0.0,14.0,14.0,14.0,32296.0
+3480581,,Western Cape,Cape Winelands DM,50-59,Female,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,6154.0
+3480582,,Western Cape,Cape Winelands DM,50-59,Female,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,6982.0
+3480583,,Western Cape,Cape Winelands DM,50-59,Female,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,8905.0
+3480584,,Western Cape,Cape Winelands DM,50-59,Female,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,10689.0
+3480585,,Western Cape,Cape Winelands DM,50-59,Female,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,16496.0
+3480586,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4896.0
+3480587,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6075.0
+3480588,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,7379.0
+3480589,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,8100.0
+3480590,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,13711.0
+3480591,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,4896.0
+3480592,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,6075.0
+3480593,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,7379.0
+3480594,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,8100.0
+3480595,,Western Cape,Cape Winelands DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,13711.0
+3480596,,Western Cape,Cape Winelands DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,4471.0
+3480597,,Western Cape,Cape Winelands DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,4680.0
+3480598,,Western Cape,Cape Winelands DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,6772.0
+3480599,,Western Cape,Cape Winelands DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,7037.0
+3480600,,Western Cape,Cape Winelands DM,60+,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,10641.0
+3480601,,Western Cape,Central Karoo DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,540.0
+3480602,,Western Cape,Central Karoo DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,697.0
+3480603,,Western Cape,Central Karoo DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2705.0
+3480604,,Western Cape,Garden Route DM,18-34,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2855.0
+3480605,,Western Cape,Garden Route DM,18-34,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,6076.0
+3480606,,Western Cape,Garden Route DM,18-34,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,10019.0
+3480607,,Western Cape,Garden Route DM,18-34,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,10852.0
+3480608,,Western Cape,Garden Route DM,18-34,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,11740.0
+3480609,,Western Cape,Garden Route DM,18-34,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,12891.0
+3480610,,Western Cape,Garden Route DM,18-34,Female,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,30021.0
+3480611,,Western Cape,Garden Route DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2644.0
+3480612,,Western Cape,Garden Route DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,5772.0
+3480613,,Western Cape,Garden Route DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,10190.0
+3480614,,Western Cape,Garden Route DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,10968.0
+3480615,,Western Cape,Garden Route DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,11340.0
+3480616,,Western Cape,Garden Route DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,12898.0
+3480617,,Western Cape,Garden Route DM,18-34,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,30619.0
+3480618,,Western Cape,Garden Route DM,35-49,Female,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,2264.0
+3480619,,Western Cape,Garden Route DM,35-49,Female,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,5168.0
+3480620,,Western Cape,Garden Route DM,35-49,Female,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,6402.0
+3480621,,Western Cape,Garden Route DM,35-49,Female,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,6978.0
+3480622,,Western Cape,Garden Route DM,35-49,Female,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,8711.0
+3480623,,Western Cape,Garden Route DM,35-49,Female,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,8913.0
+3480624,,Western Cape,Garden Route DM,35-49,Female,Johnson & Johnson,Sisonke,Public,11.0,0.0,0.0,0.0,0.0,0.0,11.0,11.0,11.0,21228.0
+3480625,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1967.0
+3480626,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4770.0
+3480627,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6616.0
+3480628,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6947.0
+3480629,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,7615.0
+3480630,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,8214.0
+3480631,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,19874.0
+3480632,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,1967.0
+3480633,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,4770.0
+3480634,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6616.0
+3480635,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,6947.0
+3480636,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,7615.0
+3480637,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,8214.0
+3480638,,Western Cape,Garden Route DM,35-49,Male,Johnson & Johnson,Sisonke,Public,6.0,0.0,0.0,0.0,0.0,0.0,6.0,6.0,6.0,19874.0
+3480639,,Western Cape,Garden Route DM,50-59,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,1343.0
+3480640,,Western Cape,Garden Route DM,50-59,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,2991.0
+3480641,,Western Cape,Garden Route DM,50-59,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,3469.0
+3480642,,Western Cape,Garden Route DM,50-59,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,3907.0
+3480643,,Western Cape,Garden Route DM,50-59,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5795.0
+3480644,,Western Cape,Garden Route DM,50-59,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,5949.0
+3480645,,Western Cape,Garden Route DM,50-59,Female,Johnson & Johnson,Sisonke,Public,5.0,0.0,0.0,0.0,0.0,0.0,5.0,5.0,5.0,12139.0
+3480646,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1067.0
+3480647,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2562.0
+3480648,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2780.0
+3480649,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3111.0
+3480650,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4205.0
+3480651,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4637.0
+3480652,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,National,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,9777.0
+3480653,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,1067.0
+3480654,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2562.0
+3480655,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,2780.0
+3480656,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3111.0
+3480657,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4205.0
+3480658,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4637.0
+3480659,,Western Cape,Garden Route DM,50-59,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,9777.0
+3480660,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1672.0
+3480661,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3656.0
+3480662,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5903.0
+3480663,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5979.0
+3480664,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,7055.0
+3480665,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,10032.0
+3480666,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,14081.0
+3480667,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,1672.0
+3480668,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3656.0
+3480669,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5903.0
+3480670,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5979.0
+3480671,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,7055.0
+3480672,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,10032.0
+3480673,,Western Cape,Garden Route DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,14081.0
+3480674,,Western Cape,Overberg DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4559.0
+3480675,,Western Cape,Overberg DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5001.0
+3480676,,Western Cape,Overberg DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,15699.0
+3480677,,Western Cape,Overberg DM,18-34,Female,Johnson & Johnson,Sisonke,Private,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,17220.0
+3480678,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3737.0
+3480679,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4055.0
+3480680,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,8981.0
+3480681,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,12336.0
+3480682,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3737.0
+3480683,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4055.0
+3480684,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,8981.0
+3480685,,Western Cape,Overberg DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,12336.0
+3480686,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,3836.0
+3480687,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,4095.0
+3480688,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,10153.0
+3480689,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Private,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,14079.0
+3480690,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,3836.0
+3480691,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,4095.0
+3480692,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,10153.0
+3480693,,Western Cape,Overberg DM,35-49,Male,Johnson & Johnson,Sisonke,Public,4.0,0.0,0.0,0.0,0.0,0.0,4.0,4.0,4.0,14079.0
+3480694,,Western Cape,West Coast DM,18-34,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,8919.0
+3480695,,Western Cape,West Coast DM,18-34,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,10174.0
+3480696,,Western Cape,West Coast DM,18-34,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,10867.0
+3480697,,Western Cape,West Coast DM,18-34,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,20706.0
+3480698,,Western Cape,West Coast DM,18-34,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,21209.0
+3480699,,Western Cape,West Coast DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6406.0
+3480700,,Western Cape,West Coast DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6989.0
+3480701,,Western Cape,West Coast DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,8232.0
+3480702,,Western Cape,West Coast DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,11714.0
+3480703,,Western Cape,West Coast DM,35-49,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,13847.0
+3480704,,Western Cape,West Coast DM,35-49,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,6140.0
+3480705,,Western Cape,West Coast DM,35-49,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,7503.0
+3480706,,Western Cape,West Coast DM,35-49,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,7928.0
+3480707,,Western Cape,West Coast DM,35-49,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,12202.0
+3480708,,Western Cape,West Coast DM,35-49,Male,Johnson & Johnson,Sisonke,Public,3.0,0.0,0.0,0.0,0.0,0.0,3.0,3.0,3.0,14830.0
+3480709,,Western Cape,West Coast DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3216.0
+3480710,,Western Cape,West Coast DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3910.0
+3480711,,Western Cape,West Coast DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3934.0
+3480712,,Western Cape,West Coast DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6339.0
+3480713,,Western Cape,West Coast DM,50-59,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6813.0
+3480714,,Western Cape,West Coast DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,2834.0
+3480715,,Western Cape,West Coast DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,3487.0
+3480716,,Western Cape,West Coast DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,3644.0
+3480717,,Western Cape,West Coast DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,5060.0
+3480718,,Western Cape,West Coast DM,50-59,Male,Johnson & Johnson,Sisonke,Public,2.0,0.0,0.0,0.0,0.0,0.0,2.0,2.0,2.0,5788.0
+3480719,,Western Cape,West Coast DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2674.0
+3480720,,Western Cape,West Coast DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,3623.0
+3480721,,Western Cape,West Coast DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4039.0
+3480722,,Western Cape,West Coast DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,5541.0
+3480723,,Western Cape,West Coast DM,60+,Female,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,6816.0
+3480724,,Western Cape,West Coast DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2107.0
+3480725,,Western Cape,West Coast DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2475.0
+3480726,,Western Cape,West Coast DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,2667.0
+3480727,,Western Cape,West Coast DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4027.0
+3480728,,Western Cape,West Coast DM,60+,Male,Johnson & Johnson,Sisonke,Public,1.0,0.0,0.0,0.0,0.0,0.0,1.0,1.0,1.0,4633.0
